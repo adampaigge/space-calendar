@@ -1,0 +1,1088 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Space Calendar — UK Space Industry Events</title>
+<meta name="description" content="Every UK space industry event in one place. Subscribe via iCal or Google Calendar. Auto-updated every 6 hours.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --bg:       #080808;
+    --bg1:      #0e0e0e;
+    --bg2:      #141414;
+    --border:   #1e1e1e;
+    --border2:  #2a2a2a;
+    --text:     #e0d8c4;
+    --dim:      #7a7264;
+    --dimmer:   #3a3630;
+    --orange:   #e8622a;
+    --orange-d: #b04a1e;
+    --blue:     #3a8fff;
+    --green:    #3aff8a;
+    --cream:    #f0e8d0;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 13px;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  /* ── Scanline texture overlay ── */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,0,0,0.04) 2px,
+      rgba(0,0,0,0.04) 4px
+    );
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+  a { color: inherit; text-decoration: none; }
+  button { cursor: pointer; background: none; border: none; font: inherit; color: inherit; }
+
+  /* ── Header ── */
+  .header {
+    border-bottom: 1px solid var(--border);
+    padding: 14px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    background: var(--bg1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .logo-mark {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+  }
+
+  .logo-text {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: var(--cream);
+    text-transform: uppercase;
+  }
+
+  .header-rule {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, var(--border2), transparent);
+  }
+
+  .header-meta {
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    color: var(--dim);
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .header-links {
+    display: flex;
+    gap: 16px;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    color: var(--dim);
+    text-transform: uppercase;
+  }
+
+  .header-links a:hover { color: var(--orange); }
+
+  /* ── Status bar ── */
+  .status-bar {
+    background: var(--bg1);
+    border-bottom: 1px solid var(--border);
+    padding: 8px 24px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: var(--dim);
+  }
+
+  .status-bar .val { color: var(--text); }
+  .status-dot { color: var(--orange); margin-right: 4px; }
+
+  .status-bar-right {
+    margin-left: auto;
+    color: var(--dimmer);
+  }
+
+  /* ── Layout ── */
+  .layout {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 0;
+    max-width: 1280px;
+    margin: 0 auto;
+    min-height: calc(100vh - 100px);
+  }
+
+  .main-col {
+    border-right: 1px solid var(--border);
+    padding: 24px;
+  }
+
+  .aside-col {
+    padding: 24px;
+  }
+
+  /* ── Filters ── */
+  .filters { display: flex; flex-direction: column; gap: 10px; margin-bottom: 24px; }
+
+  .search-wrap {
+    position: relative;
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--dimmer);
+    font-size: 10px;
+    pointer-events: none;
+  }
+
+  input[type=text] {
+    width: 100%;
+    background: var(--bg1);
+    border: 1px solid var(--border2);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    padding: 9px 12px 9px 28px;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  input[type=text]:focus { border-color: var(--orange); }
+  input[type=text]::placeholder { color: var(--dimmer); }
+
+  .pills { display: flex; flex-wrap: wrap; gap: 6px; }
+
+  .pill {
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    padding: 4px 10px;
+    border: 1px solid var(--border2);
+    color: var(--dim);
+    text-transform: uppercase;
+    transition: border-color 0.12s, color 0.12s, background 0.12s;
+  }
+
+  .pill:hover { border-color: var(--border2); color: var(--text); }
+
+  .pill.active-orange {
+    border-color: var(--orange);
+    color: var(--orange);
+    background: rgba(232, 98, 42, 0.08);
+  }
+
+  .pill.active-blue {
+    border-color: var(--blue);
+    color: var(--blue);
+    background: rgba(58, 143, 255, 0.08);
+  }
+
+  .pill.active-green {
+    border-color: var(--green);
+    color: var(--green);
+    background: rgba(58, 255, 138, 0.08);
+  }
+
+  .result-count {
+    font-size: 10px;
+    color: var(--dimmer);
+    letter-spacing: 0.1em;
+  }
+
+  /* ── Event list ── */
+  .month-group { margin-bottom: 28px; }
+
+  .month-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+
+  .month-label {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.2em;
+    color: var(--orange);
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .month-rule {
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  .month-count {
+    font-size: 10px;
+    color: var(--dimmer);
+  }
+
+  .events-list { display: flex; flex-direction: column; gap: 2px; }
+
+  /* ── Event card ── */
+  .event-card {
+    background: var(--bg1);
+    border: 1px solid var(--border);
+    padding: 12px 14px;
+    display: grid;
+    grid-template-columns: 60px 1fr auto;
+    gap: 12px;
+    align-items: start;
+    transition: border-color 0.12s, background 0.12s;
+    cursor: pointer;
+  }
+
+  .event-card:hover {
+    border-color: var(--border2);
+    background: var(--bg2);
+  }
+
+  .event-date-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2px;
+  }
+
+  .event-day {
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--cream);
+    line-height: 1;
+  }
+
+  .event-mon {
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    color: var(--dim);
+    text-transform: uppercase;
+    margin-top: 2px;
+  }
+
+  .event-body { min-width: 0; }
+
+  .event-title {
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text);
+    line-height: 1.4;
+    margin-bottom: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .event-card:hover .event-title { color: var(--cream); }
+
+  .event-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    font-size: 10px;
+    color: var(--dim);
+    letter-spacing: 0.06em;
+    align-items: center;
+  }
+
+  .event-meta-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .event-meta-icon { color: var(--dimmer); }
+
+  .event-tag {
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    padding: 1px 6px;
+    border: 1px solid var(--border2);
+    color: var(--dimmer);
+    text-transform: uppercase;
+  }
+
+  .event-tag.conference { border-color: #2a4a6e; color: #5a8ab0; }
+  .event-tag.workshop   { border-color: #3a5a2e; color: #6aaa5a; }
+  .event-tag.webinar    { border-color: #4a3a6e; color: #8a7ab0; }
+  .event-tag.meetup     { border-color: #5a4a2e; color: #aa8a5a; }
+  .event-tag.lecture    { border-color: #2e4a4a; color: #5a8a8a; }
+  .event-tag.hackathon  { border-color: #6e2a2a; color: #b06060; }
+  .event-tag.awards     { border-color: #5a4a0a; color: #aa9a3a; }
+  .event-tag.exhibition { border-color: #2a5a5a; color: #5aaa9a; }
+  .event-tag.launch     { border-color: #5a2a0a; color: #aa6a3a; }
+
+  .event-sources {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+  }
+
+  .source-dot {
+    width: 6px;
+    height: 6px;
+    background: var(--dimmer);
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .source-dot.multi { background: var(--orange); }
+
+  .event-arrow {
+    color: var(--dimmer);
+    font-size: 10px;
+    padding-top: 4px;
+    transition: color 0.12s;
+  }
+
+  .event-card:hover .event-arrow { color: var(--orange); }
+
+  /* ── Empty state ── */
+  .empty-state {
+    border: 1px solid var(--border);
+    padding: 48px;
+    text-align: center;
+    color: var(--dimmer);
+    font-size: 11px;
+    letter-spacing: 0.1em;
+  }
+
+  /* ── Load more ── */
+  .load-more {
+    width: 100%;
+    border: 1px solid var(--border);
+    padding: 12px;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    color: var(--dim);
+    text-transform: uppercase;
+    margin-top: 8px;
+    transition: border-color 0.12s, color 0.12s;
+  }
+
+  .load-more:hover { border-color: var(--orange); color: var(--orange); }
+
+  /* ── Aside ── */
+  .aside-section {
+    margin-bottom: 28px;
+  }
+
+  .aside-heading {
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 0.25em;
+    color: var(--dim);
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+
+  /* ── Subscribe panel ── */
+  .subscribe-region-pills { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .subscribe-type-pills   { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+
+  .sub-label {
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    color: var(--dim);
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  .feed-url-wrap {
+    display: flex;
+    gap: 0;
+    margin-bottom: 10px;
+  }
+
+  .feed-url {
+    flex: 1;
+    background: var(--bg);
+    border: 1px solid var(--border2);
+    border-right: none;
+    color: var(--dim);
+    font-family: inherit;
+    font-size: 9px;
+    padding: 6px 8px;
+    letter-spacing: 0.06em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    outline: none;
+  }
+
+  .copy-btn {
+    background: var(--bg1);
+    border: 1px solid var(--border2);
+    color: var(--dim);
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    padding: 6px 10px;
+    text-transform: uppercase;
+    transition: color 0.12s, border-color 0.12s;
+    white-space: nowrap;
+  }
+
+  .copy-btn:hover { color: var(--orange); border-color: var(--orange); }
+  .copy-btn.copied { color: var(--green); border-color: var(--green); }
+
+  .sub-actions { display: flex; flex-direction: column; gap: 6px; margin-top: 12px; }
+
+  .sub-action {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: var(--dim);
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    text-transform: uppercase;
+    transition: border-color 0.12s, color 0.12s;
+  }
+
+  .sub-action:hover { border-color: var(--orange); color: var(--text); }
+
+  .sub-action-icon { font-size: 12px; }
+
+  .sub-note {
+    font-size: 9px;
+    color: var(--dimmer);
+    letter-spacing: 0.06em;
+    margin-top: 10px;
+    line-height: 1.6;
+  }
+
+  /* ── Run log ── */
+  .run-log { display: flex; flex-direction: column; gap: 4px; }
+
+  .run-item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 9px;
+    color: var(--dimmer);
+    padding: 4px 0;
+    border-bottom: 1px solid var(--border);
+    letter-spacing: 0.06em;
+  }
+
+  .run-item .run-ts { color: var(--dim); }
+  .run-item .run-found { color: var(--text); }
+  .run-item .run-err { color: var(--orange); }
+
+  /* ── Sources list ── */
+  .source-list { display: flex; flex-direction: column; gap: 4px; }
+
+  .source-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 9px;
+    letter-spacing: 0.06em;
+    color: var(--dim);
+    padding: 4px 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .source-item .source-strat {
+    font-size: 8px;
+    color: var(--dimmer);
+    background: var(--bg2);
+    padding: 1px 5px;
+  }
+
+  /* ── Footer ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 12px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    color: var(--dimmer);
+  }
+
+  footer a:hover { color: var(--orange); }
+
+  /* ── Error state ── */
+  .error-banner {
+    display: none;
+    background: rgba(232,98,42,0.08);
+    border: 1px solid var(--orange);
+    color: var(--orange);
+    padding: 10px 14px;
+    font-size: 10px;
+    letter-spacing: 0.08em;
+    margin-bottom: 16px;
+  }
+
+  /* ── Loading skeleton ── */
+  .skeleton-card {
+    background: var(--bg1);
+    border: 1px solid var(--border);
+    padding: 12px 14px;
+    height: 64px;
+    margin-bottom: 2px;
+    animation: pulse 1.4s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 0.5; }
+    50%       { opacity: 1; }
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; }
+    .main-col { border-right: none; }
+    .aside-col { border-top: 1px solid var(--border); }
+    .status-bar-right { display: none; }
+    .event-card { grid-template-columns: 50px 1fr; }
+    .event-arrow { display: none; }
+  }
+
+  @media (max-width: 520px) {
+    .header { padding: 10px 14px; }
+    .header-rule, .header-meta { display: none; }
+    .main-col, .aside-col { padding: 14px; }
+    .event-day { font-size: 18px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ── Header ── -->
+<header class="header">
+  <div class="header-left">
+    <svg class="logo-mark" viewBox="0 0 20 20" fill="none">
+      <circle cx="10" cy="10" r="9" stroke="#e8622a" stroke-width="1"/>
+      <circle cx="10" cy="10" r="4" fill="#e8622a" opacity="0.4"/>
+      <circle cx="10" cy="10" r="1.5" fill="#e8622a"/>
+      <line x1="10" y1="1" x2="10" y2="4" stroke="#e8622a" stroke-width="0.8"/>
+      <line x1="10" y1="16" x2="10" y2="19" stroke="#e8622a" stroke-width="0.8"/>
+      <line x1="1" y1="10" x2="4" y2="10" stroke="#e8622a" stroke-width="0.8"/>
+      <line x1="16" y1="10" x2="19" y2="10" stroke="#e8622a" stroke-width="0.8"/>
+    </svg>
+    <span class="logo-text">Space Calendar</span>
+  </div>
+  <div class="header-rule"></div>
+  <span class="header-meta">SPACE INDUSTRY EVENTS / AUTO-UPDATED</span>
+  <div class="header-links">
+    <a href="#subscribe">SUBSCRIBE</a>
+    <a href="data/uk.ics">ICAL</a>
+    <a href="https://github.com/supernovalabs/space-calendar" target="_blank">GITHUB</a>
+  </div>
+</header>
+
+<!-- ── Status bar ── -->
+<div class="status-bar" id="status-bar">
+  <span><span class="status-dot">■</span><span class="val" id="stat-events">—</span> UPCOMING EVENTS</span>
+  <span><span class="status-dot">■</span><span class="val" id="stat-sources">10</span> ACTIVE SOURCES</span>
+  <span>LAST UPDATE: <span class="val" id="stat-updated">—</span></span>
+  <span id="stat-run" style="display:none">LAST RUN: <span class="val" id="stat-added">—</span> NEW / <span class="val" id="stat-updated-count">—</span> UPDATED</span>
+  <span class="status-bar-right">UPDATES EVERY 6H VIA GITHUB ACTIONS</span>
+</div>
+
+<!-- ── Layout ── -->
+<div class="layout">
+
+  <!-- ── Main ── -->
+  <main class="main-col">
+    <div class="filters">
+      <div class="search-wrap">
+        <span class="search-icon">▶</span>
+        <input type="text" id="search" placeholder="SEARCH EVENTS…" autocomplete="off" spellcheck="false">
+      </div>
+      <div id="country-pills" class="pills">
+        <button class="pill active-orange" data-country="all">All Countries</button>
+      </div>
+      <div class="pills">
+        <button class="pill" data-tag="conference">conference</button>
+        <button class="pill" data-tag="workshop">workshop</button>
+        <button class="pill" data-tag="webinar">webinar</button>
+        <button class="pill" data-tag="meetup">meetup</button>
+        <button class="pill" data-tag="lecture">lecture</button>
+        <button class="pill" data-tag="hackathon">hackathon</button>
+        <button class="pill" data-tag="awards">awards</button>
+        <button class="pill" data-tag="exhibition">exhibition</button>
+        <button class="pill" data-tag="launch">launch</button>
+        <button class="pill" id="online-pill" data-online>ONLINE ONLY</button>
+      </div>
+      <div class="result-count" id="result-count"></div>
+    </div>
+
+    <div id="error-banner" class="error-banner"></div>
+    <div id="events-container">
+      <!-- skeletons while loading -->
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+    </div>
+  </main>
+
+  <!-- ── Aside ── -->
+  <aside class="aside-col">
+
+    <!-- Subscribe panel -->
+    <section class="aside-section" id="subscribe">
+      <div class="aside-heading">— Subscribe</div>
+
+      <div class="sub-label">Region</div>
+      <div class="subscribe-region-pills">
+        <button class="pill active-orange" data-sub-region="GB">🇬🇧 UK</button>
+        <button class="pill" data-sub-region="all">🌍 All</button>
+      </div>
+
+      <div class="sub-label">Event Type (optional)</div>
+      <div class="subscribe-type-pills">
+        <button class="pill active-orange" data-sub-type="all">All</button>
+        <button class="pill" data-sub-type="conference">conference</button>
+        <button class="pill" data-sub-type="workshop">workshop</button>
+        <button class="pill" data-sub-type="webinar">webinar</button>
+        <button class="pill" data-sub-type="meetup">meetup</button>
+        <button class="pill" data-sub-type="lecture">lecture</button>
+        <button class="pill" data-sub-type="launch">launch</button>
+      </div>
+
+      <div class="sub-label">Feed URL</div>
+      <div class="feed-url-wrap">
+        <input type="text" class="feed-url" id="feed-url" readonly>
+        <button class="copy-btn" id="copy-btn">COPY .ICS URL</button>
+      </div>
+
+      <div class="sub-actions">
+        <a class="sub-action" id="gcal-link" href="#" target="_blank">
+          <span class="sub-action-icon">●</span> ADD TO GOOGLE CALENDAR
+        </a>
+        <a class="sub-action" id="apple-link" href="#">
+          <span class="sub-action-icon">●</span> ADD TO APPLE CALENDAR
+        </a>
+      </div>
+
+      <p class="sub-note">
+        Your calendar app will sync automatically.<br>
+        Events update every 6 hours.
+      </p>
+    </section>
+
+    <!-- Recent runs -->
+    <section class="aside-section" id="run-log-section" style="display:none">
+      <div class="aside-heading">— Recent Scrape Runs</div>
+      <div class="run-log" id="run-log"></div>
+    </section>
+
+    <!-- Sources -->
+    <section class="aside-section">
+      <div class="aside-heading">— Sources</div>
+      <div class="source-list" id="source-list"></div>
+    </section>
+
+  </aside>
+</div>
+
+<!-- ── Footer ── -->
+<footer>
+  <span>SPACE CALENDAR /
+    <a href="https://github.com/supernovalabs/space-calendar" target="_blank">OPEN SOURCE</a>
+    / <a href="https://supernovalabs.co.uk" target="_blank">SUPERNOVA LABS</a>
+  </span>
+  <span>DATA FROM 10 SOURCES / UPDATES EVERY 6H</span>
+</footer>
+
+<script>
+// ─── State ────────────────────────────────────────────────────────────────────
+const state = {
+  events: [],
+  filtered: [],
+  search: "",
+  country: "all",
+  tags: new Set(),
+  onlineOnly: false,
+  page: 1,
+  PAGE_SIZE: 30,
+  subRegion: "GB",
+  subType: "all",
+};
+
+const BASE_URL = window.location.origin + window.location.pathname.replace(/\/[^/]*$/, "");
+const ICAL_BASE = BASE_URL + "/data/uk.ics";
+
+// ─── Fetch data ───────────────────────────────────────────────────────────────
+async function loadData() {
+  try {
+    const [evRes, runRes] = await Promise.all([
+      fetch("data/events.json?_=" + Date.now()),
+      fetch("data/runs.json?_=" + Date.now()),
+    ]);
+
+    if (!evRes.ok) throw new Error(`events.json: ${evRes.status}`);
+    const store = await evRes.json();
+    state.events = (store.events || []).filter(e => {
+      const d = new Date(e.start_date);
+      const now = new Date(); now.setHours(0,0,0,0);
+      return d >= now;
+    }).sort((a,b) => new Date(a.start_date) - new Date(b.start_date));
+
+    updateStatus(store);
+
+    if (runRes.ok) {
+      const runs = await runRes.json();
+      renderRunLog(runs);
+    }
+
+    render();
+  } catch (err) {
+    showError("Could not load events: " + err.message);
+    document.getElementById("events-container").innerHTML =
+      `<div class="empty-state">FAILED TO LOAD DATA<br><small>${err.message}</small></div>`;
+  }
+}
+
+// ─── Status bar ───────────────────────────────────────────────────────────────
+function updateStatus(store) {
+  const updatedAt = store.updated_at;
+  let ageStr = "NEVER";
+  if (updatedAt && updatedAt !== "1970-01-01T00:00:00+00:00") {
+    const ageMs = Date.now() - new Date(updatedAt).getTime();
+    const ageMins = Math.round(ageMs / 60000);
+    if (ageMins < 60) ageStr = ageMins + "M AGO";
+    else if (ageMins < 1440) ageStr = Math.round(ageMins/60) + "H AGO";
+    else ageStr = Math.round(ageMins/1440) + "D AGO";
+  }
+  document.getElementById("stat-updated").textContent = ageStr;
+}
+
+// ─── Filtering ────────────────────────────────────────────────────────────────
+function applyFilters() {
+  let ev = state.events;
+
+  if (state.country !== "all") {
+    ev = ev.filter(e => e.country === state.country);
+  }
+
+  if (state.tags.size > 0) {
+    ev = ev.filter(e => [...state.tags].some(t => (e.tags || []).includes(t)));
+  }
+
+  if (state.onlineOnly) {
+    ev = ev.filter(e => e.online);
+  }
+
+  if (state.search.trim()) {
+    const q = state.search.toLowerCase();
+    ev = ev.filter(e =>
+      e.title.toLowerCase().includes(q) ||
+      (e.description || "").toLowerCase().includes(q) ||
+      (e.organiser || "").toLowerCase().includes(q) ||
+      (e.location || "").toLowerCase().includes(q)
+    );
+  }
+
+  state.filtered = ev;
+  state.page = 1;
+}
+
+// ─── Render ───────────────────────────────────────────────────────────────────
+function render() {
+  applyFilters();
+
+  // Country pills
+  const countries = ["all", ...new Set(state.events.map(e => e.country)).values()].sort();
+  const COUNTRY_LABELS = { GB:"🇬🇧 UK", US:"🇺🇸 US", FR:"🇫🇷 France", DE:"🇩🇪 Germany",
+    AU:"🇦🇺 Australia", CA:"🇨🇦 Canada", international:"🌍 International", all:"All Countries" };
+  document.getElementById("country-pills").innerHTML = countries.map(c =>
+    `<button class="pill ${state.country === c ? "active-orange" : ""}" data-country="${c}">${COUNTRY_LABELS[c] || c}</button>`
+  ).join("");
+
+  bindCountryPills();
+
+  // Stats
+  document.getElementById("stat-events").textContent = state.filtered.length;
+
+  const total = state.filtered.length;
+  const shown = Math.min(state.page * state.PAGE_SIZE, total);
+  document.getElementById("result-count").textContent =
+    total === state.events.length
+      ? `${total} EVENTS`
+      : `${total} OF ${state.events.length} EVENTS`;
+
+  renderEvents();
+  updateFeedUrl();
+  renderSources();
+}
+
+function renderEvents() {
+  const paginated = state.filtered.slice(0, state.page * state.PAGE_SIZE);
+  const container = document.getElementById("events-container");
+
+  if (paginated.length === 0) {
+    container.innerHTML = `<div class="empty-state">NO EVENTS MATCH YOUR FILTERS</div>`;
+    return;
+  }
+
+  // Group by month
+  const groups = {};
+  for (const ev of paginated) {
+    const key = new Date(ev.start_date).toLocaleDateString("en-GB", { month:"long", year:"numeric" });
+    if (!groups[key]) groups[key] = [];
+    groups[key].push(ev);
+  }
+
+  let html = "";
+  for (const [month, events] of Object.entries(groups)) {
+    html += `
+      <div class="month-group">
+        <div class="month-header">
+          <span class="month-label">${month.toUpperCase()}</span>
+          <div class="month-rule"></div>
+          <span class="month-count">${events.length}</span>
+        </div>
+        <div class="events-list">
+          ${events.map(renderCard).join("")}
+        </div>
+      </div>`;
+  }
+
+  const remaining = state.filtered.length - paginated.length;
+  if (remaining > 0) {
+    html += `<button class="load-more" id="load-more-btn">LOAD MORE (${remaining} REMAINING)</button>`;
+  }
+
+  container.innerHTML = html;
+
+  document.getElementById("load-more-btn")?.addEventListener("click", () => {
+    state.page++;
+    renderEvents();
+  });
+
+  // Card click → open URL
+  container.querySelectorAll(".event-card[data-url]").forEach(card => {
+    card.addEventListener("click", () => window.open(card.dataset.url, "_blank"));
+  });
+}
+
+function renderCard(ev) {
+  const d = new Date(ev.start_date);
+  const day = d.getUTCDate().toString().padStart(2,"0");
+  const mon = d.toLocaleDateString("en-GB", { month:"short", timeZone:"UTC" }).toUpperCase();
+  const tags = (ev.tags || []).filter(t => t !== "other").slice(0,2)
+    .map(t => `<span class="event-tag ${t}">${t}</span>`).join("");
+  const location = ev.online
+    ? `<span class="event-meta-item"><span class="event-meta-icon">○</span> Online</span>`
+    : ev.location
+      ? `<span class="event-meta-item"><span class="event-meta-icon">◇</span> ${escHtml(ev.location.slice(0,40))}</span>`
+      : "";
+  const multi = (ev.all_source_ids || []).length > 1;
+  const sourceTip = multi
+    ? `Also on: ${(ev.all_source_names || []).join(", ")}`
+    : escHtml(ev.source_name || "");
+
+  return `
+    <div class="event-card" data-url="${escHtml(ev.url)}" title="${escHtml(ev.title)}">
+      <div class="event-date-col">
+        <span class="event-day">${day}</span>
+        <span class="event-mon">${mon}</span>
+      </div>
+      <div class="event-body">
+        <div class="event-title">${escHtml(ev.title)}</div>
+        <div class="event-meta">
+          ${location}
+          ${tags}
+          <span class="event-sources" title="${sourceTip}">
+            <span class="source-dot ${multi ? 'multi' : ''}"></span>
+            <span>${escHtml((ev.source_name || "").slice(0,28))}</span>
+          </span>
+        </div>
+      </div>
+      <div class="event-arrow">→</div>
+    </div>`;
+}
+
+// ─── Sources panel ────────────────────────────────────────────────────────────
+const SOURCES_META = [
+  { id:"bis",            name:"British Interplanetary Society", strategy:"html" },
+  { id:"ukastroverse",   name:"UK Astroverse",                  strategy:"html" },
+  { id:"sa_catapult",    name:"Satellite Applications Catapult",strategy:"html" },
+  { id:"royalaero",      name:"Royal Aeronautical Society",      strategy:"html" },
+  { id:"ras",            name:"Royal Astronomical Society",      strategy:"html" },
+  { id:"spaceenterprise",name:"Space Enterprise UK",             strategy:"jsonld" },
+  { id:"greenorbit",     name:"Green Orbit",                     strategy:"jsonld" },
+  { id:"groundstation",  name:"Ground Station",                  strategy:"html" },
+  { id:"uki_space",      name:"UKI Space",                       strategy:"jsonld" },
+  { id:"ukspaceagency",  name:"UK Space Agency",                 strategy:"html" },
+];
+
+function renderSources() {
+  document.getElementById("source-list").innerHTML = SOURCES_META.map(s =>
+    `<div class="source-item">
+      <span>${s.name}</span>
+      <span class="source-strat">${s.strategy}</span>
+    </div>`
+  ).join("");
+  document.getElementById("stat-sources").textContent = SOURCES_META.length;
+}
+
+// ─── Run log ──────────────────────────────────────────────────────────────────
+function renderRunLog(runs) {
+  if (!runs || runs.length === 0) return;
+  document.getElementById("run-log-section").style.display = "";
+  document.getElementById("run-log").innerHTML = runs.slice(0,5).map(r => {
+    const ts = new Date(r.timestamp).toLocaleDateString("en-GB", {
+      day:"2-digit", month:"short", hour:"2-digit", minute:"2-digit"
+    });
+    const hasErr = r.errors && r.errors.length > 0;
+    return `<div class="run-item">
+      <span class="run-ts">${ts}</span>
+      <span class="run-found">${r.events_found || r.eventsFound || 0} found</span>
+      <span class="run-err" style="${hasErr ? '' : 'display:none'}">${(r.errors||[]).length} err</span>
+    </div>`;
+  }).join("");
+}
+
+// ─── Subscribe panel ──────────────────────────────────────────────────────────
+function updateFeedUrl() {
+  // Static file — served from data/uk.ics
+  // Could be extended later to have region/type variants
+  const url = ICAL_BASE;
+
+  document.getElementById("feed-url").value = url;
+
+  const gcalBase = "https://calendar.google.com/calendar/render?cid=";
+  document.getElementById("gcal-link").href = gcalBase + encodeURIComponent(url);
+  document.getElementById("apple-link").href = url;
+
+  // Store for copy btn
+  document.getElementById("copy-btn").dataset.url = url;
+}
+
+document.getElementById("copy-btn").addEventListener("click", function() {
+  const url = this.dataset.url || document.getElementById("feed-url").value;
+  navigator.clipboard.writeText(url).then(() => {
+    this.textContent = "COPIED!";
+    this.classList.add("copied");
+    setTimeout(() => {
+      this.textContent = "COPY .ICS URL";
+      this.classList.remove("copied");
+    }, 2000);
+  });
+});
+
+// ─── Event bindings ───────────────────────────────────────────────────────────
+document.getElementById("search").addEventListener("input", e => {
+  state.search = e.target.value;
+  render();
+});
+
+function bindCountryPills() {
+  document.querySelectorAll("[data-country]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      state.country = btn.dataset.country;
+      document.querySelectorAll("[data-country]").forEach(b => b.classList.remove("active-orange"));
+      btn.classList.add("active-orange");
+      render();
+    });
+  });
+}
+
+document.querySelectorAll("[data-tag]").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const tag = btn.dataset.tag;
+    if (state.tags.has(tag)) {
+      state.tags.delete(tag);
+      btn.classList.remove("active-blue");
+    } else {
+      state.tags.add(tag);
+      btn.classList.add("active-blue");
+    }
+    render();
+  });
+});
+
+document.getElementById("online-pill").addEventListener("click", function() {
+  state.onlineOnly = !state.onlineOnly;
+  this.classList.toggle("active-green", state.onlineOnly);
+  render();
+});
+
+// Subscribe region/type pills (decorative only for now — single .ics feed)
+document.querySelectorAll("[data-sub-region]").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("[data-sub-region]").forEach(b => b.classList.remove("active-orange"));
+    btn.classList.add("active-orange");
+    state.subRegion = btn.dataset.subRegion;
+    updateFeedUrl();
+  });
+});
+
+document.querySelectorAll("[data-sub-type]").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll("[data-sub-type]").forEach(b => b.classList.remove("active-orange"));
+    btn.classList.add("active-orange");
+    state.subType = btn.dataset.subType;
+    updateFeedUrl();
+  });
+});
+
+// ─── Utilities ────────────────────────────────────────────────────────────────
+function escHtml(s) {
+  return String(s || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function showError(msg) {
+  const b = document.getElementById("error-banner");
+  b.textContent = msg;
+  b.style.display = "";
+}
+
+// ─── Boot ─────────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
