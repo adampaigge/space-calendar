@@ -1,1 +1,546 @@
-{"updated_at": "1970-01-01T00:00:00+00:00", "total_sources": 0, "events": []}
+{
+  "updated_at": "2026-04-30T21:31:17.662956+00:00",
+  "total_sources": 20,
+  "events": [
+    {
+      "id": "9ef3c839c0a5b948",
+      "title": "Crawfish consultation 2026",
+      "url": "https://www.gov.uk/government/news/crawfish-consultation-2026",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Fishers with an interest in the crawfish fishery in English waters of ICES area 7 are being urged to respond to a new online survey on proposals for a seasonal closure in 2026/2027.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.533741+00:00",
+      "last_seen": "2026-04-30T21:31:17.533741+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5cdf5f9900f696e5",
+      "title": "Biggest shake up in decades to tackle local crime",
+      "url": "https://www.gov.uk/government/news/biggest-shake-up-in-decades-to-tackle-local-crime",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Biggest crime-fighting shake up in decades as police gain new powers to tackle local crime as the landmark Crime and Policing Bill receives Royal Assent.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.534644+00:00",
+      "last_seen": "2026-04-30T21:31:17.534644+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "95255d4a2eaf3aec",
+      "title": "Health Secretary gives address on NHS performance",
+      "url": "https://www.gov.uk/government/speeches/health-secretary-gives-address-on-nhs-performance",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Secretary of State delivers a speech on NHS urgent and emergency care at Royal College of Emergency Medicine's (RCEM) Annual Conference in Birmingham",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.534813+00:00",
+      "last_seen": "2026-04-30T21:31:17.534813+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6b71f9e4ba5d5e4e",
+      "title": "Historic office space secures accolade",
+      "url": "https://www.gov.uk/government/news/historic-office-space-secures-accolade",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A Civil Service hub managed by the Government Property Agency has received an award for its inclusivity and accessibility.",
+      "organiser": null,
+      "tags": [
+        "awards"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.534956+00:00",
+      "last_seen": "2026-04-30T21:31:17.534956+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f60df1c1c9682832",
+      "title": "Keep Britain Working review \u2013 updates",
+      "url": "https://www.gov.uk/government/publications/keep-britain-working-review-updates",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Updates on the independent review of the role of employers in tackling health based economic inactivity and promoting healthy and inclusive workplaces.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.535082+00:00",
+      "last_seen": "2026-04-30T21:31:17.535082+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7031a848ee970b01",
+      "title": "Evidence shows Russia continues to incur catastrophic losses for minimal gains in an unsustainable war: UK statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/evidence-shows-russia-continues-to-incur-catastrophic-losses-for-minimal-gains-in-an-unsustainable-war-uk-statement-to-the-osce",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UK Senior Military Advisor, Colonel Joby Rimmer says evidence based military analysis shows Russia\u2019s war in Ukraine is unsustainable, with increasingly catastrophic human and fiscal losses delivering only limited military re\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.535268+00:00",
+      "last_seen": "2026-04-30T21:31:17.535268+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ca36f4342d0c6e72",
+      "title": "Britain embraces solar revolution following war in Iran",
+      "url": "https://www.gov.uk/government/news/britain-embraces-solar-revolution-following-war-in-iran",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Households across the UK are embracing solar power as the government accelerates its clean power mission.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.535510+00:00",
+      "last_seen": "2026-04-30T21:31:17.535510+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6156a98b99405e50",
+      "title": "Have your say: PIP review launches engagement programme for disabled people to get involved",
+      "url": "https://www.gov.uk/government/news/have-your-say-pip-review-launches-engagement-programme-for-disabled-people-to-get-involved",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Timms Review is today announcing a wider programme of evidence-gathering and public engagement, giving disabled people, Disabled People\u2019s Organisations, carers, practitioners, clinicians,\u00a0researchers\u00a0and other experts mo\u2026",
+      "organiser": null,
+      "tags": [
+        "meetup"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.535632+00:00",
+      "last_seen": "2026-04-30T21:31:17.535632+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6d0bf80b378d5a76",
+      "title": "The Timms Review: Co-chair Update, April 2026",
+      "url": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-april-2026",
+      "start_date": "2026-04-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "This document sets out an update on the progress of the Timms Review of Personal Independence Payment (PIP), from the Review's co-chairs.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.535848+00:00",
+      "last_seen": "2026-04-30T21:31:17.535848+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "26a39e09c87f5717",
+      "title": "DfE Update 29 April 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-29-april-2026",
+      "start_date": "2026-04-29T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.535985+00:00",
+      "last_seen": "2026-04-30T21:31:17.535985+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "824e1ff00f2c0504",
+      "title": "Crime and Policing Bill: government amendments for committee and report stage",
+      "url": "https://www.gov.uk/government/publications/crime-and-policing-bill-government-amendments-for-committee",
+      "start_date": "2026-04-29T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Correspondence relating to the Crime and Policing Bill, which was introduced in the House of Commons on 25 February 2025.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.536124+00:00",
+      "last_seen": "2026-04-30T21:31:17.536124+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "449bed94a272df2a",
+      "title": "First Sea Lord Speech at RUSI",
+      "url": "https://www.gov.uk/government/speeches/first-sea-lord-speech-at-rusi",
+      "start_date": "2026-04-29T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Transforming the Royal Navy by embracing the rapid technological advances of our age",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.536280+00:00",
+      "last_seen": "2026-04-30T21:31:17.536280+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "4d1ce49dff541bc2",
+      "title": "DWP puts disabled people first: Thousands of health staff complete landmark autism and learning disabilities training",
+      "url": "https://www.gov.uk/government/news/dwp-puts-disabled-people-first-thousands-of-health-staff-complete-landmark-autism-and-learning-disabilities-training",
+      "start_date": "2026-04-29T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Training tackles harmful assumptions about disability and ensures staff make practical, meaningful adjustments for the people they serve.",
+      "organiser": null,
+      "tags": [
+        "workshop"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.536382+00:00",
+      "last_seen": "2026-04-30T21:31:17.536382+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2005dde012bd909b",
+      "title": "We are appalled by the deteriorating trajectory in the West Bank and East Jerusalem: UK statement at the UN Security Council",
+      "url": "https://www.gov.uk/government/speeches/we-are-appalled-by-the-deteriorating-trajectory-in-the-west-bank-and-east-jerusalem-uk-statement-at-the-un-security-council",
+      "start_date": "2026-04-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Statement by Ambassador James Kariuki, UK Charg\u00e9 d\u2019Affaires to the UN, at the UN Security Council meeting on the Middle East.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.536543+00:00",
+      "last_seen": "2026-04-30T21:31:17.536543+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e1fad0f0296359e0",
+      "title": "Public legal education: new principles and committee",
+      "url": "https://www.gov.uk/government/news/public-legal-education-new-principles-and-committee",
+      "start_date": "2026-04-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Attorney General's Office is relaunching the Public Legal Education (PLE) Committee.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.536732+00:00",
+      "last_seen": "2026-04-30T21:31:17.536732+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bf3cc20b9c5e966b",
+      "title": "Southern Water admits sea pollution",
+      "url": "https://www.gov.uk/government/news/southern-water-admits-sea-pollution",
+      "start_date": "2026-04-27T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Incidents off Kent coastline and inland \u2013 company released sewage into water weeks after getting record \u00a390 million fine for almost 7,000 illegal discharges",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.536847+00:00",
+      "last_seen": "2026-04-30T21:31:17.536847+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3c3346001ce77a28",
+      "title": "PM speech at USDAW conference: 27 April 2026",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-at-usdaw-conference-27-april-2026",
+      "start_date": "2026-04-27T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Prime Minister's speech at USDAW conference 2026.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.536999+00:00",
+      "last_seen": "2026-04-30T21:31:17.536999+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c2c399b4fef949c0",
+      "title": "How we protected the UK and space in March 2026",
+      "url": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-march-2026",
+      "start_date": "2026-04-24T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "This report was issued in April 2026 and covers the time period 1 March 2026 to 31 March 2026 inclusive.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.537092+00:00",
+      "last_seen": "2026-04-30T21:31:17.537092+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "66a7b6816d919970",
+      "title": "Up to \u00a32 million available for riverine relief",
+      "url": "https://www.gov.uk/government/news/up-to-2-million-available-for-riverine-relief",
+      "start_date": "2026-04-22T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Dstl, in partnership with the British Army, is seeking innovative solutions to remotely assess diverse terrain for safe passage",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.537231+00:00",
+      "last_seen": "2026-04-30T21:31:17.537231+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3a609d8095521ff4",
+      "title": "New animal medicine adverse event reporting service launching May 2026",
+      "url": "https://www.gov.uk/government/news/new-animal-medicine-adverse-event-reporting-service-launching-may-2026",
+      "start_date": "2026-04-22T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The new adverseeventreporting service from the VMD will replace the previous suspended service.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-04-30T21:31:17.537364+00:00",
+      "last_seen": "2026-04-30T21:31:17.537364+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    }
+  ]
+}

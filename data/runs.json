@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "timestamp": "2026-04-30T21:31:17.664210+00:00",
+    "sources": 10,
+    "events_found": 20,
+    "events_added": 20,
+    "events_updated": 0,
+    "errors": [],
+    "duration_ms": 17198
+  }
+]

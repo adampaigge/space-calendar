@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Space Calendar//supernovalabs.co.uk//EN
+X-WR-CALNAME:UK Space Events
+X-WR-TIMEZONE:UTC
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:UK space industry events. Subscribe at https://space.supernovalabs.co.uk
+END:VCALENDAR
