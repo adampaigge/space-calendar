@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T08:28:31.326297+00:00",
-  "total_sources": 34,
+  "updated_at": "2026-05-07T13:57:22.839583+00:00",
+  "total_sources": 36,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -21,7 +21,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.533741+00:00",
-      "last_seen": "2026-05-07T08:28:31.234268+00:00",
+      "last_seen": "2026-05-07T13:57:22.741021+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -48,7 +48,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.534644+00:00",
-      "last_seen": "2026-05-07T08:28:31.234421+00:00",
+      "last_seen": "2026-05-07T13:57:22.741202+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -75,7 +75,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.534813+00:00",
-      "last_seen": "2026-05-07T08:28:31.234573+00:00",
+      "last_seen": "2026-05-07T13:57:22.741363+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -102,7 +102,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.534956+00:00",
-      "last_seen": "2026-05-07T08:28:31.234716+00:00",
+      "last_seen": "2026-05-07T13:57:22.741512+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -561,7 +561,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-01T13:11:29.053073+00:00",
-      "last_seen": "2026-05-07T08:28:31.234017+00:00",
+      "last_seen": "2026-05-07T13:57:22.740763+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -588,7 +588,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-01T13:11:29.054092+00:00",
-      "last_seen": "2026-05-07T08:28:31.234160+00:00",
+      "last_seen": "2026-05-07T13:57:22.740902+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -615,7 +615,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-02T13:01:24.780626+00:00",
-      "last_seen": "2026-05-07T08:28:31.233793+00:00",
+      "last_seen": "2026-05-07T13:57:22.740573+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -642,7 +642,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-03T02:32:55.831802+00:00",
-      "last_seen": "2026-05-07T08:28:31.233620+00:00",
+      "last_seen": "2026-05-07T13:57:22.740396+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -669,7 +669,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T02:26:03.040475+00:00",
-      "last_seen": "2026-05-07T08:28:31.233440+00:00",
+      "last_seen": "2026-05-07T13:57:22.740202+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -696,7 +696,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T13:29:26.631275+00:00",
-      "last_seen": "2026-05-07T08:28:31.233278+00:00",
+      "last_seen": "2026-05-07T13:57:22.740018+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -723,7 +723,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T19:14:03.137621+00:00",
-      "last_seen": "2026-05-07T08:28:31.232871+00:00",
+      "last_seen": "2026-05-07T13:57:22.739616+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -777,7 +777,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T19:14:03.138664+00:00",
-      "last_seen": "2026-05-07T08:28:31.233130+00:00",
+      "last_seen": "2026-05-07T13:57:22.739869+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -804,7 +804,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T02:29:55.630856+00:00",
-      "last_seen": "2026-05-07T08:28:31.232676+00:00",
+      "last_seen": "2026-05-07T13:57:22.739438+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -831,7 +831,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T13:59:39.635881+00:00",
-      "last_seen": "2026-05-07T08:28:31.232392+00:00",
+      "last_seen": "2026-05-07T13:57:22.739094+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -858,7 +858,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T13:59:39.636761+00:00",
-      "last_seen": "2026-05-07T08:28:31.232529+00:00",
+      "last_seen": "2026-05-07T13:57:22.739274+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -885,7 +885,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T02:32:16.337287+00:00",
-      "last_seen": "2026-05-07T08:28:31.231238+00:00",
+      "last_seen": "2026-05-07T13:57:22.738782+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -912,7 +912,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T02:32:16.338217+00:00",
-      "last_seen": "2026-05-07T08:28:31.232255+00:00",
+      "last_seen": "2026-05-07T13:57:22.738967+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a4152eaf25bf55fe",
+      "title": "Confronting Holocaust Denial and Distortion: UK statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/confronting-holocaust-denial-and-distortion-uk-statement-to-the-osce",
+      "start_date": "2026-05-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The UK warns that Holocaust denial and distortion are fuelling antisemitism and insecurity across the OSCE region. It urges participating States to move from discussion to action and safeguard historical truth from political\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-07T13:57:22.737485+00:00",
+      "last_seen": "2026-05-07T13:57:22.737485+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "fc6afbea4d417f04",
+      "title": "British and Canadian Ambassadors Host Reception for the Media",
+      "url": "https://www.gov.uk/government/news/british-and-canadian-ambassadors-host-reception-for-the-media",
+      "start_date": "2026-05-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Ambassadors underscored that threats to media freedom extend beyond times of war, including intimidation, censorship and criminalisation.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-07T13:57:22.738604+00:00",
+      "last_seen": "2026-05-07T13:57:22.738604+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
