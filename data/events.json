@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T19:42:02.616295+00:00",
-  "total_sources": 32,
+  "updated_at": "2026-05-07T02:32:16.433146+00:00",
+  "total_sources": 34,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -21,7 +21,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.533741+00:00",
-      "last_seen": "2026-05-06T19:42:02.511567+00:00",
+      "last_seen": "2026-05-07T02:32:16.340115+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -48,7 +48,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.534644+00:00",
-      "last_seen": "2026-05-06T19:42:02.511733+00:00",
+      "last_seen": "2026-05-07T02:32:16.340261+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -75,7 +75,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.534813+00:00",
-      "last_seen": "2026-05-06T19:42:02.511880+00:00",
+      "last_seen": "2026-05-07T02:32:16.340400+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -102,7 +102,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.534956+00:00",
-      "last_seen": "2026-05-06T19:42:02.512019+00:00",
+      "last_seen": "2026-05-07T02:32:16.340531+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -129,7 +129,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.535082+00:00",
-      "last_seen": "2026-05-06T19:42:02.512173+00:00",
+      "last_seen": "2026-05-07T02:32:16.340646+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -156,7 +156,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.535268+00:00",
-      "last_seen": "2026-05-06T19:42:02.512335+00:00",
+      "last_seen": "2026-05-07T02:32:16.340808+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -561,7 +561,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-01T13:11:29.053073+00:00",
-      "last_seen": "2026-05-06T19:42:02.511202+00:00",
+      "last_seen": "2026-05-07T02:32:16.339879+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -588,7 +588,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-01T13:11:29.054092+00:00",
-      "last_seen": "2026-05-06T19:42:02.511391+00:00",
+      "last_seen": "2026-05-07T02:32:16.340004+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -615,7 +615,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-02T13:01:24.780626+00:00",
-      "last_seen": "2026-05-06T19:42:02.510886+00:00",
+      "last_seen": "2026-05-07T02:32:16.339699+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -642,7 +642,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-03T02:32:55.831802+00:00",
-      "last_seen": "2026-05-06T19:42:02.510554+00:00",
+      "last_seen": "2026-05-07T02:32:16.339526+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -669,7 +669,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T02:26:03.040475+00:00",
-      "last_seen": "2026-05-06T19:42:02.510197+00:00",
+      "last_seen": "2026-05-07T02:32:16.339358+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -696,7 +696,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T13:29:26.631275+00:00",
-      "last_seen": "2026-05-06T19:42:02.509861+00:00",
+      "last_seen": "2026-05-07T02:32:16.339197+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -723,7 +723,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T19:14:03.137621+00:00",
-      "last_seen": "2026-05-06T19:42:02.509060+00:00",
+      "last_seen": "2026-05-07T02:32:16.338809+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -777,7 +777,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T19:14:03.138664+00:00",
-      "last_seen": "2026-05-06T19:42:02.509574+00:00",
+      "last_seen": "2026-05-07T02:32:16.339035+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -804,7 +804,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T02:29:55.630856+00:00",
-      "last_seen": "2026-05-06T19:42:02.508729+00:00",
+      "last_seen": "2026-05-07T02:32:16.338631+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -831,7 +831,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T13:59:39.635881+00:00",
-      "last_seen": "2026-05-06T19:42:02.506983+00:00",
+      "last_seen": "2026-05-07T02:32:16.338353+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -858,7 +858,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T13:59:39.636761+00:00",
-      "last_seen": "2026-05-06T19:42:02.508422+00:00",
+      "last_seen": "2026-05-07T02:32:16.338486+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a5e459c8bcd69fa7",
+      "title": "UK GREAT Zone with a strong institutional and business presence at FIDAE 2026",
+      "url": "https://www.gov.uk/government/news/uk-great-zone-with-a-strong-institutional-and-business-presence-at-fidae-2026",
+      "start_date": "2026-05-06T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Organised by the British Embassy and the British Chilean Chamber of Commerce, the UK GREAT Zone showcased leading UK companies in the aerospace, defence, and security sectors.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-07T02:32:16.337287+00:00",
+      "last_seen": "2026-05-07T02:32:16.337287+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ded533c43d7ad4c8",
+      "title": "Businesses see processing times slashed in groundbreaking trial",
+      "url": "https://www.gov.uk/government/news/businesses-see-processing-times-slashed-in-groundbreaking-trial",
+      "start_date": "2026-05-06T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Businesses see processing times slashed in groundbreaking new trial",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-07T02:32:16.338217+00:00",
+      "last_seen": "2026-05-07T02:32:16.338217+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
