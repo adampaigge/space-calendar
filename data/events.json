@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T07:24:20.300649+00:00",
-  "total_sources": 38,
+  "updated_at": "2026-05-08T13:24:04.403116+00:00",
+  "total_sources": 45,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -696,7 +696,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T13:29:26.631275+00:00",
-      "last_seen": "2026-05-08T07:24:20.188513+00:00",
+      "last_seen": "2026-05-08T13:24:04.221889+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -723,7 +723,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T19:14:03.137621+00:00",
-      "last_seen": "2026-05-08T07:24:20.188118+00:00",
+      "last_seen": "2026-05-08T13:24:04.221464+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -777,7 +777,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T19:14:03.138664+00:00",
-      "last_seen": "2026-05-08T07:24:20.188366+00:00",
+      "last_seen": "2026-05-08T13:24:04.221737+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -804,7 +804,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T02:29:55.630856+00:00",
-      "last_seen": "2026-05-08T07:24:20.187920+00:00",
+      "last_seen": "2026-05-08T13:24:04.221288+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -831,7 +831,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T13:59:39.635881+00:00",
-      "last_seen": "2026-05-08T07:24:20.187647+00:00",
+      "last_seen": "2026-05-08T13:24:04.221014+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -858,7 +858,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T13:59:39.636761+00:00",
-      "last_seen": "2026-05-08T07:24:20.187777+00:00",
+      "last_seen": "2026-05-08T13:24:04.221144+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -885,7 +885,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T02:32:16.337287+00:00",
-      "last_seen": "2026-05-08T07:24:20.187362+00:00",
+      "last_seen": "2026-05-08T13:24:04.220711+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -912,7 +912,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T02:32:16.338217+00:00",
-      "last_seen": "2026-05-08T07:24:20.187531+00:00",
+      "last_seen": "2026-05-08T13:24:04.220898+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -939,7 +939,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T13:57:22.737485+00:00",
-      "last_seen": "2026-05-08T07:24:20.186985+00:00",
+      "last_seen": "2026-05-08T13:24:04.220318+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -966,7 +966,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T13:57:22.738604+00:00",
-      "last_seen": "2026-05-08T07:24:20.187212+00:00",
+      "last_seen": "2026-05-08T13:24:04.220536+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -993,7 +993,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T19:39:45.393494+00:00",
-      "last_seen": "2026-05-08T07:24:20.186757+00:00",
+      "last_seen": "2026-05-08T13:24:04.220138+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1020,7 +1020,196 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-08T07:24:20.185765+00:00",
-      "last_seen": "2026-05-08T07:24:20.185765+00:00",
+      "last_seen": "2026-05-08T13:24:04.220031+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "4becc8957a76d43f",
+      "title": "Second World War veterans to travel to overseas commemorations paid for by the Government",
+      "url": "https://www.gov.uk/government/news/second-world-war-veterans-to-travel-to-overseas-commemorations-paid-for-by-the-government",
+      "start_date": "2026-05-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Ministry of Defence will pay for Second World War veterans to attend commemorations in Europe this summer in partnership with the Royal British Legion",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-08T13:24:04.218011+00:00",
+      "last_seen": "2026-05-08T13:24:04.218011+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "cb8164eb11974fa6",
+      "title": "Bird flu (avian influenza): latest situation in England",
+      "url": "https://www.gov.uk/government/news/bird-flu-avian-influenza-latest-situation-in-england",
+      "start_date": "2026-05-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Find out about the latest bird flu situation in England and guidance for bird keepers and the public.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-08T13:24:04.219056+00:00",
+      "last_seen": "2026-05-08T13:24:04.219056+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8bb3883127f985eb",
+      "title": "Martyn's Law: guidance, consultation and progress",
+      "url": "https://www.gov.uk/government/news/martyns-law-guidance-consultation-and-progress",
+      "start_date": "2026-05-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "SIA Executive Director of Martyn\u2019s Law Laura Gibb discusses April\u2019s statutory guidance and other ongoing work to establish this new regulatory function.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-08T13:24:04.219209+00:00",
+      "last_seen": "2026-05-08T13:24:04.219209+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6bd3bb616315b0d8",
+      "title": "UK government shows \u201cunwavering support\u201d for war crime accountability",
+      "url": "https://www.gov.uk/government/news/uk-government-shows-unwavering-support-for-war-crime-accountability",
+      "start_date": "2026-05-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Minister for Victims and Tackling Violence Against Women and Girls, Alex Davies-Jones visits Ukraine to address the United for Justice Conference.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-08T13:24:04.219384+00:00",
+      "last_seen": "2026-05-08T13:24:04.219384+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "89796cbc2ef9415f",
+      "title": "New national collaboration space to strengthen youth justice policing",
+      "url": "https://www.gov.uk/government/news/new-national-collaboration-space-to-strengthen-youth-justice-policing",
+      "start_date": "2026-05-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Basecamp: Diversion and Youth Justice Policing is a dedicated secure platform for real-time collaboration, problem-solving and shared learning across the sector.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-08T13:24:04.219564+00:00",
+      "last_seen": "2026-05-08T13:24:04.219564+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9721ed58a19d0a37",
+      "title": "Lee Owston's speech at the Schools and Academies Show",
+      "url": "https://www.gov.uk/government/speeches/lee-owstons-speech-at-the-schools-and-academies-show",
+      "start_date": "2026-05-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Ofsted's National Director for Education, Lee Owston, spoke at the Schools and Academies Show in London.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-08T13:24:04.219764+00:00",
+      "last_seen": "2026-05-08T13:24:04.219764+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1fc703d0d22cf40b",
+      "title": "Anniversary Statement: Exodus Deltajet 500 Stingray, G-CMYY",
+      "url": "https://www.gov.uk/government/news/anniversary-statement-exodus-deltajet-500-stingray-g-cmyy",
+      "start_date": "2026-05-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Struck fence during landing and rolled inverted at East Fortune Airfield, East Lothian, on 8 May 2025",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-08T13:24:04.219898+00:00",
+      "last_seen": "2026-05-08T13:24:04.219898+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
