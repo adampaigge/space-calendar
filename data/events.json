@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T02:38:36.476575+00:00",
-  "total_sources": 37,
+  "updated_at": "2026-05-08T07:24:20.300649+00:00",
+  "total_sources": 38,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -21,7 +21,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.533741+00:00",
-      "last_seen": "2026-05-08T02:38:36.374536+00:00",
+      "last_seen": "2026-05-08T07:24:20.189516+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -48,7 +48,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-04-30T21:31:17.534644+00:00",
-      "last_seen": "2026-05-08T02:38:36.374684+00:00",
+      "last_seen": "2026-05-08T07:24:20.189664+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -561,7 +561,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-01T13:11:29.053073+00:00",
-      "last_seen": "2026-05-08T02:38:36.374316+00:00",
+      "last_seen": "2026-05-08T07:24:20.189269+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -588,7 +588,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-01T13:11:29.054092+00:00",
-      "last_seen": "2026-05-08T02:38:36.374440+00:00",
+      "last_seen": "2026-05-08T07:24:20.189405+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -615,7 +615,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-02T13:01:24.780626+00:00",
-      "last_seen": "2026-05-08T02:38:36.374144+00:00",
+      "last_seen": "2026-05-08T07:24:20.189075+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -642,7 +642,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-03T02:32:55.831802+00:00",
-      "last_seen": "2026-05-08T02:38:36.373992+00:00",
+      "last_seen": "2026-05-08T07:24:20.188861+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -669,7 +669,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T02:26:03.040475+00:00",
-      "last_seen": "2026-05-08T02:38:36.373828+00:00",
+      "last_seen": "2026-05-08T07:24:20.188677+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -696,7 +696,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T13:29:26.631275+00:00",
-      "last_seen": "2026-05-08T02:38:36.373684+00:00",
+      "last_seen": "2026-05-08T07:24:20.188513+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -723,7 +723,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T19:14:03.137621+00:00",
-      "last_seen": "2026-05-08T02:38:36.373317+00:00",
+      "last_seen": "2026-05-08T07:24:20.188118+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -777,7 +777,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-05T19:14:03.138664+00:00",
-      "last_seen": "2026-05-08T02:38:36.373535+00:00",
+      "last_seen": "2026-05-08T07:24:20.188366+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -804,7 +804,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T02:29:55.630856+00:00",
-      "last_seen": "2026-05-08T02:38:36.373163+00:00",
+      "last_seen": "2026-05-08T07:24:20.187920+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -831,7 +831,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T13:59:39.635881+00:00",
-      "last_seen": "2026-05-08T02:38:36.372904+00:00",
+      "last_seen": "2026-05-08T07:24:20.187647+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -858,7 +858,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-06T13:59:39.636761+00:00",
-      "last_seen": "2026-05-08T02:38:36.373026+00:00",
+      "last_seen": "2026-05-08T07:24:20.187777+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -885,7 +885,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T02:32:16.337287+00:00",
-      "last_seen": "2026-05-08T02:38:36.372635+00:00",
+      "last_seen": "2026-05-08T07:24:20.187362+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -912,7 +912,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T02:32:16.338217+00:00",
-      "last_seen": "2026-05-08T02:38:36.372798+00:00",
+      "last_seen": "2026-05-08T07:24:20.187531+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -939,7 +939,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T13:57:22.737485+00:00",
-      "last_seen": "2026-05-08T02:38:36.372268+00:00",
+      "last_seen": "2026-05-08T07:24:20.186985+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -966,7 +966,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T13:57:22.738604+00:00",
-      "last_seen": "2026-05-08T02:38:36.372478+00:00",
+      "last_seen": "2026-05-08T07:24:20.187212+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -993,7 +993,34 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-07T19:39:45.393494+00:00",
-      "last_seen": "2026-05-08T02:38:36.371358+00:00",
+      "last_seen": "2026-05-08T07:24:20.186757+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8d1a187941f5b3a5",
+      "title": "UKHSA update on the hantavirus cruise ship outbreak",
+      "url": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak",
+      "start_date": "2026-05-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information on cases including British nationals.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-08T07:24:20.185765+00:00",
+      "last_seen": "2026-05-08T07:24:20.185765+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
