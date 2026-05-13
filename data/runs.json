@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-05-13T19:49:38.537473+00:00",
+    "sources": 10,
+    "events_found": 20,
+    "events_added": 1,
+    "events_updated": 19,
+    "errors": [],
+    "duration_ms": 16043
+  },
+  {
     "timestamp": "2026-05-13T14:24:00.929278+00:00",
     "sources": 10,
     "events_found": 20,
