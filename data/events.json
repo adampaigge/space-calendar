@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T08:34:02.829851+00:00",
-  "total_sources": 70,
+  "updated_at": "2026-05-14T14:00:15.043969+00:00",
+  "total_sources": 80,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -1614,7 +1614,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-12T19:44:29.941497+00:00",
-      "last_seen": "2026-05-14T08:34:02.619811+00:00",
+      "last_seen": "2026-05-14T14:00:14.777002+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1668,7 +1668,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-13T02:44:07.788633+00:00",
-      "last_seen": "2026-05-14T08:34:02.619657+00:00",
+      "last_seen": "2026-05-14T14:00:14.776805+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1695,7 +1695,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-13T08:39:53.418332+00:00",
-      "last_seen": "2026-05-14T08:34:02.619488+00:00",
+      "last_seen": "2026-05-14T14:00:14.776675+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1722,7 +1722,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-13T14:24:00.706881+00:00",
-      "last_seen": "2026-05-14T08:34:02.618685+00:00",
+      "last_seen": "2026-05-14T14:00:14.775717+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1749,7 +1749,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-13T14:24:00.707943+00:00",
-      "last_seen": "2026-05-14T08:34:02.618852+00:00",
+      "last_seen": "2026-05-14T14:00:14.775873+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1776,7 +1776,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-13T14:24:00.708115+00:00",
-      "last_seen": "2026-05-14T08:34:02.618997+00:00",
+      "last_seen": "2026-05-14T14:00:14.776013+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1803,7 +1803,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-13T14:24:00.708364+00:00",
-      "last_seen": "2026-05-14T08:34:02.619239+00:00",
+      "last_seen": "2026-05-14T14:00:14.776289+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1830,7 +1830,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-13T14:24:00.708481+00:00",
-      "last_seen": "2026-05-14T08:34:02.619350+00:00",
+      "last_seen": "2026-05-14T14:00:14.776423+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1857,7 +1857,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-13T19:49:38.315065+00:00",
-      "last_seen": "2026-05-14T08:34:02.618532+00:00",
+      "last_seen": "2026-05-14T14:00:14.775615+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -1884,7 +1884,277 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-14T02:45:02.943999+00:00",
-      "last_seen": "2026-05-14T08:34:02.617592+00:00",
+      "last_seen": "2026-05-14T14:00:14.775449+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1130fd4b58a99870",
+      "title": "New working hub planned for Millom library building",
+      "url": "https://www.gov.uk/government/news/new-working-hub-planned-for-millom-library-building",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A new office hub in Millom has started to take shape.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.772909+00:00",
+      "last_seen": "2026-05-14T14:00:14.772909+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "333117448836e528",
+      "title": "NRS socio-economic funding supports 129 UK community projects",
+      "url": "https://www.gov.uk/government/news/nrs-socio-economic-funding-supports-129-uk-community-projects",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Almost \u00a32 million was invested by NRS last year in socio-economic initiatives, supporting good causes in communities local to its 14 decommissioning sites.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.773905+00:00",
+      "last_seen": "2026-05-14T14:00:14.773905+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "980cc571e2dc4fd0",
+      "title": "Infected Blood: A Service of Recognition, Remembrance and Reflection",
+      "url": "https://www.gov.uk/government/news/infected-blood-a-service-of-recognition-remembrance-and-reflection",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "There will be a national service at St. Paul\u2019s Cathedral for the infected blood community on Tuesday 19th May 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.774085+00:00",
+      "last_seen": "2026-05-14T14:00:14.774085+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6522693d5e4a8b5d",
+      "title": "Security Minister statement on national security and threat level",
+      "url": "https://www.gov.uk/government/speeches/security-minister-statement-on-national-security-and-threat-level",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Security Minister gave an update to Parliament on a number of recent national security issues, including the increase in the national threat level.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.774247+00:00",
+      "last_seen": "2026-05-14T14:00:14.774247+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2bc663a790d75649",
+      "title": "Environment Secretary in Northern Ireland for UK\u2013EU Reset talks",
+      "url": "https://www.gov.uk/government/news/environment-secretary-in-northern-ireland-for-uk-eu-reset-talks",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Environment Secretary Emma Reynolds visits Northern Ireland to highlight how a UK-EU food and drink deal will cut red tape, lower costs and keep trade flowing.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.774416+00:00",
+      "last_seen": "2026-05-14T14:00:14.774416+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d8912ad4a25484ba",
+      "title": "Government reviews access to face to face banking services",
+      "url": "https://www.gov.uk/government/news/government-reviews-access-to-face-to-face-banking-services",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "An independent review will look at how shifts in face-to-face banking services affect people and communities, with new powers enabling the Government to act on what it finds.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.774616+00:00",
+      "last_seen": "2026-05-14T14:00:14.774616+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b1c3f193f144b148",
+      "title": "Michael Salter-Church reappointed as Chair of the Horniman Museum",
+      "url": "https://www.gov.uk/government/news/michael-salter-church-reappointed-as-chair-of-the-horniman-museum",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Secretary of State has reappointed Michael Salter-Church as Chair of the Horniman Museum and Gardens from 14 August 2026 to 13 August 2030",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.774785+00:00",
+      "last_seen": "2026-05-14T14:00:14.774785+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ef97b1c3bec90172",
+      "title": "Government ramps up plans to protect Britain\u2019s pig sector against African and classical swine fever",
+      "url": "https://www.gov.uk/government/news/government-ramps-up-plans-to-protect-britains-pig-sector-against-african-and-classical-swine-fever",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "New strategy launched to strengthen UK preparedness against African and classical swine fever",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.774936+00:00",
+      "last_seen": "2026-05-14T14:00:14.774936+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "194c3d5ed2a472b0",
+      "title": "CMA launches strategic market status investigation into Microsoft\u2019s business software ecosystem",
+      "url": "https://www.gov.uk/government/news/cma-launches-strategic-market-status-investigation-into-microsofts-business-software-ecosystem",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "CMA sets out scope of its investigation to determine whether Microsoft should be designated with strategic market status for its business software ecosystem.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.775089+00:00",
+      "last_seen": "2026-05-14T14:00:14.775089+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b734d99862f79b75",
+      "title": "Labour Markets Evaluation and Pilots (LMEP) Fund: funded projects",
+      "url": "https://www.gov.uk/government/news/labour-markets-evaluation-and-pilots-lmep-fund-funded-projects",
+      "start_date": "2026-05-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Details of the pilots and evaluations funded by HM Treasury\u2019s Labour Markets Evaluation and Pilots (LMEP) Fund.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-14T14:00:14.775308+00:00",
+      "last_seen": "2026-05-14T14:00:14.775308+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
