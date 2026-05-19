@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T02:50:01.153381+00:00",
-  "total_sources": 102,
+  "updated_at": "2026-05-19T09:36:26.667990+00:00",
+  "total_sources": 105,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -2235,7 +2235,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-15T13:57:21.521957+00:00",
-      "last_seen": "2026-05-19T02:50:00.994696+00:00",
+      "last_seen": "2026-05-19T09:36:26.475874+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2262,7 +2262,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-15T13:57:21.522984+00:00",
-      "last_seen": "2026-05-19T02:50:00.994878+00:00",
+      "last_seen": "2026-05-19T09:36:26.476035+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2289,7 +2289,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-15T13:57:21.523125+00:00",
-      "last_seen": "2026-05-19T02:50:00.994997+00:00",
+      "last_seen": "2026-05-19T09:36:26.476147+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2316,7 +2316,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-15T13:57:21.523263+00:00",
-      "last_seen": "2026-05-19T02:50:00.995124+00:00",
+      "last_seen": "2026-05-19T09:36:26.476269+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2343,7 +2343,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-15T13:57:21.523415+00:00",
-      "last_seen": "2026-05-19T02:50:00.995274+00:00",
+      "last_seen": "2026-05-19T09:36:26.476412+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2397,7 +2397,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-15T19:24:53.463292+00:00",
-      "last_seen": "2026-05-19T02:50:00.994547+00:00",
+      "last_seen": "2026-05-19T09:36:26.475701+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2451,7 +2451,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-17T02:42:57.824356+00:00",
-      "last_seen": "2026-05-19T02:50:00.994362+00:00",
+      "last_seen": "2026-05-19T09:36:26.475521+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2505,7 +2505,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T09:54:21.700484+00:00",
-      "last_seen": "2026-05-19T02:50:00.994064+00:00",
+      "last_seen": "2026-05-19T09:36:26.475227+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2532,7 +2532,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T09:54:21.701541+00:00",
-      "last_seen": "2026-05-19T02:50:00.994227+00:00",
+      "last_seen": "2026-05-19T09:36:26.475386+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2559,7 +2559,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.519283+00:00",
-      "last_seen": "2026-05-19T02:50:00.993293+00:00",
+      "last_seen": "2026-05-19T09:36:26.474460+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2586,7 +2586,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.520213+00:00",
-      "last_seen": "2026-05-19T02:50:00.993482+00:00",
+      "last_seen": "2026-05-19T09:36:26.474642+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2613,7 +2613,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.520343+00:00",
-      "last_seen": "2026-05-19T02:50:00.993593+00:00",
+      "last_seen": "2026-05-19T09:36:26.474746+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2640,7 +2640,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.520483+00:00",
-      "last_seen": "2026-05-19T02:50:00.993733+00:00",
+      "last_seen": "2026-05-19T09:36:26.474938+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2667,7 +2667,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.520646+00:00",
-      "last_seen": "2026-05-19T02:50:00.993921+00:00",
+      "last_seen": "2026-05-19T09:36:26.475090+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2694,7 +2694,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T19:40:48.781173+00:00",
-      "last_seen": "2026-05-19T02:50:00.993071+00:00",
+      "last_seen": "2026-05-19T09:36:26.474244+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2721,7 +2721,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T02:50:00.991705+00:00",
-      "last_seen": "2026-05-19T02:50:00.991705+00:00",
+      "last_seen": "2026-05-19T09:36:26.473764+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2748,7 +2748,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T02:50:00.992827+00:00",
-      "last_seen": "2026-05-19T02:50:00.992827+00:00",
+      "last_seen": "2026-05-19T09:36:26.474019+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3ce27b4409ff1865",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-latest-decisions",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T09:36:26.472321+00:00",
+      "last_seen": "2026-05-19T09:36:26.472321+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "0b1ff70bd7af7a79",
+      "title": "UK plays leading role as landmark mission launches to unlock secrets of Earth\u2019s magnetic shield",
+      "url": "https://www.gov.uk/government/news/uk-plays-leading-role-as-landmark-mission-launches-to-unlock-secrets-of-earths-magnetic-shield",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UK scientists and companies are at the heart of a pioneering mission, launched into orbit today, that will transform our understanding of how Earth is protected from the Sun.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T09:36:26.473334+00:00",
+      "last_seen": "2026-05-19T09:36:26.473334+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "57294a683d0dcb42",
+      "title": "Foreign Secretary warns the world cannot wait any longer to reopen the Strait of Hormuz, as food security crisis looms for countries already on the edge",
+      "url": "https://www.gov.uk/government/news/foreign-secretary-warns-the-world-cannot-wait-any-longer-to-reopen-the-strait-of-hormuz-as-food-security-crisis-looms-for-countries-already-on-the-edg",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Foreign Secretary warns the world cannot wait any longer to reopen the Strait of Hormuz, as food security crisis looms for countries already on the edge",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T09:36:26.473567+00:00",
+      "last_seen": "2026-05-19T09:36:26.473567+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
