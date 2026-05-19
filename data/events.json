@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T09:36:26.667990+00:00",
-  "total_sources": 105,
+  "updated_at": "2026-05-19T14:52:08.127863+00:00",
+  "total_sources": 114,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -2559,7 +2559,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.519283+00:00",
-      "last_seen": "2026-05-19T09:36:26.474460+00:00",
+      "last_seen": "2026-05-19T14:52:07.905972+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2586,7 +2586,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.520213+00:00",
-      "last_seen": "2026-05-19T09:36:26.474642+00:00",
+      "last_seen": "2026-05-19T14:52:07.906142+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2613,7 +2613,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.520343+00:00",
-      "last_seen": "2026-05-19T09:36:26.474746+00:00",
+      "last_seen": "2026-05-19T14:52:07.906241+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2640,7 +2640,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.520483+00:00",
-      "last_seen": "2026-05-19T09:36:26.474938+00:00",
+      "last_seen": "2026-05-19T14:52:07.906365+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2667,7 +2667,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T15:21:03.520646+00:00",
-      "last_seen": "2026-05-19T09:36:26.475090+00:00",
+      "last_seen": "2026-05-19T14:52:07.906498+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2694,7 +2694,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T19:40:48.781173+00:00",
-      "last_seen": "2026-05-19T09:36:26.474244+00:00",
+      "last_seen": "2026-05-19T14:52:07.905772+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2721,7 +2721,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T02:50:00.991705+00:00",
-      "last_seen": "2026-05-19T09:36:26.473764+00:00",
+      "last_seen": "2026-05-19T14:52:07.905341+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2748,7 +2748,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T02:50:00.992827+00:00",
-      "last_seen": "2026-05-19T09:36:26.474019+00:00",
+      "last_seen": "2026-05-19T14:52:07.905547+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2775,7 +2775,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.472321+00:00",
-      "last_seen": "2026-05-19T09:36:26.472321+00:00",
+      "last_seen": "2026-05-19T14:52:07.904583+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2802,7 +2802,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.473334+00:00",
-      "last_seen": "2026-05-19T09:36:26.473334+00:00",
+      "last_seen": "2026-05-19T14:52:07.904955+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2829,7 +2829,250 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.473567+00:00",
-      "last_seen": "2026-05-19T09:36:26.473567+00:00",
+      "last_seen": "2026-05-19T14:52:07.905151+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bcae20cd9d082fca",
+      "title": "Foreign Secretary's keynote speech at the Global Partnerships Conference: 19 May 2026",
+      "url": "https://www.gov.uk/government/speeches/foreign-secretarys-keynote-speech-at-the-global-partnerships-conference-19-may-2026",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Keynote speech by Foreign Secretary, Yvette Cooper MP, at the Global Partnerships Conference",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.902735+00:00",
+      "last_seen": "2026-05-19T14:52:07.902735+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "32196a575dfaf15f",
+      "title": "HS2 6-monthly report to Parliament: May 2026",
+      "url": "https://www.gov.uk/government/speeches/hs2-6-monthly-report-to-parliament-may-2026",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Review of High Speed Two (HS2) including: update on the programme reset, governance, benefits, community impacts, land and property.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.903529+00:00",
+      "last_seen": "2026-05-19T14:52:07.903529+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "89d2d42216c2a847",
+      "title": "HS2 cancellation cost advice",
+      "url": "https://www.gov.uk/government/publications/hs2-cancellation-cost-advice",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "HS2 Ltd Accounting Officer review of estimated costs of cancellation and remediation of HS2.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.903770+00:00",
+      "last_seen": "2026-05-19T14:52:07.903770+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7f2d6c769b5e12ba",
+      "title": "APHA sniffing out plant threats at the RHS Chelsea Flower Show",
+      "url": "https://www.gov.uk/government/news/apha-sniffing-out-plant-threats-at-the-rhs-chelsea-flower-show",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "APHA's exhibit \u2018Scents and Sensors\u2019 \u2013 Sniffing Out Plant Pests and Diseases featured detection dogs used by Forest Research",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.903889+00:00",
+      "last_seen": "2026-05-19T14:52:07.903889+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3f07d52b6f2d184f",
+      "title": "Housing and Planning Minister speech to UKREiiF 2026",
+      "url": "https://www.gov.uk/government/speeches/housing-and-planning-minister-speech-to-ukreiif-2026",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Housing and Planning Minister's speech at the UK Real Estate and Infrastructure Forum (UKREiiF) on 19 May 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.904060+00:00",
+      "last_seen": "2026-05-19T14:52:07.904060+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "878ff2fa29d0a575",
+      "title": "MHRA to support local life sciences sector in Wales",
+      "url": "https://www.gov.uk/government/news/mhra-to-support-local-life-sciences-sector-in-wales",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "MHRA announces new programme ofeventsand greater engagement with industries, researchers, local NHS and government in Wales.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.904258+00:00",
+      "last_seen": "2026-05-19T14:52:07.904258+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d725f1eec9af06c6",
+      "title": "New urban village with nearly 2,000 homes another step closer for Leeds thanks to \u00a316 million government funding boost",
+      "url": "https://www.gov.uk/government/news/new-urban-village-with-nearly-2000-homes-another-step-closer-for-leeds-thanks-to-16-million-government-funding-boost",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Transformation of redundant brownfield land into a thriving urban neighbourhood by Caddick Group boosted by \u00a316 million Homes England grant.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.904412+00:00",
+      "last_seen": "2026-05-19T14:52:07.904412+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a174d7be352a0658",
+      "title": "Infected Blood: A Service of Recognition, Remembrance and Reflection",
+      "url": "https://www.gov.uk/government/news/infected-blood-a-service-of-recognition-remembrance-and-reflection",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "There will be a national service at St. Paul\u2019s Cathedral for the infected blood community on Tuesday 19th May 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.904696+00:00",
+      "last_seen": "2026-05-19T14:52:07.904696+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "26934e1011bf4720",
+      "title": "Baroness Chapman's speech at the Global Partnerships Conference: 19 May 2026",
+      "url": "https://www.gov.uk/government/speeches/baroness-chapmans-speech-at-the-global-partnerships-conference-19-may-2026",
+      "start_date": "2026-05-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Opening speech by Baroness Chapman at the Global Partnerships Conference",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-19T14:52:07.904843+00:00",
+      "last_seen": "2026-05-19T14:52:07.904843+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
