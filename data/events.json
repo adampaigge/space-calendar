@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T09:23:56.285445+00:00",
-  "total_sources": 121,
+  "updated_at": "2026-05-20T14:53:19.950568+00:00",
+  "total_sources": 130,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -2856,7 +2856,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.902735+00:00",
-      "last_seen": "2026-05-20T09:23:56.036104+00:00",
+      "last_seen": "2026-05-20T14:53:19.751693+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2883,7 +2883,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.903529+00:00",
-      "last_seen": "2026-05-20T09:23:56.036228+00:00",
+      "last_seen": "2026-05-20T14:53:19.751831+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2910,7 +2910,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.903770+00:00",
-      "last_seen": "2026-05-20T09:23:56.036361+00:00",
+      "last_seen": "2026-05-20T14:53:19.751998+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2964,7 +2964,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904060+00:00",
-      "last_seen": "2026-05-20T09:23:56.036638+00:00",
+      "last_seen": "2026-05-20T14:53:19.752114+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3099,7 +3099,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.842021+00:00",
-      "last_seen": "2026-05-20T09:23:56.035527+00:00",
+      "last_seen": "2026-05-20T14:53:19.751183+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3126,7 +3126,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.842970+00:00",
-      "last_seen": "2026-05-20T09:23:56.035737+00:00",
+      "last_seen": "2026-05-20T14:53:19.751404+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3153,7 +3153,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.843227+00:00",
-      "last_seen": "2026-05-20T09:23:56.035966+00:00",
+      "last_seen": "2026-05-20T14:53:19.751541+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3180,7 +3180,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T02:50:27.095651+00:00",
-      "last_seen": "2026-05-20T09:23:56.035177+00:00",
+      "last_seen": "2026-05-20T14:53:19.750812+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3207,7 +3207,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T02:50:27.096514+00:00",
-      "last_seen": "2026-05-20T09:23:56.035291+00:00",
+      "last_seen": "2026-05-20T14:53:19.750957+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3234,7 +3234,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T09:23:56.034140+00:00",
-      "last_seen": "2026-05-20T09:23:56.034140+00:00",
+      "last_seen": "2026-05-20T14:53:19.750534+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3261,7 +3261,250 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T09:23:56.035009+00:00",
-      "last_seen": "2026-05-20T09:23:56.035009+00:00",
+      "last_seen": "2026-05-20T14:53:19.750663+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "cf0be453fe97a7ed",
+      "title": "APHA sniffing out plant threats at the RHS Chelsea Flower Show",
+      "url": "https://www.gov.uk/government/news/apha-sniffing-out-plant-threats-at-the-rhs-chelsea-flower-show",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "APHA's exhibit \u2018Scents and Sensors\u2019 \u2013 Sniffing Out Plant Pests and Diseases featuring detection dogs used by Forest Research",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.748252+00:00",
+      "last_seen": "2026-05-20T14:53:19.748252+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "955d5e4b24d5f90b",
+      "title": "Developer sought to create new city quarter for Nottingham as work to transform iconic city centre site gathers pace",
+      "url": "https://www.gov.uk/government/news/developer-sought-to-create-1000-homes-and-thriving-commercial-district-for-nottingham-as-work-to-transform-iconic-city-centre-site-gathers-pace",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Reinvention of former Broad Marsh shopping centre another step closer as Homes England launches preliminary market engagement to appoint development partner.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.749316+00:00",
+      "last_seen": "2026-05-20T14:53:19.749316+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e0842d99cce9bcf3",
+      "title": "DfE Update 20 May 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-20-may-2026",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.749516+00:00",
+      "last_seen": "2026-05-20T14:53:19.749516+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "efc627f78f71b0d2",
+      "title": "Memorial service to remember Infected Blood victims",
+      "url": "https://www.gov.uk/government/news/memorial-service-to-remember-infected-blood-victims",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "National memorial service held at St Paul's Cathedral to remember Infected Blood victims.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.749679+00:00",
+      "last_seen": "2026-05-20T14:53:19.749679+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "82ea168e8f0a2f0f",
+      "title": "Reeves to use Parliament to drive through power plants and infrastructure",
+      "url": "https://www.gov.uk/government/news/reeves-to-use-parliament-to-drive-through-power-plants-and-infrastructure",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Chancellor announces further reforms on judicial review of major infrastructure projects.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.749811+00:00",
+      "last_seen": "2026-05-20T14:53:19.749811+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5b6649189d2921a3",
+      "title": "Chancellor protects drivers and businesses from rising fuel costs",
+      "url": "https://www.gov.uk/government/news/chancellor-protects-drivers-and-businesses-from-rising-fuel-costs",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Government has announced a support package for motorists.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.749996+00:00",
+      "last_seen": "2026-05-20T14:53:19.749996+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a2d66a506160b877",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-latest-decisions",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.750124+00:00",
+      "last_seen": "2026-05-20T14:53:19.750124+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b1052f70ea68bf9f",
+      "title": "Letter from Emma Hardy MP to Alan Lovell, Chair of the Environment Agency",
+      "url": "https://www.gov.uk/government/publications/letter-from-emma-hardy-mp-to-alan-lovell-chair-of-the-environment-agency",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "This letter sets out the government\u2019s priorities for the review of the National Flood and Coastal Erosion Risk Management Strategy for England.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.750236+00:00",
+      "last_seen": "2026-05-20T14:53:19.750236+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8731cf43109cfe99",
+      "title": "Chancellor commits to new anti-profiteering powers and fights back on rising bills",
+      "url": "https://www.gov.uk/government/news/chancellor-commits-to-new-anti-profiteering-powers-and-fights-back-on-rising-bills",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Consumer watchdogs to gain new investigatory powers",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T14:53:19.750410+00:00",
+      "last_seen": "2026-05-20T14:53:19.750410+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
