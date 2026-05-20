@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T02:50:27.356165+00:00",
-  "total_sources": 119,
+  "updated_at": "2026-05-20T09:23:56.285445+00:00",
+  "total_sources": 121,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -2721,7 +2721,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T02:50:00.991705+00:00",
-      "last_seen": "2026-05-20T02:50:27.098988+00:00",
+      "last_seen": "2026-05-20T09:23:56.037753+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2775,7 +2775,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.472321+00:00",
-      "last_seen": "2026-05-20T02:50:27.097098+00:00",
+      "last_seen": "2026-05-20T09:23:56.035866+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2802,7 +2802,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.473334+00:00",
-      "last_seen": "2026-05-20T02:50:27.098600+00:00",
+      "last_seen": "2026-05-20T09:23:56.037346+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2829,7 +2829,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.473567+00:00",
-      "last_seen": "2026-05-20T02:50:27.098794+00:00",
+      "last_seen": "2026-05-20T09:23:56.037559+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2856,7 +2856,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.902735+00:00",
-      "last_seen": "2026-05-20T02:50:27.097357+00:00",
+      "last_seen": "2026-05-20T09:23:56.036104+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2883,7 +2883,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.903529+00:00",
-      "last_seen": "2026-05-20T02:50:27.097485+00:00",
+      "last_seen": "2026-05-20T09:23:56.036228+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2910,7 +2910,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.903770+00:00",
-      "last_seen": "2026-05-20T02:50:27.097621+00:00",
+      "last_seen": "2026-05-20T09:23:56.036361+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2937,7 +2937,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.903889+00:00",
-      "last_seen": "2026-05-20T02:50:27.097727+00:00",
+      "last_seen": "2026-05-20T09:23:56.036489+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2964,7 +2964,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904060+00:00",
-      "last_seen": "2026-05-20T02:50:27.097873+00:00",
+      "last_seen": "2026-05-20T09:23:56.036638+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2991,7 +2991,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904258+00:00",
-      "last_seen": "2026-05-20T02:50:27.098003+00:00",
+      "last_seen": "2026-05-20T09:23:56.036766+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3018,7 +3018,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904412+00:00",
-      "last_seen": "2026-05-20T02:50:27.098161+00:00",
+      "last_seen": "2026-05-20T09:23:56.036908+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3045,7 +3045,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904696+00:00",
-      "last_seen": "2026-05-20T02:50:27.098339+00:00",
+      "last_seen": "2026-05-20T09:23:56.037084+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3072,7 +3072,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904843+00:00",
-      "last_seen": "2026-05-20T02:50:27.098486+00:00",
+      "last_seen": "2026-05-20T09:23:56.037231+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3099,7 +3099,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.842021+00:00",
-      "last_seen": "2026-05-20T02:50:27.096756+00:00",
+      "last_seen": "2026-05-20T09:23:56.035527+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3126,7 +3126,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.842970+00:00",
-      "last_seen": "2026-05-20T02:50:27.096968+00:00",
+      "last_seen": "2026-05-20T09:23:56.035737+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3153,7 +3153,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.843227+00:00",
-      "last_seen": "2026-05-20T02:50:27.097217+00:00",
+      "last_seen": "2026-05-20T09:23:56.035966+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3180,7 +3180,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T02:50:27.095651+00:00",
-      "last_seen": "2026-05-20T02:50:27.095651+00:00",
+      "last_seen": "2026-05-20T09:23:56.035177+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3207,7 +3207,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T02:50:27.096514+00:00",
-      "last_seen": "2026-05-20T02:50:27.096514+00:00",
+      "last_seen": "2026-05-20T09:23:56.035291+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "fdaef8158079eac8",
+      "title": "VMD launches new digital service for reporting problems with animal medicines",
+      "url": "https://www.gov.uk/government/news/vmd-launches-new-digital-service-for-reporting-problems-with-animal-medicines",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "New service makes adverseeventreporting easier and more efficient than ever.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T09:23:56.034140+00:00",
+      "last_seen": "2026-05-20T09:23:56.034140+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f3032f1f611f312b",
+      "title": "Minister Elmore's speech at the Global Partnerships Conference: 19 May 2026",
+      "url": "https://www.gov.uk/government/speeches/minister-elmores-speech-at-the-global-partnerships-conference-19-may-2026",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Opening remarks by Minister Elmore at the Voices of Civic Leadership plenary on Day 1 of the Global Partnerships Conference",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T09:23:56.035009+00:00",
+      "last_seen": "2026-05-20T09:23:56.035009+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
