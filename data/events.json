@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T19:48:10.077594+00:00",
-  "total_sources": 117,
+  "updated_at": "2026-05-20T02:50:27.356165+00:00",
+  "total_sources": 119,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -2694,7 +2694,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-18T19:40:48.781173+00:00",
-      "last_seen": "2026-05-19T19:48:09.845467+00:00",
+      "last_seen": "2026-05-20T02:50:27.099429+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2721,7 +2721,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T02:50:00.991705+00:00",
-      "last_seen": "2026-05-19T19:48:09.845031+00:00",
+      "last_seen": "2026-05-20T02:50:27.098988+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2748,7 +2748,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T02:50:00.992827+00:00",
-      "last_seen": "2026-05-19T19:48:09.845246+00:00",
+      "last_seen": "2026-05-20T02:50:27.099220+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2775,7 +2775,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.472321+00:00",
-      "last_seen": "2026-05-19T19:48:09.843120+00:00",
+      "last_seen": "2026-05-20T02:50:27.097098+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2802,7 +2802,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.473334+00:00",
-      "last_seen": "2026-05-19T19:48:09.844628+00:00",
+      "last_seen": "2026-05-20T02:50:27.098600+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2829,7 +2829,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T09:36:26.473567+00:00",
-      "last_seen": "2026-05-19T19:48:09.844839+00:00",
+      "last_seen": "2026-05-20T02:50:27.098794+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2856,7 +2856,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.902735+00:00",
-      "last_seen": "2026-05-19T19:48:09.843368+00:00",
+      "last_seen": "2026-05-20T02:50:27.097357+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2883,7 +2883,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.903529+00:00",
-      "last_seen": "2026-05-19T19:48:09.843497+00:00",
+      "last_seen": "2026-05-20T02:50:27.097485+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2910,7 +2910,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.903770+00:00",
-      "last_seen": "2026-05-19T19:48:09.843650+00:00",
+      "last_seen": "2026-05-20T02:50:27.097621+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2937,7 +2937,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.903889+00:00",
-      "last_seen": "2026-05-19T19:48:09.843758+00:00",
+      "last_seen": "2026-05-20T02:50:27.097727+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2964,7 +2964,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904060+00:00",
-      "last_seen": "2026-05-19T19:48:09.843902+00:00",
+      "last_seen": "2026-05-20T02:50:27.097873+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -2991,7 +2991,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904258+00:00",
-      "last_seen": "2026-05-19T19:48:09.844031+00:00",
+      "last_seen": "2026-05-20T02:50:27.098003+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3018,7 +3018,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904412+00:00",
-      "last_seen": "2026-05-19T19:48:09.844170+00:00",
+      "last_seen": "2026-05-20T02:50:27.098161+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3045,7 +3045,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904696+00:00",
-      "last_seen": "2026-05-19T19:48:09.844345+00:00",
+      "last_seen": "2026-05-20T02:50:27.098339+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3072,7 +3072,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T14:52:07.904843+00:00",
-      "last_seen": "2026-05-19T19:48:09.844490+00:00",
+      "last_seen": "2026-05-20T02:50:27.098486+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3099,7 +3099,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.842021+00:00",
-      "last_seen": "2026-05-19T19:48:09.842021+00:00",
+      "last_seen": "2026-05-20T02:50:27.096756+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3126,7 +3126,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.842970+00:00",
-      "last_seen": "2026-05-19T19:48:09.842970+00:00",
+      "last_seen": "2026-05-20T02:50:27.096968+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3153,7 +3153,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-19T19:48:09.843227+00:00",
-      "last_seen": "2026-05-19T19:48:09.843227+00:00",
+      "last_seen": "2026-05-20T02:50:27.097217+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "96fa605439d39dd7",
+      "title": "Knife robberies down by more than a fifth",
+      "url": "https://www.gov.uk/government/news/knife-robberies-down-by-more-than-a-fifth",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Knife robberies have fallen by 21% as government action takes effect.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T02:50:27.095651+00:00",
+      "last_seen": "2026-05-20T02:50:27.095651+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "052557cc8967a12f",
+      "title": "Leaking church roofs to be fixed and heritage buildings revitalised as applications open for \u00a348 million of heritage funding",
+      "url": "https://www.gov.uk/government/news/leaking-church-roofs-to-be-fixed-and-heritage-buildings-revitalised-as-applications-open-for-48-million-of-heritage-funding",
+      "start_date": "2026-05-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Three heritage funds have opened for Expressions of Interest, including the new \u00a392 million Places of Worship Fund, as well as the second rounds of the Heritage at Risk Capital Fund and Heritage Revival Fund",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-20T02:50:27.096514+00:00",
+      "last_seen": "2026-05-20T02:50:27.096514+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
