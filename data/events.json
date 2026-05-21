@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T09:33:06.814813+00:00",
-  "total_sources": 135,
+  "updated_at": "2026-05-21T14:57:25.609839+00:00",
+  "total_sources": 146,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -3288,7 +3288,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T14:53:19.748252+00:00",
-      "last_seen": "2026-05-21T09:33:06.618847+00:00",
+      "last_seen": "2026-05-21T14:57:25.413427+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3315,7 +3315,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T14:53:19.749316+00:00",
-      "last_seen": "2026-05-21T09:33:06.619070+00:00",
+      "last_seen": "2026-05-21T14:57:25.413603+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3342,7 +3342,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T14:53:19.749516+00:00",
-      "last_seen": "2026-05-21T09:33:06.619253+00:00",
+      "last_seen": "2026-05-21T14:57:25.413778+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3369,7 +3369,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T14:53:19.749679+00:00",
-      "last_seen": "2026-05-21T09:33:06.619397+00:00",
+      "last_seen": "2026-05-21T14:57:25.413921+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3531,7 +3531,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-20T20:09:05.968008+00:00",
-      "last_seen": "2026-05-21T09:33:06.618669+00:00",
+      "last_seen": "2026-05-21T14:57:25.413206+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3558,7 +3558,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-21T02:53:20.443834+00:00",
-      "last_seen": "2026-05-21T09:33:06.618320+00:00",
+      "last_seen": "2026-05-21T14:57:25.412868+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3585,7 +3585,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-21T02:53:20.445032+00:00",
-      "last_seen": "2026-05-21T09:33:06.618505+00:00",
+      "last_seen": "2026-05-21T14:57:25.413046+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3612,7 +3612,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-21T09:33:06.617060+00:00",
-      "last_seen": "2026-05-21T09:33:06.617060+00:00",
+      "last_seen": "2026-05-21T14:57:25.412741+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3639,7 +3639,304 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-21T09:33:06.618127+00:00",
-      "last_seen": "2026-05-21T09:33:06.618127+00:00",
+      "last_seen": "2026-05-21T14:57:25.408963+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f88f0b88b9d15d85",
+      "title": "Neighbourhood Guarantee to improve towns & cities across country",
+      "url": "https://www.gov.uk/government/news/neighbourhood-guarantee-to-improve-towns-cities-across-country",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Communities\u2019 ambitions will be backed by a new Neighbourhood Guarantee, meaning cleaner streets, filled potholes and other vital public services for every area.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.410349+00:00",
+      "last_seen": "2026-05-21T14:57:25.410349+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1030b3abd0a7bd1d",
+      "title": "UK condemns Russia\u2019s destabilising nuclear rhetoric and RS-28 Sarmat missile signalling: UK Statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/uk-condemns-russias-destabilising-nuclear-rhetoric-and-rs-28-sarmat-missile-signalling-uk-statement-to-the-osce",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UK Senior Military Advisor, Colonel Joby Rimmer condemns Russia\u2019s sustained use of nuclear rhetoric and recent Sarmat missile testing. This pattern of coercive signalling heightens instability, erodes trust, and increases th\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.410569+00:00",
+      "last_seen": "2026-05-21T14:57:25.410569+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bcc4d66240c34f75",
+      "title": "Neighbourhood Guarantee Speech",
+      "url": "https://www.gov.uk/government/speeches/neighbourhood-guarantee-speech",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Communities Secretary Steve Reed speech about a new Neighbourhood Guarantee.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.410892+00:00",
+      "last_seen": "2026-05-21T14:57:25.410892+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "4877d56988b14878",
+      "title": "Serious injury to a train driver during shunting at Carstairs station",
+      "url": "https://www.gov.uk/government/news/serious-injury-to-a-train-driver-during-shunting-at-carstairs-station",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Investigation into a serious injury to a train driver during a shunting operation at Carstairs station, South Lanarkshire, 28 April 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.411046+00:00",
+      "last_seen": "2026-05-21T14:57:25.411046+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "08cbc289e10756b1",
+      "title": "Chancellor puts regional growth at top of the agenda at UKREiiF",
+      "url": "https://www.gov.uk/government/news/chancellor-puts-regional-growth-at-top-of-the-agenda-at-ukreiif",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UKREiiF brought together investors, developers and local leaders from across the country.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.411260+00:00",
+      "last_seen": "2026-05-21T14:57:25.411260+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8887b341b7b52454",
+      "title": "Government steps in to back long-term resilience of UK\u2019s chemicals and ceramics industries",
+      "url": "https://www.gov.uk/government/news/government-steps-in-to-back-long-term-resilience-of-uks-chemicals-and-ceramics-industries",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Government has announced new funding packages for the ceramics and chemicals sectors, worth \u00a3120 million and \u00a3350 million respectively.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.411464+00:00",
+      "last_seen": "2026-05-21T14:57:25.411464+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8b024536ff7f67cd",
+      "title": "Great British Summer Savings 2026: Family activities VAT relief fact sheet",
+      "url": "https://www.gov.uk/government/news/great-british-summer-savings-2026-family-activities-vat-relief-fact-sheet",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "From 25 June to 1 September 2026 the Government is introducing a temporary reduced rate of VAT on children's menu meals in restaurants and family leisure activities over the summer period, cutting VAT from 20% to 5%.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.411709+00:00",
+      "last_seen": "2026-05-21T14:57:25.411709+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "326de40154088606",
+      "title": "International Day Against Homophobia, Biphobia and Transphobia, May 2026: Joint Statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/international-day-against-homophobia-biphobia-and-transphobia-may-2026-joint-statement-to-the-osce",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The UK and likeminded participating States reaffirm their commitment to equality, non discrimination and the human rights of LGBT+ people and call on participating States to uphold OSCE commitments.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.411950+00:00",
+      "last_seen": "2026-05-21T14:57:25.411950+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8aa95eb2d37441bc",
+      "title": "Train overspeeding at Trowell",
+      "url": "https://www.gov.uk/government/news/train-overspeeding-at-trowell",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Investigation into a train overspeeding at Trowell, Nottinghamshire, 4 May 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.412178+00:00",
+      "last_seen": "2026-05-21T14:57:25.412178+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "39a5e88e413927d1",
+      "title": "Romsey flood alleviation scheme strengthened with new defences",
+      "url": "https://www.gov.uk/government/news/romsey-flood-alleviation-scheme-strengthened-with-new-defences",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Environment Agency has raised the height of Stockbridge Road near Timsbury and added a permanent, demountable defence where weed cuttings are caught.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.412338+00:00",
+      "last_seen": "2026-05-21T14:57:25.412338+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "575a38cdfecf1414",
+      "title": "Russia rejects peace efforts with intensified aerial attacks: UK statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/russia-rejects-peace-efforts-with-intensified-aerial-attacks-uk-statement-to-the-osce",
+      "start_date": "2026-05-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The UK condemns Russia\u2019s escalating attacks on Ukrainian civilians following Ukraine\u2019s good faith ceasefire offer. Credible peace requires restraint and constructive engagement, not intensified violence.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-21T14:57:25.412497+00:00",
+      "last_seen": "2026-05-21T14:57:25.412497+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
