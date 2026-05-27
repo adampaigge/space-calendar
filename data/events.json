@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27T09:38:37.459230+00:00",
-  "total_sources": 162,
+  "updated_at": "2026-05-27T15:28:54.762218+00:00",
+  "total_sources": 166,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -3639,7 +3639,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-21T09:33:06.618127+00:00",
-      "last_seen": "2026-05-27T09:38:37.334905+00:00",
+      "last_seen": "2026-05-27T15:28:54.618541+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3963,7 +3963,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-21T19:48:34.816576+00:00",
-      "last_seen": "2026-05-27T09:38:37.334638+00:00",
+      "last_seen": "2026-05-27T15:28:54.618290+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -3990,7 +3990,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-22T02:53:34.998214+00:00",
-      "last_seen": "2026-05-27T09:38:37.334064+00:00",
+      "last_seen": "2026-05-27T15:28:54.617549+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4017,7 +4017,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-22T08:55:46.973648+00:00",
-      "last_seen": "2026-05-27T09:38:37.334519+00:00",
+      "last_seen": "2026-05-27T15:28:54.618173+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4044,7 +4044,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-22T14:30:34.886100+00:00",
-      "last_seen": "2026-05-27T09:38:37.334247+00:00",
+      "last_seen": "2026-05-27T15:28:54.617729+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4071,7 +4071,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-22T14:30:34.887002+00:00",
-      "last_seen": "2026-05-27T09:38:37.334403+00:00",
+      "last_seen": "2026-05-27T15:28:54.618056+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4125,7 +4125,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-25T02:58:54.900458+00:00",
-      "last_seen": "2026-05-27T09:38:37.333779+00:00",
+      "last_seen": "2026-05-27T15:28:54.617256+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4152,7 +4152,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T09:44:32.388272+00:00",
-      "last_seen": "2026-05-27T09:38:37.333661+00:00",
+      "last_seen": "2026-05-27T15:28:54.617136+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4179,7 +4179,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.256525+00:00",
-      "last_seen": "2026-05-27T09:38:37.333238+00:00",
+      "last_seen": "2026-05-27T15:28:54.616711+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4206,7 +4206,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.257418+00:00",
-      "last_seen": "2026-05-27T09:38:37.333385+00:00",
+      "last_seen": "2026-05-27T15:28:54.616859+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4233,7 +4233,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.257597+00:00",
-      "last_seen": "2026-05-27T09:38:37.333541+00:00",
+      "last_seen": "2026-05-27T15:28:54.617015+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4260,7 +4260,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.257985+00:00",
-      "last_seen": "2026-05-27T09:38:37.333920+00:00",
+      "last_seen": "2026-05-27T15:28:54.617399+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4287,7 +4287,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T20:04:21.555538+00:00",
-      "last_seen": "2026-05-27T09:38:37.333131+00:00",
+      "last_seen": "2026-05-27T15:28:54.616585+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4314,7 +4314,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T02:58:13.963245+00:00",
-      "last_seen": "2026-05-27T09:38:37.332784+00:00",
+      "last_seen": "2026-05-27T15:28:54.616286+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4341,7 +4341,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T02:58:13.964165+00:00",
-      "last_seen": "2026-05-27T09:38:37.332951+00:00",
+      "last_seen": "2026-05-27T15:28:54.616432+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4368,7 +4368,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T09:38:37.331866+00:00",
-      "last_seen": "2026-05-27T09:38:37.331866+00:00",
+      "last_seen": "2026-05-27T15:28:54.616113+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "62ebfd00a0879cc4",
+      "title": "Treaty between the Republic of Poland and the United Kingdom of Great Britain and Northern Ireland on a Security and Defence Partnership",
+      "url": "https://www.gov.uk/government/news/treaty-between-the-republic-of-poland-and-the-united-kingdom-of-great-britain-and-northern-ireland-on-a-security-and-defence-partnership",
+      "start_date": "2026-05-27T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Treaty between the Republic of Poland and the United Kingdom of Great Britain and Northern Ireland on a Security and Defence Partnership",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-27T15:28:54.614816+00:00",
+      "last_seen": "2026-05-27T15:28:54.614816+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "87cd224d6868e4ca",
+      "title": "Security and Defence Partnership Treaty: the projects the UK and Poland will deliver together",
+      "url": "https://www.gov.uk/government/news/security-and-defence-partnership-treaty-the-projects-the-uk-and-poland-will-deliver-together",
+      "start_date": "2026-05-27T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Projects agreed between the UK and Poland on the basis of the Treaty signed by the 2 countries on 27 May 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-27T15:28:54.615746+00:00",
+      "last_seen": "2026-05-27T15:28:54.615746+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "175d878af592a660",
+      "title": "Celebrating 60 years of putting excellent science advice at the heart of decision making",
+      "url": "https://www.gov.uk/government/news/celebrating-60-years-of-putting-excellent-science-advice-at-the-heart-of-decision-making",
+      "start_date": "2026-05-27T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Learn about the fascinating history of the role of the UK Government Chief Scientific Adviser as we mark 60 years of scientific excellence with an anniversary publication and thoughts from GCSAs past and present.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-27T15:28:54.615918+00:00",
+      "last_seen": "2026-05-27T15:28:54.615918+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "95bdfe18d2cb1ec2",
+      "title": "Government and rail industry say \u2018enough\u2019 to sexual harassment",
+      "url": "https://www.gov.uk/government/news/government-and-rail-industry-say-enough-to-sexual-harassment",
+      "start_date": "2026-05-22T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Campaign will target sexual harassment on trains and at stations while train operators will be scored on how they tackle the issue under the new scheme.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-27T15:28:54.617885+00:00",
+      "last_seen": "2026-05-27T15:28:54.617885+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
