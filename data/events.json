@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T09:55:09.793821+00:00",
-  "total_sources": 172,
+  "updated_at": "2026-05-28T15:41:41.704024+00:00",
+  "total_sources": 175,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -4152,7 +4152,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T09:44:32.388272+00:00",
-      "last_seen": "2026-05-28T09:55:09.612216+00:00",
+      "last_seen": "2026-05-28T15:41:41.523602+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4179,7 +4179,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.256525+00:00",
-      "last_seen": "2026-05-28T09:55:09.611806+00:00",
+      "last_seen": "2026-05-28T15:41:41.523139+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4206,7 +4206,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.257418+00:00",
-      "last_seen": "2026-05-28T09:55:09.611952+00:00",
+      "last_seen": "2026-05-28T15:41:41.523312+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4233,7 +4233,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.257597+00:00",
-      "last_seen": "2026-05-28T09:55:09.612100+00:00",
+      "last_seen": "2026-05-28T15:41:41.523474+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4287,7 +4287,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T20:04:21.555538+00:00",
-      "last_seen": "2026-05-28T09:55:09.611703+00:00",
+      "last_seen": "2026-05-28T15:41:41.523033+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4314,7 +4314,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T02:58:13.963245+00:00",
-      "last_seen": "2026-05-28T09:55:09.611386+00:00",
+      "last_seen": "2026-05-28T15:41:41.522731+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4341,7 +4341,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T02:58:13.964165+00:00",
-      "last_seen": "2026-05-28T09:55:09.611526+00:00",
+      "last_seen": "2026-05-28T15:41:41.522879+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4368,7 +4368,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T09:38:37.331866+00:00",
-      "last_seen": "2026-05-28T09:55:09.611223+00:00",
+      "last_seen": "2026-05-28T15:41:41.522563+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4395,7 +4395,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T15:28:54.614816+00:00",
-      "last_seen": "2026-05-28T09:55:09.610722+00:00",
+      "last_seen": "2026-05-28T15:41:41.521996+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4422,7 +4422,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T15:28:54.615746+00:00",
-      "last_seen": "2026-05-28T09:55:09.610894+00:00",
+      "last_seen": "2026-05-28T15:41:41.522171+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4449,7 +4449,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T15:28:54.615918+00:00",
-      "last_seen": "2026-05-28T09:55:09.611039+00:00",
+      "last_seen": "2026-05-28T15:41:41.522366+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4503,7 +4503,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T20:09:22.572711+00:00",
-      "last_seen": "2026-05-28T09:55:09.610479+00:00",
+      "last_seen": "2026-05-28T15:41:41.521765+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4530,7 +4530,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T20:09:22.573788+00:00",
-      "last_seen": "2026-05-28T09:55:09.610621+00:00",
+      "last_seen": "2026-05-28T15:41:41.521891+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4557,7 +4557,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T09:55:09.609152+00:00",
-      "last_seen": "2026-05-28T09:55:09.609152+00:00",
+      "last_seen": "2026-05-28T15:41:41.521172+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4584,7 +4584,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T09:55:09.610022+00:00",
-      "last_seen": "2026-05-28T09:55:09.610022+00:00",
+      "last_seen": "2026-05-28T15:41:41.521330+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4611,7 +4611,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T09:55:09.610228+00:00",
-      "last_seen": "2026-05-28T09:55:09.610228+00:00",
+      "last_seen": "2026-05-28T15:41:41.521514+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4638,7 +4638,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T09:55:09.610345+00:00",
-      "last_seen": "2026-05-28T09:55:09.610345+00:00",
+      "last_seen": "2026-05-28T15:41:41.521629+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8e44ac2cbfa83950",
+      "title": "Flagship APHA facility marks 50 years of wildlife science",
+      "url": "https://www.gov.uk/government/news/flagship-apha-facility-marks-50-years-of-wildlife-science",
+      "start_date": "2026-05-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Animal and Plant Health Agency's National Wildlife Management Centre marks landmark half century of protecting animal and human health",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-28T15:41:41.519813+00:00",
+      "last_seen": "2026-05-28T15:41:41.519813+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d387da7adec862ac",
+      "title": "Government Chemist Conference: 23-24 June 2026",
+      "url": "https://www.gov.uk/government/news/government-chemist-conference-23-24-june-2026",
+      "start_date": "2026-05-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Register for the Government Chemist Conference 2026, Safe food for tomorrow\u2019s world:  evidence-based measurement solutions for responsible regulation.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-28T15:41:41.520838+00:00",
+      "last_seen": "2026-05-28T15:41:41.520838+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bf83014c431814a8",
+      "title": "Consultation opens on Drax Power permit draft decision",
+      "url": "https://www.gov.uk/government/news/consultation-opens-on-drax-power-permit-draft-decision",
+      "start_date": "2026-05-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Environment Agency has opened a consultation into its draft decision to grant a permit variation to Drax Power Limited in Yorkshire.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-28T15:41:41.521018+00:00",
+      "last_seen": "2026-05-28T15:41:41.521018+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
