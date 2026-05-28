@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T02:44:59.992658+00:00",
-  "total_sources": 168,
+  "updated_at": "2026-05-28T09:55:09.793821+00:00",
+  "total_sources": 172,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -3990,7 +3990,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-22T02:53:34.998214+00:00",
-      "last_seen": "2026-05-28T02:44:59.846133+00:00",
+      "last_seen": "2026-05-28T09:55:09.612630+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4125,7 +4125,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-25T02:58:54.900458+00:00",
-      "last_seen": "2026-05-28T02:44:59.845833+00:00",
+      "last_seen": "2026-05-28T09:55:09.612333+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4152,7 +4152,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T09:44:32.388272+00:00",
-      "last_seen": "2026-05-28T02:44:59.845705+00:00",
+      "last_seen": "2026-05-28T09:55:09.612216+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4179,7 +4179,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.256525+00:00",
-      "last_seen": "2026-05-28T02:44:59.845234+00:00",
+      "last_seen": "2026-05-28T09:55:09.611806+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4206,7 +4206,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.257418+00:00",
-      "last_seen": "2026-05-28T02:44:59.845385+00:00",
+      "last_seen": "2026-05-28T09:55:09.611952+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4233,7 +4233,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.257597+00:00",
-      "last_seen": "2026-05-28T02:44:59.845571+00:00",
+      "last_seen": "2026-05-28T09:55:09.612100+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4260,7 +4260,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T14:58:56.257985+00:00",
-      "last_seen": "2026-05-28T02:44:59.845981+00:00",
+      "last_seen": "2026-05-28T09:55:09.612472+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4287,7 +4287,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-26T20:04:21.555538+00:00",
-      "last_seen": "2026-05-28T02:44:59.845125+00:00",
+      "last_seen": "2026-05-28T09:55:09.611703+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4314,7 +4314,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T02:58:13.963245+00:00",
-      "last_seen": "2026-05-28T02:44:59.844810+00:00",
+      "last_seen": "2026-05-28T09:55:09.611386+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4341,7 +4341,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T02:58:13.964165+00:00",
-      "last_seen": "2026-05-28T02:44:59.844961+00:00",
+      "last_seen": "2026-05-28T09:55:09.611526+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4368,7 +4368,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T09:38:37.331866+00:00",
-      "last_seen": "2026-05-28T02:44:59.844630+00:00",
+      "last_seen": "2026-05-28T09:55:09.611223+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4395,7 +4395,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T15:28:54.614816+00:00",
-      "last_seen": "2026-05-28T02:44:59.844054+00:00",
+      "last_seen": "2026-05-28T09:55:09.610722+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4422,7 +4422,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T15:28:54.615746+00:00",
-      "last_seen": "2026-05-28T02:44:59.844242+00:00",
+      "last_seen": "2026-05-28T09:55:09.610894+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4449,7 +4449,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T15:28:54.615918+00:00",
-      "last_seen": "2026-05-28T02:44:59.844400+00:00",
+      "last_seen": "2026-05-28T09:55:09.611039+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4503,7 +4503,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T20:09:22.572711+00:00",
-      "last_seen": "2026-05-28T02:44:59.842899+00:00",
+      "last_seen": "2026-05-28T09:55:09.610479+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4530,7 +4530,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-27T20:09:22.573788+00:00",
-      "last_seen": "2026-05-28T02:44:59.843922+00:00",
+      "last_seen": "2026-05-28T09:55:09.610621+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3d268d7d1351b138",
+      "title": "Britain continues to break clean power records",
+      "url": "https://www.gov.uk/government/news/britain-continues-to-break-clean-power-records",
+      "start_date": "2026-05-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Households across the UK continue to embrace solar power as the government accelerates its clean power mission.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-28T09:55:09.609152+00:00",
+      "last_seen": "2026-05-28T09:55:09.609152+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "174353f8f96c4c07",
+      "title": "Britain's biggest train operator\u2019s services enter public ownership this weekend",
+      "url": "https://www.gov.uk/government/news/britains-biggest-train-operators-services-enter-public-ownership-this-weekend",
+      "start_date": "2026-05-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Govia Thameslink Railway (GTR), which includes Southern, Thameslink, Great Northern and Gatwick Express, will transfer into public ownership.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-28T09:55:09.610022+00:00",
+      "last_seen": "2026-05-28T09:55:09.610022+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "949f735c0bdd3c9b",
+      "title": "UK-EU SPS Agreement - Information for Businesses",
+      "url": "https://www.gov.uk/government/news/uk-eu-sps-agreement-information-for-businesses",
+      "start_date": "2026-05-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Businesses urged to take simple steps for smoother trade with the EU",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-28T09:55:09.610228+00:00",
+      "last_seen": "2026-05-28T09:55:09.610228+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "babf4d51ddf89580",
+      "title": "Salmonella cases in England at a decade high",
+      "url": "https://www.gov.uk/government/news/salmonella-cases-in-england-at-a-decade-high",
+      "start_date": "2026-05-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UKHSA urges public to practise good food hygiene as new data shows persistently high levels of common gastrointestinal infections.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-05-28T09:55:09.610345+00:00",
+      "last_seen": "2026-05-28T09:55:09.610345+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
