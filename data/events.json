@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T10:15:34.793298+00:00",
-  "total_sources": 185,
+  "updated_at": "2026-06-02T16:14:52.199895+00:00",
+  "total_sources": 190,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -4557,7 +4557,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T09:55:09.609152+00:00",
-      "last_seen": "2026-06-02T10:15:34.616947+00:00",
+      "last_seen": "2026-06-02T16:14:52.061695+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4584,7 +4584,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T09:55:09.610022+00:00",
-      "last_seen": "2026-06-02T10:15:34.617071+00:00",
+      "last_seen": "2026-06-02T16:14:52.061824+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4665,7 +4665,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T15:41:41.519813+00:00",
-      "last_seen": "2026-06-02T10:15:34.616515+00:00",
+      "last_seen": "2026-06-02T16:14:52.061221+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4692,7 +4692,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T15:41:41.520838+00:00",
-      "last_seen": "2026-06-02T10:15:34.616664+00:00",
+      "last_seen": "2026-06-02T16:14:52.061364+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4719,7 +4719,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T15:41:41.521018+00:00",
-      "last_seen": "2026-06-02T10:15:34.616809+00:00",
+      "last_seen": "2026-06-02T16:14:52.061547+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4746,7 +4746,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-28T20:13:48.408007+00:00",
-      "last_seen": "2026-06-02T10:15:34.616237+00:00",
+      "last_seen": "2026-06-02T16:14:52.060962+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4773,7 +4773,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-29T09:45:51.159306+00:00",
-      "last_seen": "2026-06-02T10:15:34.616049+00:00",
+      "last_seen": "2026-06-02T16:14:52.060752+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4800,7 +4800,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-29T14:56:36.019710+00:00",
-      "last_seen": "2026-06-02T10:15:34.615565+00:00",
+      "last_seen": "2026-06-02T16:14:52.060168+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4827,7 +4827,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-29T14:56:36.020574+00:00",
-      "last_seen": "2026-06-02T10:15:34.615690+00:00",
+      "last_seen": "2026-06-02T16:14:52.060297+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4854,7 +4854,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-29T14:56:36.020807+00:00",
-      "last_seen": "2026-06-02T10:15:34.615889+00:00",
+      "last_seen": "2026-06-02T16:14:52.060564+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4881,7 +4881,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-05-29T20:14:56.042818+00:00",
-      "last_seen": "2026-06-02T10:15:34.615352+00:00",
+      "last_seen": "2026-06-02T16:14:52.059953+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4908,7 +4908,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-01T03:36:18.785428+00:00",
-      "last_seen": "2026-06-02T10:15:34.615200+00:00",
+      "last_seen": "2026-06-02T16:14:52.059816+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4935,7 +4935,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T03:33:26.627035+00:00",
-      "last_seen": "2026-06-02T10:15:34.614996+00:00",
+      "last_seen": "2026-06-02T16:14:52.059471+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4962,7 +4962,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T10:15:34.613901+00:00",
-      "last_seen": "2026-06-02T10:15:34.613901+00:00",
+      "last_seen": "2026-06-02T16:14:52.059116+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4989,7 +4989,142 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T10:15:34.614790+00:00",
-      "last_seen": "2026-06-02T10:15:34.614790+00:00",
+      "last_seen": "2026-06-02T16:14:52.059258+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1f4f3f8475ca8c5f",
+      "title": "UKHSA update on the hantavirus cruise ship outbreak",
+      "url": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak",
+      "start_date": "2026-06-02T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information on cases including British nationals.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-02T16:14:52.057699+00:00",
+      "last_seen": "2026-06-02T16:14:52.057699+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "0319a50d34e2fbdf",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-latest-decisions",
+      "start_date": "2026-06-02T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-02T16:14:52.058664+00:00",
+      "last_seen": "2026-06-02T16:14:52.058664+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5ae06b2985dfda61",
+      "title": "Councillors in England access the Local Government Pension Scheme",
+      "url": "https://www.gov.uk/government/news/councillors-in-england-access-the-local-government-pension-scheme",
+      "start_date": "2026-06-02T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Local Government Pension Scheme is now open to councillors and mayors in England, following a consultation that was supported by actuarial analysis from GAD",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-02T16:14:52.058796+00:00",
+      "last_seen": "2026-06-02T16:14:52.058796+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7af0359c419afe0b",
+      "title": "UKHO reflects on successful participation at IHO Assembly 4",
+      "url": "https://www.gov.uk/government/news/ukho-reflects-on-successful-participation-at-iho-assembly-4",
+      "start_date": "2026-06-02T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The UK Hydrographic Office's participation at the 4th International Hydrographic Organization Assembly (IHO), held in Monaco.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-02T16:14:52.058968+00:00",
+      "last_seen": "2026-06-02T16:14:52.058968+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9280a7304a7ce225",
+      "title": "Bird flu (avian influenza): latest situation in England",
+      "url": "https://www.gov.uk/government/news/bird-flu-avian-influenza-latest-situation-in-england",
+      "start_date": "2026-06-01T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Find out about the latest bird flu situation in England and guidance for bird keepers and the public.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-02T16:14:52.059683+00:00",
+      "last_seen": "2026-06-02T16:14:52.059683+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
