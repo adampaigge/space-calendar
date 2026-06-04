@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-04T03:35:54.143432+00:00",
-  "total_sources": 198,
+  "updated_at": "2026-06-04T09:50:57.710323+00:00",
+  "total_sources": 202,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -4935,7 +4935,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T03:33:26.627035+00:00",
-      "last_seen": "2026-06-04T03:35:53.958228+00:00",
+      "last_seen": "2026-06-04T09:50:57.543532+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4962,7 +4962,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T10:15:34.613901+00:00",
-      "last_seen": "2026-06-04T03:35:53.957921+00:00",
+      "last_seen": "2026-06-04T09:50:57.543286+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -4989,7 +4989,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T10:15:34.614790+00:00",
-      "last_seen": "2026-06-04T03:35:53.958052+00:00",
+      "last_seen": "2026-06-04T09:50:57.543388+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5016,7 +5016,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T16:14:52.057699+00:00",
-      "last_seen": "2026-06-04T03:35:53.957408+00:00",
+      "last_seen": "2026-06-04T09:50:57.542873+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5043,7 +5043,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T16:14:52.058664+00:00",
-      "last_seen": "2026-06-04T03:35:53.957507+00:00",
+      "last_seen": "2026-06-04T09:50:57.542951+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5070,7 +5070,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T16:14:52.058796+00:00",
-      "last_seen": "2026-06-04T03:35:53.957625+00:00",
+      "last_seen": "2026-06-04T09:50:57.543028+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5097,7 +5097,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T16:14:52.058968+00:00",
-      "last_seen": "2026-06-04T03:35:53.957782+00:00",
+      "last_seen": "2026-06-04T09:50:57.543177+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5124,7 +5124,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T16:14:52.059683+00:00",
-      "last_seen": "2026-06-04T03:35:53.958419+00:00",
+      "last_seen": "2026-06-04T09:50:57.543694+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5151,7 +5151,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T20:42:17.436164+00:00",
-      "last_seen": "2026-06-04T03:35:53.957180+00:00",
+      "last_seen": "2026-06-04T09:50:57.542693+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5178,7 +5178,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-02T20:42:17.437153+00:00",
-      "last_seen": "2026-06-04T03:35:53.957288+00:00",
+      "last_seen": "2026-06-04T09:50:57.542777+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5205,7 +5205,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T03:40:15.152026+00:00",
-      "last_seen": "2026-06-04T03:35:53.957043+00:00",
+      "last_seen": "2026-06-04T09:50:57.542587+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5232,7 +5232,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T10:51:19.699470+00:00",
-      "last_seen": "2026-06-04T03:35:53.956895+00:00",
+      "last_seen": "2026-06-04T09:50:57.542471+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5259,7 +5259,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T16:39:34.213831+00:00",
-      "last_seen": "2026-06-04T03:35:53.956214+00:00",
+      "last_seen": "2026-06-04T09:50:57.542028+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5286,7 +5286,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T16:39:34.214916+00:00",
-      "last_seen": "2026-06-04T03:35:53.956474+00:00",
+      "last_seen": "2026-06-04T09:50:57.542165+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5313,7 +5313,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T16:39:34.215118+00:00",
-      "last_seen": "2026-06-04T03:35:53.956644+00:00",
+      "last_seen": "2026-06-04T09:50:57.542278+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5340,7 +5340,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T20:52:03.504360+00:00",
-      "last_seen": "2026-06-04T03:35:53.955388+00:00",
+      "last_seen": "2026-06-04T09:50:57.541924+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "203041200f051969",
+      "title": "The Surge and Rapid Response Team (SRRT)",
+      "url": "https://www.gov.uk/government/news/the-surge-and-rapid-response-team-srrt",
+      "start_date": "2026-06-04T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Find out more about the SRRT.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-04T09:50:57.540900+00:00",
+      "last_seen": "2026-06-04T09:50:57.540900+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5eaba1aef78a8cd9",
+      "title": "AAIB Report: Boeing 767-316F, G-DHLS",
+      "url": "https://www.gov.uk/government/news/aaib-report-boeing-767-316f-g-dhls",
+      "start_date": "2026-06-04T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Boeing 767-316F (G-DHLS), roll control jam, Scottish Flight Information Region, 9 October 2025",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-04T09:50:57.541554+00:00",
+      "last_seen": "2026-06-04T09:50:57.541554+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1ae1d968ff019c7e",
+      "title": "Bravecto 150 mg/ml Powder and Solvent for Suspension for Injection for Dogs \u2013 SPC change",
+      "url": "https://www.gov.uk/government/news/bravecto-150-mgml-powder-and-solvent-for-suspension-for-injection-for-dogs-spc-change",
+      "start_date": "2026-06-04T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Change to the information provided on adverseeventsin the Summary of Product Characteristics (SPC).\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-04T09:50:57.541668+00:00",
+      "last_seen": "2026-06-04T09:50:57.541668+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b9fb66ec63beb241",
+      "title": "Appointment of 2 operational researchers as Direct Ministerial Appointments",
+      "url": "https://www.gov.uk/government/news/appointment-of-2-operational-researchers-as-direct-ministerial-appointments",
+      "start_date": "2026-06-04T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Minister for Courts and Legal Services has appointed Professor Pagel and Professor Utley as advisers on court efficiency and modernisation.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-04T09:50:57.541805+00:00",
+      "last_seen": "2026-06-04T09:50:57.541805+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
