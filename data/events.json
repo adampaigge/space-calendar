@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T10:29:20.456129+00:00",
-  "total_sources": 214,
+  "updated_at": "2026-06-08T15:41:22.942464+00:00",
+  "total_sources": 223,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -5475,7 +5475,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T14:49:49.225658+00:00",
-      "last_seen": "2026-06-08T10:29:20.304326+00:00",
+      "last_seen": "2026-06-08T15:41:22.769306+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5502,7 +5502,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T14:49:49.226668+00:00",
-      "last_seen": "2026-06-08T10:29:20.304463+00:00",
+      "last_seen": "2026-06-08T15:41:22.769446+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5556,7 +5556,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T19:59:50.019036+00:00",
-      "last_seen": "2026-06-08T10:29:20.304216+00:00",
+      "last_seen": "2026-06-08T15:41:22.769187+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5583,7 +5583,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T09:39:13.562178+00:00",
-      "last_seen": "2026-06-08T10:29:20.304062+00:00",
+      "last_seen": "2026-06-08T15:41:22.769017+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5610,7 +5610,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T14:40:15.118909+00:00",
-      "last_seen": "2026-06-08T10:29:20.303623+00:00",
+      "last_seen": "2026-06-08T15:41:22.768524+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5637,7 +5637,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T14:40:15.119968+00:00",
-      "last_seen": "2026-06-08T10:29:20.303797+00:00",
+      "last_seen": "2026-06-08T15:41:22.768708+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5664,7 +5664,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T14:40:15.120105+00:00",
-      "last_seen": "2026-06-08T10:29:20.303915+00:00",
+      "last_seen": "2026-06-08T15:41:22.768849+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5691,7 +5691,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-07T03:27:58.061390+00:00",
-      "last_seen": "2026-06-08T10:29:20.303434+00:00",
+      "last_seen": "2026-06-08T15:41:22.768347+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5718,7 +5718,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T03:33:44.172608+00:00",
-      "last_seen": "2026-06-08T10:29:20.303255+00:00",
+      "last_seen": "2026-06-08T15:41:22.768160+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5745,7 +5745,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T10:29:20.302028+00:00",
-      "last_seen": "2026-06-08T10:29:20.302028+00:00",
+      "last_seen": "2026-06-08T15:41:22.767825+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5772,7 +5772,250 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T10:29:20.303003+00:00",
-      "last_seen": "2026-06-08T10:29:20.303003+00:00",
+      "last_seen": "2026-06-08T15:41:22.768001+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d907c6137ac1c619",
+      "title": "Government to partner with tech companies, trade unions and industry leaders to boost AI adoption and equip workers with AI skills",
+      "url": "https://www.gov.uk/government/news/government-to-partner-with-tech-companies-trade-unions-and-industry-leaders-to-boost-ai-adoption-and-equip-workers-with-ai-skills",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "More than \u00a3200 million in Government support to help companies in Britain adopt AI \u2013 paving the way for the UK to become fastest AI adopting country in the G7",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.765187+00:00",
+      "last_seen": "2026-06-08T15:41:22.765187+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5a3e8c11c9851bad",
+      "title": "Legal innovation to be supercharged by new AI Growth project",
+      "url": "https://www.gov.uk/government/news/legal-innovation-to-be-supercharged-by-new-ai-growth-project",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "In a major boost to the economy, the Government has launched a new AI growth project to fast-track innovation in legal technology, often known as LawTech.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.766319+00:00",
+      "last_seen": "2026-06-08T15:41:22.766319+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f8268bd127c4ac1a",
+      "title": "New plans to stop children taking, sharing or viewing nude images",
+      "url": "https://www.gov.uk/government/news/new-plans-to-stop-children-taking-sharing-or-viewing-nude-images",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Britain will become the first country in the world where it is impossible for children to take, share or view naked pictures on their devices.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.766505+00:00",
+      "last_seen": "2026-06-08T15:41:22.766505+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a7990fecc7d90d35",
+      "title": "Embedding co-design and participation in early years services",
+      "url": "https://www.gov.uk/government/case-studies/embedding-co-design-and-participation-in-early-years-services",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Policy Lab worked with the Department of Health and Social Care to develop a co-design toolkit enabling parents and carers to shape early years services.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.766670+00:00",
+      "last_seen": "2026-06-08T15:41:22.766670+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "61d9b1b45bef7494",
+      "title": "Shaping a people\u2011centred Civil Service skills system",
+      "url": "https://www.gov.uk/government/case-studies/shaping-a-people-centred-civil-service-skills-system",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Policy Lab worked with Government Skills in Cabinet Office to co-design a more people-centred Civil Service skills system, grounded in lived experience.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.766862+00:00",
+      "last_seen": "2026-06-08T15:41:22.766862+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a06924894cd9bf94",
+      "title": "Designing sea bass fishing policy with lived experience and participation",
+      "url": "https://www.gov.uk/government/case-studies/designing-sea-bass-fishing-policy-with-lived-experience-and-participation",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Policy Lab worked with Defra and the Welsh Government to co-design a new sea bass Fisheries Management Plan shaped by the lived experience of fishers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.767039+00:00",
+      "last_seen": "2026-06-08T15:41:22.767039+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1a1975a1253ed46f",
+      "title": "SIA publishes new 3-year strategic plan and annual business plan",
+      "url": "https://www.gov.uk/government/news/sia-publishes-new-3-year-strategic-plan-and-annual-business-plan",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The SIA has published its Strategic Plan 2026-29, covering its upcoming expanded remit, and its Business Plan 2026-27, focusing on delivery over the next year.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.767214+00:00",
+      "last_seen": "2026-06-08T15:41:22.767214+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1c75f20b44225430",
+      "title": "Cheers! Football fans to raise a glass for the World Cup",
+      "url": "https://www.gov.uk/government/news/cheers-football-fans-to-raise-a-glass-for-the-world-cup",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Pubs across the country set to benefit from extensions to licensing hours, special screenings and pavement pints as the country gears up for the World Cup",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.767392+00:00",
+      "last_seen": "2026-06-08T15:41:22.767392+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7ac145e257c1ffdf",
+      "title": "Britain\u2019s once lost Mars lander gets its place in history with plaques at locations across the UK",
+      "url": "https://www.gov.uk/government/news/britains-once-lost-mars-lander-gets-its-place-in-history-with-plaques-at-locations-across-the-uk",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Thirteen commemorative red plaques to be unveiled at locations across the UK to celebrate Beagle 2 \u2014 the first British and European spacecraft to successfully land on another planet.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T15:41:22.767558+00:00",
+      "last_seen": "2026-06-08T15:41:22.767558+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
