@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T03:33:44.361538+00:00",
-  "total_sources": 212,
+  "updated_at": "2026-06-08T10:29:20.456129+00:00",
+  "total_sources": 214,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -5259,7 +5259,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T16:39:34.213831+00:00",
-      "last_seen": "2026-06-08T03:33:44.175459+00:00",
+      "last_seen": "2026-06-08T10:29:20.305466+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5286,7 +5286,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T16:39:34.214916+00:00",
-      "last_seen": "2026-06-08T03:33:44.175615+00:00",
+      "last_seen": "2026-06-08T10:29:20.305655+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5313,7 +5313,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T16:39:34.215118+00:00",
-      "last_seen": "2026-06-08T03:33:44.175796+00:00",
+      "last_seen": "2026-06-08T10:29:20.305838+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5340,7 +5340,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-03T20:52:03.504360+00:00",
-      "last_seen": "2026-06-08T03:33:44.175328+00:00",
+      "last_seen": "2026-06-08T10:29:20.305324+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5367,7 +5367,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T09:50:57.540900+00:00",
-      "last_seen": "2026-06-08T03:33:44.174818+00:00",
+      "last_seen": "2026-06-08T10:29:20.304792+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5394,7 +5394,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T09:50:57.541554+00:00",
-      "last_seen": "2026-06-08T03:33:44.174905+00:00",
+      "last_seen": "2026-06-08T10:29:20.304886+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5421,7 +5421,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T09:50:57.541668+00:00",
-      "last_seen": "2026-06-08T03:33:44.175019+00:00",
+      "last_seen": "2026-06-08T10:29:20.305006+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5448,7 +5448,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T09:50:57.541805+00:00",
-      "last_seen": "2026-06-08T03:33:44.175182+00:00",
+      "last_seen": "2026-06-08T10:29:20.305173+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5475,7 +5475,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T14:49:49.225658+00:00",
-      "last_seen": "2026-06-08T03:33:44.174402+00:00",
+      "last_seen": "2026-06-08T10:29:20.304326+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5502,7 +5502,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T14:49:49.226668+00:00",
-      "last_seen": "2026-06-08T03:33:44.174528+00:00",
+      "last_seen": "2026-06-08T10:29:20.304463+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5529,7 +5529,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T14:49:49.226844+00:00",
-      "last_seen": "2026-06-08T03:33:44.174665+00:00",
+      "last_seen": "2026-06-08T10:29:20.304626+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5556,7 +5556,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-04T19:59:50.019036+00:00",
-      "last_seen": "2026-06-08T03:33:44.174296+00:00",
+      "last_seen": "2026-06-08T10:29:20.304216+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5583,7 +5583,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T09:39:13.562178+00:00",
-      "last_seen": "2026-06-08T03:33:44.174143+00:00",
+      "last_seen": "2026-06-08T10:29:20.304062+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5610,7 +5610,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T14:40:15.118909+00:00",
-      "last_seen": "2026-06-08T03:33:44.173714+00:00",
+      "last_seen": "2026-06-08T10:29:20.303623+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5637,7 +5637,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T14:40:15.119968+00:00",
-      "last_seen": "2026-06-08T03:33:44.173890+00:00",
+      "last_seen": "2026-06-08T10:29:20.303797+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5664,7 +5664,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T14:40:15.120105+00:00",
-      "last_seen": "2026-06-08T03:33:44.173998+00:00",
+      "last_seen": "2026-06-08T10:29:20.303915+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5691,7 +5691,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-07T03:27:58.061390+00:00",
-      "last_seen": "2026-06-08T03:33:44.173517+00:00",
+      "last_seen": "2026-06-08T10:29:20.303434+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5718,7 +5718,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T03:33:44.172608+00:00",
-      "last_seen": "2026-06-08T03:33:44.172608+00:00",
+      "last_seen": "2026-06-08T10:29:20.303255+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "cfef6921074f65ec",
+      "title": "Martyn Oliver's speech at the National Day Nurseries Association",
+      "url": "https://www.gov.uk/government/speeches/martyn-olivers-speech-at-the-national-day-nurseries-association",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Ofsted\u2019s Chief Inspector, Sir Martyn Oliver, spoke at the National Day Nurseries Association (NDNA) Conference 2026 in Liverpool.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T10:29:20.302028+00:00",
+      "last_seen": "2026-06-08T10:29:20.302028+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ef4878d0ae43d0c7",
+      "title": "The Timms Review: Co-chair update, June 2026",
+      "url": "https://www.gov.uk/government/publications/the-timms-review-co-chair-update-june-2026",
+      "start_date": "2026-06-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "This document sets out an update on the progress of the Timms Review of Personal Independence Payment (PIP), from the Review's co-chairs.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-08T10:29:20.303003+00:00",
+      "last_seen": "2026-06-08T10:29:20.303003+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
