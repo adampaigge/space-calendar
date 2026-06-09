@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T02:43:58.311912+00:00",
-  "total_sources": 225,
+  "updated_at": "2026-06-09T09:34:42.200961+00:00",
+  "total_sources": 229,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -5610,7 +5610,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-05T14:40:15.118909+00:00",
-      "last_seen": "2026-06-09T02:43:58.105281+00:00",
+      "last_seen": "2026-06-09T09:34:41.962419+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5691,7 +5691,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-07T03:27:58.061390+00:00",
-      "last_seen": "2026-06-09T02:43:58.105110+00:00",
+      "last_seen": "2026-06-09T09:34:41.962260+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5718,7 +5718,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T03:33:44.172608+00:00",
-      "last_seen": "2026-06-09T02:43:58.104924+00:00",
+      "last_seen": "2026-06-09T09:34:41.962083+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5745,7 +5745,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T10:29:20.302028+00:00",
-      "last_seen": "2026-06-09T02:43:58.104606+00:00",
+      "last_seen": "2026-06-09T09:34:41.961759+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5772,7 +5772,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T10:29:20.303003+00:00",
-      "last_seen": "2026-06-09T02:43:58.104776+00:00",
+      "last_seen": "2026-06-09T09:34:41.961934+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5799,7 +5799,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.765187+00:00",
-      "last_seen": "2026-06-09T02:43:58.102950+00:00",
+      "last_seen": "2026-06-09T09:34:41.960187+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5826,7 +5826,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.766319+00:00",
-      "last_seen": "2026-06-09T02:43:58.103175+00:00",
+      "last_seen": "2026-06-09T09:34:41.960405+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5853,7 +5853,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.766505+00:00",
-      "last_seen": "2026-06-09T02:43:58.103337+00:00",
+      "last_seen": "2026-06-09T09:34:41.960562+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5880,7 +5880,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.766670+00:00",
-      "last_seen": "2026-06-09T02:43:58.103491+00:00",
+      "last_seen": "2026-06-09T09:34:41.960713+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5907,7 +5907,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.766862+00:00",
-      "last_seen": "2026-06-09T02:43:58.103674+00:00",
+      "last_seen": "2026-06-09T09:34:41.960867+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5934,7 +5934,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.767039+00:00",
-      "last_seen": "2026-06-09T02:43:58.103850+00:00",
+      "last_seen": "2026-06-09T09:34:41.961069+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5961,7 +5961,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.767214+00:00",
-      "last_seen": "2026-06-09T02:43:58.104011+00:00",
+      "last_seen": "2026-06-09T09:34:41.961234+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5988,7 +5988,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.767392+00:00",
-      "last_seen": "2026-06-09T02:43:58.104183+00:00",
+      "last_seen": "2026-06-09T09:34:41.961396+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6015,7 +6015,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.767558+00:00",
-      "last_seen": "2026-06-09T02:43:58.104338+00:00",
+      "last_seen": "2026-06-09T09:34:41.961550+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6042,7 +6042,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T02:43:58.101728+00:00",
-      "last_seen": "2026-06-09T02:43:58.101728+00:00",
+      "last_seen": "2026-06-09T09:34:41.960008+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6069,7 +6069,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T02:43:58.102778+00:00",
-      "last_seen": "2026-06-09T02:43:58.102778+00:00",
+      "last_seen": "2026-06-09T09:34:41.959834+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3dc5f13a8aa5e887",
+      "title": "Government boost for local cricket facilities to mark launch of ICC Women's T20 World Cup",
+      "url": "https://www.gov.uk/government/news/government-boost-for-local-cricket-facilities-to-mark-launch-of-icc-womens-t20-world-cup",
+      "start_date": "2026-06-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Cricket fans old and new will soon be able to play the sport throughout the year, as the Government has marked the start of the ICC Women\u2019s T20 World Cup by unveiling five new locations for state-of-the-art all-weather domes.",
+      "organiser": null,
+      "tags": [
+        "launch"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-09T09:34:41.958273+00:00",
+      "last_seen": "2026-06-09T09:34:41.958273+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9b56c9101920bd66",
+      "title": "National flu immunisation programme plan 2026 to 2027",
+      "url": "https://www.gov.uk/government/publications/national-flu-immunisation-programme-plan-2026-to-2027",
+      "start_date": "2026-06-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The annual flu letter describes the national flu immunisation programme and outlines which groups are eligible for flu vaccination.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-09T09:34:41.959352+00:00",
+      "last_seen": "2026-06-09T09:34:41.959352+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "03bcb328f7c09e51",
+      "title": "Sellafield site emergency exercise - Wednesday 10 June 2026",
+      "url": "https://www.gov.uk/government/news/sellafield-site-emergency-exercise-wednesday-10-june-2026",
+      "start_date": "2026-06-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A Sellafield site emergency exercise will take place on the morning of Wednesday 10 June 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-09T09:34:41.959556+00:00",
+      "last_seen": "2026-06-09T09:34:41.959556+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c3fd684b3aec2312",
+      "title": "Call for Entries: Women in STEM Awards",
+      "url": "https://www.gov.uk/government/news/call-for-entries-women-in-stem-awards",
+      "start_date": "2026-06-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Call for Women in STEM Awards: funding one-week UK visits for women researchers to advance UK- Thailand STEM collaboration.",
+      "organiser": null,
+      "tags": [
+        "awards"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-09T09:34:41.959698+00:00",
+      "last_seen": "2026-06-09T09:34:41.959698+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
