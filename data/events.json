@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T09:51:07.119194+00:00",
-  "total_sources": 236,
+  "updated_at": "2026-06-10T15:23:49.611960+00:00",
+  "total_sources": 242,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -5799,7 +5799,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.765187+00:00",
-      "last_seen": "2026-06-10T09:51:06.842963+00:00",
+      "last_seen": "2026-06-10T15:23:49.371676+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6042,7 +6042,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T02:43:58.101728+00:00",
-      "last_seen": "2026-06-10T09:51:06.842765+00:00",
+      "last_seen": "2026-06-10T15:23:49.371513+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6069,7 +6069,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T02:43:58.102778+00:00",
-      "last_seen": "2026-06-10T09:51:06.842610+00:00",
+      "last_seen": "2026-06-10T15:23:49.371374+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6096,7 +6096,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T09:34:41.958273+00:00",
-      "last_seen": "2026-06-10T09:51:06.841957+00:00",
+      "last_seen": "2026-06-10T15:23:49.370736+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6123,7 +6123,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T09:34:41.959352+00:00",
-      "last_seen": "2026-06-10T09:51:06.842191+00:00",
+      "last_seen": "2026-06-10T15:23:49.370940+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6150,7 +6150,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T09:34:41.959556+00:00",
-      "last_seen": "2026-06-10T09:51:06.842338+00:00",
+      "last_seen": "2026-06-10T15:23:49.371115+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6177,7 +6177,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T09:34:41.959698+00:00",
-      "last_seen": "2026-06-10T09:51:06.842472+00:00",
+      "last_seen": "2026-06-10T15:23:49.371251+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6204,7 +6204,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T14:40:15.863375+00:00",
-      "last_seen": "2026-06-10T09:51:06.841483+00:00",
+      "last_seen": "2026-06-10T15:23:49.370333+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6231,7 +6231,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T14:40:15.864248+00:00",
-      "last_seen": "2026-06-10T09:51:06.841625+00:00",
+      "last_seen": "2026-06-10T15:23:49.370463+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6258,7 +6258,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T14:40:15.864409+00:00",
-      "last_seen": "2026-06-10T09:51:06.841776+00:00",
+      "last_seen": "2026-06-10T15:23:49.370602+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6285,7 +6285,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T20:03:05.973164+00:00",
-      "last_seen": "2026-06-10T09:51:06.841356+00:00",
+      "last_seen": "2026-06-10T15:23:49.370221+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6312,7 +6312,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T02:56:55.190079+00:00",
-      "last_seen": "2026-06-10T09:51:06.840903+00:00",
+      "last_seen": "2026-06-10T15:23:49.369829+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6339,7 +6339,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T02:56:55.191099+00:00",
-      "last_seen": "2026-06-10T09:51:06.841084+00:00",
+      "last_seen": "2026-06-10T15:23:49.369949+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6366,7 +6366,169 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T09:51:06.839851+00:00",
-      "last_seen": "2026-06-10T09:51:06.839851+00:00",
+      "last_seen": "2026-06-10T15:23:49.369677+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "cd811a596903a319",
+      "title": "DfE Update 10 June 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-10-june-2026",
+      "start_date": "2026-06-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-10T15:23:49.368068+00:00",
+      "last_seen": "2026-06-10T15:23:49.368068+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2ce2e40e189a0c66",
+      "title": "Policing minister on the launch of PoliceAI",
+      "url": "https://www.gov.uk/government/speeches/policing-minister-on-the-launch-of-policeai",
+      "start_date": "2026-06-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Highlights from the speech on PoliceAI by Crime and Policing Minister Sarah Jones.",
+      "organiser": null,
+      "tags": [
+        "launch"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-10T15:23:49.368962+00:00",
+      "last_seen": "2026-06-10T15:23:49.368962+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "508a114924686a5c",
+      "title": "UKAEA commits \u00a320M to UKI2S fund for fusion innovation",
+      "url": "https://www.gov.uk/government/news/ukaea-commits-20m-to-uki2s-fund-for-fusion-innovation",
+      "start_date": "2026-06-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UKAEA commits \u00a320m to the UK Innovation & Science Seed Fund (UKI2S) portfolio, supporting early-stage fusion and deep tech companies emerging from UK research.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-10T15:23:49.369111+00:00",
+      "last_seen": "2026-06-10T15:23:49.369111+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9600c9a434b49fbf",
+      "title": "UKHSA update on the hantavirus cruise ship outbreak",
+      "url": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak",
+      "start_date": "2026-06-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information on cases including British nationals.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-10T15:23:49.369279+00:00",
+      "last_seen": "2026-06-10T15:23:49.369279+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7fea65457157abc7",
+      "title": "Infected Blood: A Service of Recognition, Remembrance and Reflection",
+      "url": "https://www.gov.uk/government/news/infected-blood-a-service-of-recognition-remembrance-and-reflection",
+      "start_date": "2026-06-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "There was a national service at St. Paul\u2019s Cathedral for the infected blood community on Tuesday 19th May 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-10T15:23:49.369386+00:00",
+      "last_seen": "2026-06-10T15:23:49.369386+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "169760fa2ea07b62",
+      "title": "Made in Space: UK funding boosts breakthrough space technologies",
+      "url": "https://www.gov.uk/government/news/made-in-space-uk-funding-boosts-breakthrough-space-technologies",
+      "start_date": "2026-06-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UKSpaceMinister unveils more than \u00a319 million at London Tech\u00a0Week to\u00a0support British companies developing next-generationspacetechnologies.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-10T15:23:49.369533+00:00",
+      "last_seen": "2026-06-10T15:23:49.369533+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
