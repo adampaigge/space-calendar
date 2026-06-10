@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-09T20:03:06.195987+00:00",
-  "total_sources": 233,
+  "updated_at": "2026-06-10T02:56:55.454870+00:00",
+  "total_sources": 235,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -5799,7 +5799,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.765187+00:00",
-      "last_seen": "2026-06-09T20:03:05.975573+00:00",
+      "last_seen": "2026-06-10T02:56:55.193018+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5826,7 +5826,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.766319+00:00",
-      "last_seen": "2026-06-09T20:03:05.975851+00:00",
+      "last_seen": "2026-06-10T02:56:55.193270+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5853,7 +5853,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.766505+00:00",
-      "last_seen": "2026-06-09T20:03:05.976017+00:00",
+      "last_seen": "2026-06-10T02:56:55.193436+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5880,7 +5880,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.766670+00:00",
-      "last_seen": "2026-06-09T20:03:05.976170+00:00",
+      "last_seen": "2026-06-10T02:56:55.193595+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5907,7 +5907,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.766862+00:00",
-      "last_seen": "2026-06-09T20:03:05.976324+00:00",
+      "last_seen": "2026-06-10T02:56:55.193762+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5934,7 +5934,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.767039+00:00",
-      "last_seen": "2026-06-09T20:03:05.976496+00:00",
+      "last_seen": "2026-06-10T02:56:55.193966+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5961,7 +5961,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.767214+00:00",
-      "last_seen": "2026-06-09T20:03:05.976660+00:00",
+      "last_seen": "2026-06-10T02:56:55.194136+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -5988,7 +5988,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-08T15:41:22.767392+00:00",
-      "last_seen": "2026-06-09T20:03:05.976875+00:00",
+      "last_seen": "2026-06-10T02:56:55.194311+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6042,7 +6042,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T02:43:58.101728+00:00",
-      "last_seen": "2026-06-09T20:03:05.975401+00:00",
+      "last_seen": "2026-06-10T02:56:55.192784+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6069,7 +6069,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T02:43:58.102778+00:00",
-      "last_seen": "2026-06-09T20:03:05.975253+00:00",
+      "last_seen": "2026-06-10T02:56:55.192633+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6096,7 +6096,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T09:34:41.958273+00:00",
-      "last_seen": "2026-06-09T20:03:05.974592+00:00",
+      "last_seen": "2026-06-10T02:56:55.191981+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6123,7 +6123,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T09:34:41.959352+00:00",
-      "last_seen": "2026-06-09T20:03:05.974842+00:00",
+      "last_seen": "2026-06-10T02:56:55.192211+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6150,7 +6150,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T09:34:41.959556+00:00",
-      "last_seen": "2026-06-09T20:03:05.974991+00:00",
+      "last_seen": "2026-06-10T02:56:55.192361+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6177,7 +6177,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T09:34:41.959698+00:00",
-      "last_seen": "2026-06-09T20:03:05.975123+00:00",
+      "last_seen": "2026-06-10T02:56:55.192497+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6204,7 +6204,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T14:40:15.863375+00:00",
-      "last_seen": "2026-06-09T20:03:05.974136+00:00",
+      "last_seen": "2026-06-10T02:56:55.191498+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6231,7 +6231,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T14:40:15.864248+00:00",
-      "last_seen": "2026-06-09T20:03:05.974293+00:00",
+      "last_seen": "2026-06-10T02:56:55.191642+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6258,7 +6258,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T14:40:15.864409+00:00",
-      "last_seen": "2026-06-09T20:03:05.974447+00:00",
+      "last_seen": "2026-06-10T02:56:55.191805+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6285,7 +6285,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-09T20:03:05.973164+00:00",
-      "last_seen": "2026-06-09T20:03:05.973164+00:00",
+      "last_seen": "2026-06-10T02:56:55.191366+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2bdad364d214dfe3",
+      "title": "Government funds North York Moors wildfire recovery",
+      "url": "https://www.gov.uk/government/news/government-funds-north-york-moors-wildfire-recovery",
+      "start_date": "2026-06-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Up to \u00a33.2 million to restore peatland and moorland devastated by the 2025 Fylingdales wildfire",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-10T02:56:55.190079+00:00",
+      "last_seen": "2026-06-10T02:56:55.190079+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6a5c567e6b7e743b",
+      "title": "We must ensure the voices of those with disabilities are heard, their rights upheld and that they have equal opportunities: UK National Statement at the UN Conference of States Parties to the Convention on the Rights of Persons with Disabilities",
+      "url": "https://www.gov.uk/government/speeches/we-must-ensure-the-voices-of-those-with-disabilities-are-heard-their-rights-upheld-and-that-they-have-equal-opportunities-uk-national-statement-at-the",
+      "start_date": "2026-06-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Statement by Minister of State for Social Security and Disability, The Rt Hon Sir Stephen Timms MP, at the UN Conference of States Parties to the Convention on the Rights of Persons with Disabilities General Debate.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-10T02:56:55.191099+00:00",
+      "last_seen": "2026-06-10T02:56:55.191099+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
