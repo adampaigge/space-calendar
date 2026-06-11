@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T10:16:42.438255+00:00",
-  "total_sources": 250,
+  "updated_at": "2026-06-11T15:51:47.699194+00:00",
+  "total_sources": 253,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -6312,7 +6312,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T02:56:55.190079+00:00",
-      "last_seen": "2026-06-11T10:16:42.194016+00:00",
+      "last_seen": "2026-06-11T15:51:47.424512+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6339,7 +6339,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T02:56:55.191099+00:00",
-      "last_seen": "2026-06-11T10:16:42.194140+00:00",
+      "last_seen": "2026-06-11T15:51:47.424631+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6366,7 +6366,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T09:51:06.839851+00:00",
-      "last_seen": "2026-06-11T10:16:42.193862+00:00",
+      "last_seen": "2026-06-11T15:51:47.424362+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6393,7 +6393,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T15:23:49.368068+00:00",
-      "last_seen": "2026-06-11T10:16:42.192952+00:00",
+      "last_seen": "2026-06-11T15:51:47.423558+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6420,7 +6420,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T15:23:49.368962+00:00",
-      "last_seen": "2026-06-11T10:16:42.193097+00:00",
+      "last_seen": "2026-06-11T15:51:47.423698+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6447,7 +6447,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T15:23:49.369111+00:00",
-      "last_seen": "2026-06-11T10:16:42.193212+00:00",
+      "last_seen": "2026-06-11T15:51:47.423825+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6474,7 +6474,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T15:23:49.369279+00:00",
-      "last_seen": "2026-06-11T10:16:42.193375+00:00",
+      "last_seen": "2026-06-11T15:51:47.423981+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6501,7 +6501,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T15:23:49.369386+00:00",
-      "last_seen": "2026-06-11T10:16:42.193544+00:00",
+      "last_seen": "2026-06-11T15:51:47.424079+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6528,7 +6528,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T15:23:49.369533+00:00",
-      "last_seen": "2026-06-11T10:16:42.193711+00:00",
+      "last_seen": "2026-06-11T15:51:47.424221+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6555,7 +6555,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-10T20:24:20.244892+00:00",
-      "last_seen": "2026-06-11T10:16:42.192723+00:00",
+      "last_seen": "2026-06-11T15:51:47.423335+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6582,7 +6582,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T03:32:04.598239+00:00",
-      "last_seen": "2026-06-11T10:16:42.192587+00:00",
+      "last_seen": "2026-06-11T15:51:47.423206+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6609,7 +6609,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T10:16:42.190723+00:00",
-      "last_seen": "2026-06-11T10:16:42.190723+00:00",
+      "last_seen": "2026-06-11T15:51:47.422307+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6636,7 +6636,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T10:16:42.191761+00:00",
-      "last_seen": "2026-06-11T10:16:42.191761+00:00",
+      "last_seen": "2026-06-11T15:51:47.422460+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6663,7 +6663,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T10:16:42.191960+00:00",
-      "last_seen": "2026-06-11T10:16:42.191960+00:00",
+      "last_seen": "2026-06-11T15:51:47.422623+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6690,7 +6690,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T10:16:42.192118+00:00",
-      "last_seen": "2026-06-11T10:16:42.192118+00:00",
+      "last_seen": "2026-06-11T15:51:47.422769+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6717,7 +6717,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T10:16:42.192244+00:00",
-      "last_seen": "2026-06-11T10:16:42.192244+00:00",
+      "last_seen": "2026-06-11T15:51:47.422902+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6744,7 +6744,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T10:16:42.192391+00:00",
-      "last_seen": "2026-06-11T10:16:42.192391+00:00",
+      "last_seen": "2026-06-11T15:51:47.423041+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bbf479cbaab761cd",
+      "title": "Bridgwater Tidal Barrier scheme wins national digital award",
+      "url": "https://www.gov.uk/government/news/bridgwater-tidal-barrier-scheme-wins-national-digital-award",
+      "start_date": "2026-06-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Bridgwater Tidal Barrier won the Digital Excellence award at the Flood & Coast Excellence Awards 2026,  recognising design partner AtkinsR\u00e9alis\u2019 standout digital design work.",
+      "organiser": null,
+      "tags": [
+        "awards"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-11T15:51:47.420948+00:00",
+      "last_seen": "2026-06-11T15:51:47.420948+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "870090125296cace",
+      "title": "Russia\u2019s actions in Ukraine continue to undermine the prospects for peace: UK statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/russias-actions-in-ukraine-continue-to-undermine-the-prospects-for-peace-uk-statement-to-the-osce",
+      "start_date": "2026-06-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Ambassador Holland underlines the growing gap between Russia\u2019s rhetoric and actions, highlighting intensified attacks and rising civilian casualties. Ukraine has demonstrated its readiness for peace, while Russia continues t\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-11T15:51:47.421817+00:00",
+      "last_seen": "2026-06-11T15:51:47.421817+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a881bb99369e586c",
+      "title": "\u00a335 million government funding boost to stop drones smuggling contraband into prisons",
+      "url": "https://www.gov.uk/government/news/35-million-government-funding-boost-to-stop-drones-smuggling-contraband-into-prisons",
+      "start_date": "2026-06-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Up to 13,000 prison cell windows across England and Wales will be fitted with\u202fheavy-duty\u202fsteel grilles to stop drones smuggling drugs,\u202fweapons\u202fand mobile phones into jails.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-11T15:51:47.422112+00:00",
+      "last_seen": "2026-06-11T15:51:47.422112+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
