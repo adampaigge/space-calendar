@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T11:55:41.618115+00:00",
-  "total_sources": 271,
+  "updated_at": "2026-06-15T17:11:00.806665+00:00",
+  "total_sources": 273,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -6771,7 +6771,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T15:51:47.420948+00:00",
-      "last_seen": "2026-06-15T11:55:41.375702+00:00",
+      "last_seen": "2026-06-15T17:11:00.569299+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6798,7 +6798,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T15:51:47.421817+00:00",
-      "last_seen": "2026-06-15T11:55:41.375884+00:00",
+      "last_seen": "2026-06-15T17:11:00.569456+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6852,7 +6852,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-11T20:15:36.402709+00:00",
-      "last_seen": "2026-06-15T11:55:41.375490+00:00",
+      "last_seen": "2026-06-15T17:11:00.569113+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6906,7 +6906,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-12T03:31:28.125743+00:00",
-      "last_seen": "2026-06-15T11:55:41.375152+00:00",
+      "last_seen": "2026-06-15T17:11:00.568824+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6933,7 +6933,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-12T10:04:11.622348+00:00",
-      "last_seen": "2026-06-15T11:55:41.374731+00:00",
+      "last_seen": "2026-06-15T17:11:00.568417+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6960,7 +6960,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-12T10:04:11.623225+00:00",
-      "last_seen": "2026-06-15T11:55:41.374868+00:00",
+      "last_seen": "2026-06-15T17:11:00.568562+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -6987,7 +6987,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-12T10:04:11.623386+00:00",
-      "last_seen": "2026-06-15T11:55:41.375025+00:00",
+      "last_seen": "2026-06-15T17:11:00.568708+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7014,7 +7014,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-12T14:49:27.858935+00:00",
-      "last_seen": "2026-06-15T11:55:41.374561+00:00",
+      "last_seen": "2026-06-15T17:11:00.568271+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7041,7 +7041,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-12T20:05:02.750248+00:00",
-      "last_seen": "2026-06-15T11:55:41.374346+00:00",
+      "last_seen": "2026-06-15T17:11:00.568108+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7068,7 +7068,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-13T13:52:00.563705+00:00",
-      "last_seen": "2026-06-15T11:55:41.374151+00:00",
+      "last_seen": "2026-06-15T17:11:00.567925+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7122,7 +7122,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-14T03:35:12.661482+00:00",
-      "last_seen": "2026-06-15T11:55:41.373983+00:00",
+      "last_seen": "2026-06-15T17:11:00.567768+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7149,7 +7149,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-14T13:53:43.483054+00:00",
-      "last_seen": "2026-06-15T11:55:41.373761+00:00",
+      "last_seen": "2026-06-15T17:11:00.567553+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7176,7 +7176,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-14T19:20:11.937258+00:00",
-      "last_seen": "2026-06-15T11:55:41.373654+00:00",
+      "last_seen": "2026-06-15T17:11:00.567447+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7203,7 +7203,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T03:45:11.603926+00:00",
-      "last_seen": "2026-06-15T11:55:41.373438+00:00",
+      "last_seen": "2026-06-15T17:11:00.567279+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7230,7 +7230,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T11:55:41.372012+00:00",
-      "last_seen": "2026-06-15T11:55:41.372012+00:00",
+      "last_seen": "2026-06-15T17:11:00.566856+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7257,7 +7257,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T11:55:41.373133+00:00",
-      "last_seen": "2026-06-15T11:55:41.373133+00:00",
+      "last_seen": "2026-06-15T17:11:00.567015+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7284,7 +7284,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T11:55:41.373299+00:00",
-      "last_seen": "2026-06-15T11:55:41.373299+00:00",
+      "last_seen": "2026-06-15T17:11:00.567153+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7311,7 +7311,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T11:55:41.375318+00:00",
-      "last_seen": "2026-06-15T11:55:41.375318+00:00",
+      "last_seen": "2026-06-15T17:11:00.568976+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b2a5f2eda4d8cc34",
+      "title": "DAO 05/26 Service Level Costing",
+      "url": "https://www.gov.uk/government/publications/dao-0526-service-level-costing",
+      "start_date": "2026-06-15T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u2018Dear Accounting Officer\u2019 letters provide advice on accountability, regularity, propriety, value for money and annual accounting exercises.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-15T17:11:00.565794+00:00",
+      "last_seen": "2026-06-15T17:11:00.565794+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "0d8f48741f0acd3a",
+      "title": "Government to build UK\u2019s first permanent mobile museum to bring art to communities everywhere",
+      "url": "https://www.gov.uk/government/news/government-to-build-uks-first-permanent-mobile-museum-to-bring-art-to-communities-everywhere",
+      "start_date": "2026-06-15T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u00a31.6 million investment from DCMS and Art Explora will create the UK\u2019s first permanent mobile museum.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-15T17:11:00.566665+00:00",
+      "last_seen": "2026-06-15T17:11:00.566665+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
