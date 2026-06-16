@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T11:03:42.308048+00:00",
-  "total_sources": 276,
+  "updated_at": "2026-06-16T16:42:56.231562+00:00",
+  "total_sources": 284,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -7041,7 +7041,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-12T20:05:02.750248+00:00",
-      "last_seen": "2026-06-16T11:03:42.086210+00:00",
+      "last_seen": "2026-06-16T16:42:56.038486+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7149,7 +7149,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-14T13:53:43.483054+00:00",
-      "last_seen": "2026-06-16T11:03:42.085648+00:00",
+      "last_seen": "2026-06-16T16:42:56.038079+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7176,7 +7176,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-14T19:20:11.937258+00:00",
-      "last_seen": "2026-06-16T11:03:42.085558+00:00",
+      "last_seen": "2026-06-16T16:42:56.037951+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7203,7 +7203,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T03:45:11.603926+00:00",
-      "last_seen": "2026-06-16T11:03:42.085378+00:00",
+      "last_seen": "2026-06-16T16:42:56.037768+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7230,7 +7230,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T11:55:41.372012+00:00",
-      "last_seen": "2026-06-16T11:03:42.084937+00:00",
+      "last_seen": "2026-06-16T16:42:56.037350+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7257,7 +7257,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T11:55:41.373133+00:00",
-      "last_seen": "2026-06-16T11:03:42.085089+00:00",
+      "last_seen": "2026-06-16T16:42:56.037502+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7284,7 +7284,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T11:55:41.373299+00:00",
-      "last_seen": "2026-06-16T11:03:42.085229+00:00",
+      "last_seen": "2026-06-16T16:42:56.037640+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7338,7 +7338,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T17:11:00.565794+00:00",
-      "last_seen": "2026-06-16T11:03:42.084611+00:00",
+      "last_seen": "2026-06-16T16:42:56.036986+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7365,7 +7365,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-15T17:11:00.566665+00:00",
-      "last_seen": "2026-06-16T11:03:42.084767+00:00",
+      "last_seen": "2026-06-16T16:42:56.037176+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7392,7 +7392,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-16T03:38:50.623243+00:00",
-      "last_seen": "2026-06-16T11:03:42.084388+00:00",
+      "last_seen": "2026-06-16T16:42:56.036800+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7419,7 +7419,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-16T11:03:42.083355+00:00",
-      "last_seen": "2026-06-16T11:03:42.083355+00:00",
+      "last_seen": "2026-06-16T16:42:56.036617+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -7446,7 +7446,223 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-16T11:03:42.086021+00:00",
-      "last_seen": "2026-06-16T11:03:42.086021+00:00",
+      "last_seen": "2026-06-16T16:42:56.038293+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ff0d5fc2e03f2a7e",
+      "title": "G7 Leaders\u2019 Statement on mutually beneficial international partnerships: 16 June 2026",
+      "url": "https://www.gov.uk/government/news/g7-leaders-statement-on-mutually-beneficial-international-partnerships-16-june-2026",
+      "start_date": "2026-06-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "G7 Leaders\u2019 Statement on mutually beneficial international partnerships.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-16T16:42:56.034493+00:00",
+      "last_seen": "2026-06-16T16:42:56.034493+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3b70fa68884bf3bc",
+      "title": "More families to benefit from lower bills through plug-in panels",
+      "url": "https://www.gov.uk/government/news/more-families-to-benefit-from-lower-bills-through-plug-in-panels",
+      "start_date": "2026-06-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Retailers join government plans to bring plug-in solar panels to UK homes, helping families  save money on bills.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-16T16:42:56.035520+00:00",
+      "last_seen": "2026-06-16T16:42:56.035520+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f45cee475ff2d0e6",
+      "title": "Pubs, shops and local assets protected with communities in charge",
+      "url": "https://www.gov.uk/government/news/pubs-shops-and-local-assets-protected-with-communities-in-charge",
+      "start_date": "2026-06-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u00a361m fund to encourage people to save treasured local assets announced as part of a set of reforms to put more power in the hands of communities.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-16T16:42:56.035691+00:00",
+      "last_seen": "2026-06-16T16:42:56.035691+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a4711a787c4699ec",
+      "title": "Public Service Pension Schemes - New CETV Factors",
+      "url": "https://www.gov.uk/government/news/public-service-pension-schemes-new-cetv-factors",
+      "start_date": "2026-06-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "New CETV factors for 21 public service pension schemes are now available on the GAD Factors Guidance Hub following the change in the SCAPE discount rate.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-16T16:42:56.035857+00:00",
+      "last_seen": "2026-06-16T16:42:56.035857+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e2af3bf8d472b696",
+      "title": "New Local's Stronger Things Conference",
+      "url": "https://www.gov.uk/government/speeches/new-locals-stronger-things-conference",
+      "start_date": "2026-06-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Speaking at New Local's Stronger Things Conference in London, Communities Secretary Steve Reed set out reforms to put more power in the hands of communities.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-16T16:42:56.036011+00:00",
+      "last_seen": "2026-06-16T16:42:56.036011+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2315fe985c1c324e",
+      "title": "Meningococcal B (MenB) time limited vaccination offer letter",
+      "url": "https://www.gov.uk/government/publications/meningococcal-b-menb-time-limited-vaccination-offer-letter",
+      "start_date": "2026-06-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Information on the Meningococcal B (MenB) time limited vaccination offer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-16T16:42:56.036194+00:00",
+      "last_seen": "2026-06-16T16:42:56.036194+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7f2df37a4ee99fd7",
+      "title": "Every child to get access to enriching activities to build skills and confidence for life",
+      "url": "https://www.gov.uk/government/news/every-child-to-get-access-to-enriching-activities-to-build-skills-and-confidence-for-life",
+      "start_date": "2026-06-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Children in every part of the country to get access to enriching activities to beat isolation online and build connections in the real world",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-16T16:42:56.036320+00:00",
+      "last_seen": "2026-06-16T16:42:56.036320+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5cb14a8f386ffb3a",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-latest-decisions",
+      "start_date": "2026-06-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-16T16:42:56.036481+00:00",
+      "last_seen": "2026-06-16T16:42:56.036481+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
