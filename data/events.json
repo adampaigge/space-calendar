@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T02:49:16.252443+00:00",
-  "total_sources": 315,
+  "updated_at": "2026-06-23T09:32:12.736570+00:00",
+  "total_sources": 321,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -7986,7 +7986,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-18T15:16:25.695170+00:00",
-      "last_seen": "2026-06-23T02:49:16.098949+00:00",
+      "last_seen": "2026-06-23T09:32:12.629088+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8121,7 +8121,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-19T03:53:01.819970+00:00",
-      "last_seen": "2026-06-23T02:49:16.098801+00:00",
+      "last_seen": "2026-06-23T09:32:12.628984+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8148,7 +8148,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-19T10:19:37.387333+00:00",
-      "last_seen": "2026-06-23T02:49:16.098305+00:00",
+      "last_seen": "2026-06-23T09:32:12.628670+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8175,7 +8175,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-19T10:19:37.388229+00:00",
-      "last_seen": "2026-06-23T02:49:16.098417+00:00",
+      "last_seen": "2026-06-23T09:32:12.628751+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8202,7 +8202,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-19T10:19:37.388373+00:00",
-      "last_seen": "2026-06-23T02:49:16.098604+00:00",
+      "last_seen": "2026-06-23T09:32:12.628842+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8229,7 +8229,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-19T14:56:06.752964+00:00",
-      "last_seen": "2026-06-23T02:49:16.098154+00:00",
+      "last_seen": "2026-06-23T09:32:12.628546+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8256,7 +8256,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-20T02:54:46.707808+00:00",
-      "last_seen": "2026-06-23T02:49:16.097948+00:00",
+      "last_seen": "2026-06-23T09:32:12.628399+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8337,7 +8337,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.800333+00:00",
-      "last_seen": "2026-06-23T02:49:16.097047+00:00",
+      "last_seen": "2026-06-23T09:32:12.627779+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8364,7 +8364,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801231+00:00",
-      "last_seen": "2026-06-23T02:49:16.097229+00:00",
+      "last_seen": "2026-06-23T09:32:12.627897+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8391,7 +8391,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801390+00:00",
-      "last_seen": "2026-06-23T02:49:16.097375+00:00",
+      "last_seen": "2026-06-23T09:32:12.628001+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8418,7 +8418,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801515+00:00",
-      "last_seen": "2026-06-23T02:49:16.097488+00:00",
+      "last_seen": "2026-06-23T09:32:12.628080+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8445,7 +8445,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801640+00:00",
-      "last_seen": "2026-06-23T02:49:16.097642+00:00",
+      "last_seen": "2026-06-23T09:32:12.628173+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8473,7 +8473,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801783+00:00",
-      "last_seen": "2026-06-23T02:49:16.097789+00:00",
+      "last_seen": "2026-06-23T09:32:12.628281+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8500,7 +8500,169 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T16:47:55.367168+00:00",
-      "last_seen": "2026-06-23T02:49:16.096061+00:00",
+      "last_seen": "2026-06-23T09:32:12.627688+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bfa1486dcabd0cd8",
+      "title": "Plans for prominence of trusted news sources on social media alongside measures to reform Public Service Media in the UK",
+      "url": "https://www.gov.uk/government/news/plans-for-prominence-of-trusted-news-sources-on-social-media-alongside-measures-to-reform-public-service-media-in-the-uk",
+      "start_date": "2026-06-23T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Media Green Paper published by Government today sets out plans to improve access to reliable news sources in online apps",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-23T09:32:12.626381+00:00",
+      "last_seen": "2026-06-23T09:32:12.626381+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9f4ca7cae8191e16",
+      "title": "National Housing Bank appoints four industry leaders to executive team",
+      "url": "https://www.gov.uk/government/news/national-housing-bank-appoints-four-industry-leaders-to-executive-team",
+      "start_date": "2026-06-23T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Quartet of highly experienced leaders join bank on a mission to accelerate housing delivery though purpose-led finance",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-23T09:32:12.627101+00:00",
+      "last_seen": "2026-06-23T09:32:12.627101+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "055f387b9ec5b4c3",
+      "title": "Housing Health and Safety Rating System (HHSRS): Case studies",
+      "url": "https://www.gov.uk/government/case-studies/housing-health-and-safety-rating-system-hhsrs-case-studies",
+      "start_date": "2026-06-23T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Case studies (previously referred to as worked examples) demonstrating how the HHSRS assessment process works.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-23T09:32:12.627228+00:00",
+      "last_seen": "2026-06-23T09:32:12.627228+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1845de7b468ca9f3",
+      "title": "Fiftieth anniversary conference marking the 1976 drought",
+      "url": "https://www.gov.uk/government/speeches/fiftieth-anniversary-conference-marking-the-1976-drought",
+      "start_date": "2026-06-23T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Environment Agency Chief Executive Philip Duffy\u2019s keynote address looking at how the devastating drought changed the way we manage and use water.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-23T09:32:12.627337+00:00",
+      "last_seen": "2026-06-23T09:32:12.627337+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "01ab556a68956c38",
+      "title": "UK backs new AI labs to make technology cheaper, more reliable and easier to use",
+      "url": "https://www.gov.uk/government/news/uk-backs-new-ai-labs-to-make-technology-cheaper-more-reliable-and-easier-to-use",
+      "start_date": "2026-06-23T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Oxford and UCL to host new government-backed labs developing the next generation of AI that more businesses and services can readily use",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-23T09:32:12.627457+00:00",
+      "last_seen": "2026-06-23T09:32:12.627457+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6054d87e2451258b",
+      "title": "CMA orders StubHub UK to refund customers over hidden fees",
+      "url": "https://www.gov.uk/government/news/cma-orders-stubhub-uk-to-refund-customers-over-hidden-fees",
+      "start_date": "2026-06-23T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "StubHub UK must refund more than 50,000 customers and pay a fine close to \u00a3900,000.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-23T09:32:12.627577+00:00",
+      "last_seen": "2026-06-23T09:32:12.627577+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
