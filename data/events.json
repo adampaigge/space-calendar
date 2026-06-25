@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T19:41:28.684115+00:00",
-  "total_sources": 328,
+  "updated_at": "2026-06-25T02:50:11.049286+00:00",
+  "total_sources": 329,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -8256,7 +8256,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-20T02:54:46.707808+00:00",
-      "last_seen": "2026-06-24T19:41:28.536753+00:00",
+      "last_seen": "2026-06-25T02:50:10.891600+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8391,7 +8391,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801390+00:00",
-      "last_seen": "2026-06-24T19:41:28.536223+00:00",
+      "last_seen": "2026-06-25T02:50:10.891014+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8418,7 +8418,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801515+00:00",
-      "last_seen": "2026-06-24T19:41:28.536330+00:00",
+      "last_seen": "2026-06-25T02:50:10.891152+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8445,7 +8445,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801640+00:00",
-      "last_seen": "2026-06-24T19:41:28.536451+00:00",
+      "last_seen": "2026-06-25T02:50:10.891285+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8473,7 +8473,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T11:45:37.801783+00:00",
-      "last_seen": "2026-06-24T19:41:28.536592+00:00",
+      "last_seen": "2026-06-25T02:50:10.891439+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8500,7 +8500,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-22T16:47:55.367168+00:00",
-      "last_seen": "2026-06-24T19:41:28.536095+00:00",
+      "last_seen": "2026-06-25T02:50:10.890893+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8527,7 +8527,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T09:32:12.626381+00:00",
-      "last_seen": "2026-06-24T19:41:28.535170+00:00",
+      "last_seen": "2026-06-25T02:50:10.889957+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8554,7 +8554,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T09:32:12.627101+00:00",
-      "last_seen": "2026-06-24T19:41:28.535333+00:00",
+      "last_seen": "2026-06-25T02:50:10.890162+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8581,7 +8581,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T09:32:12.627228+00:00",
-      "last_seen": "2026-06-24T19:41:28.535471+00:00",
+      "last_seen": "2026-06-25T02:50:10.890311+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8608,7 +8608,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T09:32:12.627337+00:00",
-      "last_seen": "2026-06-24T19:41:28.535601+00:00",
+      "last_seen": "2026-06-25T02:50:10.890451+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8635,7 +8635,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T09:32:12.627457+00:00",
-      "last_seen": "2026-06-24T19:41:28.535756+00:00",
+      "last_seen": "2026-06-25T02:50:10.890605+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8662,7 +8662,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T09:32:12.627577+00:00",
-      "last_seen": "2026-06-24T19:41:28.535907+00:00",
+      "last_seen": "2026-06-25T02:50:10.890764+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8689,7 +8689,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T14:40:02.571799+00:00",
-      "last_seen": "2026-06-24T19:41:28.534839+00:00",
+      "last_seen": "2026-06-25T02:50:10.889645+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8716,7 +8716,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T14:40:02.572832+00:00",
-      "last_seen": "2026-06-24T19:41:28.535023+00:00",
+      "last_seen": "2026-06-25T02:50:10.889809+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8743,7 +8743,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T09:21:11.060122+00:00",
-      "last_seen": "2026-06-24T19:41:28.534700+00:00",
+      "last_seen": "2026-06-25T02:50:10.889503+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8770,7 +8770,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T14:21:48.451919+00:00",
-      "last_seen": "2026-06-24T19:41:28.534286+00:00",
+      "last_seen": "2026-06-25T02:50:10.889066+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8797,7 +8797,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T14:21:48.452838+00:00",
-      "last_seen": "2026-06-24T19:41:28.534456+00:00",
+      "last_seen": "2026-06-25T02:50:10.889250+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8824,7 +8824,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T14:21:48.452979+00:00",
-      "last_seen": "2026-06-24T19:41:28.534590+00:00",
+      "last_seen": "2026-06-25T02:50:10.889390+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8851,7 +8851,34 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T19:41:28.533225+00:00",
-      "last_seen": "2026-06-24T19:41:28.533225+00:00",
+      "last_seen": "2026-06-25T02:50:10.888888+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "09ec8c9e2815c704",
+      "title": "Young people with SEND to benefit from new guidance on inclusion",
+      "url": "https://www.gov.uk/government/news/young-people-with-send-to-benefit-from-new-guidance-on-inclusion",
+      "start_date": "2026-06-24T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Government launches first of its kind guidance on creating dedicated teaching and supportspacesfor children with SEND.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-25T02:50:10.887886+00:00",
+      "last_seen": "2026-06-25T02:50:10.887886+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
