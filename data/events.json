@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-26T14:15:01.252157+00:00",
-  "total_sources": 340,
+  "updated_at": "2026-06-26T19:41:47.265090+00:00",
+  "total_sources": 343,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -8689,7 +8689,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-23T14:40:02.571799+00:00",
-      "last_seen": "2026-06-26T14:15:01.086221+00:00",
+      "last_seen": "2026-06-26T19:41:47.092310+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8743,7 +8743,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T09:21:11.060122+00:00",
-      "last_seen": "2026-06-26T14:15:01.086048+00:00",
+      "last_seen": "2026-06-26T19:41:47.092171+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8770,7 +8770,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T14:21:48.451919+00:00",
-      "last_seen": "2026-06-26T14:15:01.085664+00:00",
+      "last_seen": "2026-06-26T19:41:47.091790+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8797,7 +8797,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T14:21:48.452838+00:00",
-      "last_seen": "2026-06-26T14:15:01.085814+00:00",
+      "last_seen": "2026-06-26T19:41:47.091939+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8824,7 +8824,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-24T14:21:48.452979+00:00",
-      "last_seen": "2026-06-26T14:15:01.085941+00:00",
+      "last_seen": "2026-06-26T19:41:47.092065+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8878,7 +8878,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T02:50:10.887886+00:00",
-      "last_seen": "2026-06-26T14:15:01.085370+00:00",
+      "last_seen": "2026-06-26T19:41:47.091646+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8905,7 +8905,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T08:55:31.399074+00:00",
-      "last_seen": "2026-06-26T14:15:01.084948+00:00",
+      "last_seen": "2026-06-26T19:41:47.091255+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8932,7 +8932,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T08:55:31.399796+00:00",
-      "last_seen": "2026-06-26T14:15:01.085193+00:00",
+      "last_seen": "2026-06-26T19:41:47.091463+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8959,7 +8959,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T14:22:10.095690+00:00",
-      "last_seen": "2026-06-26T14:15:01.084455+00:00",
+      "last_seen": "2026-06-26T19:41:47.090769+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8986,7 +8986,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T14:22:10.096723+00:00",
-      "last_seen": "2026-06-26T14:15:01.084577+00:00",
+      "last_seen": "2026-06-26T19:41:47.090886+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9013,7 +9013,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T14:22:10.096958+00:00",
-      "last_seen": "2026-06-26T14:15:01.084786+00:00",
+      "last_seen": "2026-06-26T19:41:47.091094+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9040,7 +9040,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T19:52:59.653441+00:00",
-      "last_seen": "2026-06-26T14:15:01.084185+00:00",
+      "last_seen": "2026-06-26T19:41:47.090451+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9067,7 +9067,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T19:52:59.654376+00:00",
-      "last_seen": "2026-06-26T14:15:01.084312+00:00",
+      "last_seen": "2026-06-26T19:41:47.090611+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9094,7 +9094,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T14:15:01.082448+00:00",
-      "last_seen": "2026-06-26T14:15:01.082448+00:00",
+      "last_seen": "2026-06-26T19:41:47.089675+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9121,7 +9121,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T14:15:01.083590+00:00",
-      "last_seen": "2026-06-26T14:15:01.083590+00:00",
+      "last_seen": "2026-06-26T19:41:47.089908+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9148,7 +9148,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T14:15:01.083828+00:00",
-      "last_seen": "2026-06-26T14:15:01.083828+00:00",
+      "last_seen": "2026-06-26T19:41:47.090126+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9175,7 +9175,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T14:15:01.083971+00:00",
-      "last_seen": "2026-06-26T14:15:01.083971+00:00",
+      "last_seen": "2026-06-26T19:41:47.090265+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d2354c10b1ed1efc",
+      "title": "UN Human Rights Council 62: UK Statement for the Interactive Dialogue on Venezuela.",
+      "url": "https://www.gov.uk/government/news/un-human-rights-council-62-uk-statement-for-the-interactive-dialogue-on-venezuela",
+      "start_date": "2026-06-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UK Statement for the Interactive Dialogue on Venezuela. Delivered at the 62nd Human Rights Council in Geneva.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-26T19:41:47.088186+00:00",
+      "last_seen": "2026-06-26T19:41:47.088186+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7eb8b56620a1a5ed",
+      "title": "The Rapid Support Forces must halt their assault on El Obeid: UK statement at the UN Security Council",
+      "url": "https://www.gov.uk/government/speeches/the-rapid-support-forces-must-halt-their-assault-on-el-obeid-uk-statement-at-the-un-security-council",
+      "start_date": "2026-06-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Statement by Ambassador James Kariuki, UK Charg\u00e9 d\u2019Affaires to the UN, at the UN Security Council meeting on Sudan.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-26T19:41:47.089277+00:00",
+      "last_seen": "2026-06-26T19:41:47.089277+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1039502a52d5b45c",
+      "title": "UKHSA extends red heat-health alerts across England",
+      "url": "https://www.gov.uk/government/news/ukhsa-issues-red-heat-health-alerts-across-england",
+      "start_date": "2026-06-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The red heat-health alerts in place for the West Midlands, East Midlands, South East, South West, London, and East of England have now been extended.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-26T19:41:47.089487+00:00",
+      "last_seen": "2026-06-26T19:41:47.089487+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
