@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T15:39:16.438120+00:00",
-  "total_sources": 350,
+  "updated_at": "2026-06-29T19:51:08.841760+00:00",
+  "total_sources": 352,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -8959,7 +8959,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T14:22:10.095690+00:00",
-      "last_seen": "2026-06-29T15:39:16.260180+00:00",
+      "last_seen": "2026-06-29T19:51:08.653085+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -8986,7 +8986,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T14:22:10.096723+00:00",
-      "last_seen": "2026-06-29T15:39:16.260291+00:00",
+      "last_seen": "2026-06-29T19:51:08.653187+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9040,7 +9040,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T19:52:59.653441+00:00",
-      "last_seen": "2026-06-29T15:39:16.259932+00:00",
+      "last_seen": "2026-06-29T19:51:08.652858+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9067,7 +9067,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-25T19:52:59.654376+00:00",
-      "last_seen": "2026-06-29T15:39:16.260047+00:00",
+      "last_seen": "2026-06-29T19:51:08.652962+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9094,7 +9094,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T14:15:01.082448+00:00",
-      "last_seen": "2026-06-29T15:39:16.259175+00:00",
+      "last_seen": "2026-06-29T19:51:08.652182+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9121,7 +9121,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T14:15:01.083590+00:00",
-      "last_seen": "2026-06-29T15:39:16.259393+00:00",
+      "last_seen": "2026-06-29T19:51:08.652397+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9148,7 +9148,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T14:15:01.083828+00:00",
-      "last_seen": "2026-06-29T15:39:16.259604+00:00",
+      "last_seen": "2026-06-29T19:51:08.652581+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9175,7 +9175,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T14:15:01.083971+00:00",
-      "last_seen": "2026-06-29T15:39:16.259734+00:00",
+      "last_seen": "2026-06-29T19:51:08.652701+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9229,7 +9229,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T19:41:47.089277+00:00",
-      "last_seen": "2026-06-29T15:39:16.258850+00:00",
+      "last_seen": "2026-06-29T19:51:08.651885+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9256,7 +9256,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T19:41:47.089487+00:00",
-      "last_seen": "2026-06-29T15:39:16.259032+00:00",
+      "last_seen": "2026-06-29T19:51:08.652046+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9283,7 +9283,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-27T02:45:22.162419+00:00",
-      "last_seen": "2026-06-29T15:39:16.258507+00:00",
+      "last_seen": "2026-06-29T19:51:08.651591+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9310,7 +9310,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-27T19:14:20.161569+00:00",
-      "last_seen": "2026-06-29T15:39:16.258279+00:00",
+      "last_seen": "2026-06-29T19:51:08.651383+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9337,7 +9337,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T10:49:02.891895+00:00",
-      "last_seen": "2026-06-29T15:39:16.257930+00:00",
+      "last_seen": "2026-06-29T19:51:08.651054+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9364,7 +9364,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T10:49:02.892799+00:00",
-      "last_seen": "2026-06-29T15:39:16.258090+00:00",
+      "last_seen": "2026-06-29T19:51:08.651199+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9391,7 +9391,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T15:39:16.256499+00:00",
-      "last_seen": "2026-06-29T15:39:16.256499+00:00",
+      "last_seen": "2026-06-29T19:51:08.650610+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9418,7 +9418,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T15:39:16.257544+00:00",
-      "last_seen": "2026-06-29T15:39:16.257544+00:00",
+      "last_seen": "2026-06-29T19:51:08.650751+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9445,7 +9445,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T15:39:16.257714+00:00",
-      "last_seen": "2026-06-29T15:39:16.257714+00:00",
+      "last_seen": "2026-06-29T19:51:08.650887+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "dea7205812f4bc9a",
+      "title": "Government crackdown on fraud leads to cancellation of over 450 Blue Badges in the Wirral",
+      "url": "https://www.gov.uk/government/news/government-crackdown-on-fraud-leads-to-cancellation-of-over-450-blue-badges-in-the-wirral",
+      "start_date": "2026-06-29T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Over 450 Blue Badges have been cancelled after findings show permits issued to deceased residents were still being used.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-29T19:51:08.649548+00:00",
+      "last_seen": "2026-06-29T19:51:08.649548+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6666eba4f66e1514",
+      "title": "Illegal immigrants and foreign criminals to be removed",
+      "url": "https://www.gov.uk/government/news/illegal-immigrants-and-foreign-criminals-to-be-removed",
+      "start_date": "2026-06-29T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "More than 45,000\u00a0foreign criminals and failed asylum seekers will be removed over the coming decade thanks to a significant expansion of detention capacity.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-29T19:51:08.650446+00:00",
+      "last_seen": "2026-06-29T19:51:08.650446+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
