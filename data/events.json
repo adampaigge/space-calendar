@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T09:26:08.597769+00:00",
-  "total_sources": 355,
+  "updated_at": "2026-06-30T14:09:29.814106+00:00",
+  "total_sources": 359,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -9229,7 +9229,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T19:41:47.089277+00:00",
-      "last_seen": "2026-06-30T09:26:08.402266+00:00",
+      "last_seen": "2026-06-30T14:09:29.633526+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9256,7 +9256,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-26T19:41:47.089487+00:00",
-      "last_seen": "2026-06-30T09:26:08.402442+00:00",
+      "last_seen": "2026-06-30T14:09:29.633689+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9283,7 +9283,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-27T02:45:22.162419+00:00",
-      "last_seen": "2026-06-30T09:26:08.401931+00:00",
+      "last_seen": "2026-06-30T14:09:29.633220+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9310,7 +9310,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-27T19:14:20.161569+00:00",
-      "last_seen": "2026-06-30T09:26:08.401669+00:00",
+      "last_seen": "2026-06-30T14:09:29.633013+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9337,7 +9337,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T10:49:02.891895+00:00",
-      "last_seen": "2026-06-30T09:26:08.401326+00:00",
+      "last_seen": "2026-06-30T14:09:29.632700+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9364,7 +9364,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T10:49:02.892799+00:00",
-      "last_seen": "2026-06-30T09:26:08.401484+00:00",
+      "last_seen": "2026-06-30T14:09:29.632844+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9391,7 +9391,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T15:39:16.256499+00:00",
-      "last_seen": "2026-06-30T09:26:08.400839+00:00",
+      "last_seen": "2026-06-30T14:09:29.632267+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9418,7 +9418,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T15:39:16.257544+00:00",
-      "last_seen": "2026-06-30T09:26:08.400996+00:00",
+      "last_seen": "2026-06-30T14:09:29.632405+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9445,7 +9445,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T15:39:16.257714+00:00",
-      "last_seen": "2026-06-30T09:26:08.401143+00:00",
+      "last_seen": "2026-06-30T14:09:29.632536+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9472,7 +9472,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T19:51:08.649548+00:00",
-      "last_seen": "2026-06-30T09:26:08.400482+00:00",
+      "last_seen": "2026-06-30T14:09:29.631950+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9499,7 +9499,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-29T19:51:08.650446+00:00",
-      "last_seen": "2026-06-30T09:26:08.400649+00:00",
+      "last_seen": "2026-06-30T14:09:29.632094+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9526,7 +9526,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-30T09:26:08.399043+00:00",
-      "last_seen": "2026-06-30T09:26:08.399043+00:00",
+      "last_seen": "2026-06-30T14:09:29.631541+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9554,7 +9554,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-30T09:26:08.400128+00:00",
-      "last_seen": "2026-06-30T09:26:08.400128+00:00",
+      "last_seen": "2026-06-30T14:09:29.631671+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9581,7 +9581,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-30T09:26:08.400320+00:00",
-      "last_seen": "2026-06-30T09:26:08.400320+00:00",
+      "last_seen": "2026-06-30T14:09:29.631814+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e184b82f7b9038e1",
+      "title": "Over 45 miles of new walking routes open on the Suffolk coast",
+      "url": "https://www.gov.uk/government/news/over-45-miles-of-new-walking-routes-open-on-the-suffolk-coast",
+      "start_date": "2026-06-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "With over 45 miles of Suffolk coastline opens on the King Charles III England Coast Path, the public can now walk continuously from Shotley Gate to Southwold.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-30T14:09:29.629951+00:00",
+      "last_seen": "2026-06-30T14:09:29.629951+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d1e03263475661c5",
+      "title": "What is the First Generation Magnox Storage Pond?",
+      "url": "https://www.gov.uk/government/case-studies/what-is-the-first-generation-magnox-storage-pond",
+      "start_date": "2026-06-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The First Generation Magnox Storage Pond is one of 4 legacy pond and silo facilities on the Sellafield site.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-30T14:09:29.630874+00:00",
+      "last_seen": "2026-06-30T14:09:29.630874+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7bc71f774ecfb551",
+      "title": "PM speech announcing the Defence Investment Plan: 30 June 2026",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-announcing-the-defence-investment-plan-30-june-2026",
+      "start_date": "2026-06-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Prime Minister's speech announcing the Defence Investment Plan in Maidenhead this morning.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-30T14:09:29.631014+00:00",
+      "last_seen": "2026-06-30T14:09:29.631014+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2ab7010f397870d2",
+      "title": "\u00a315 billion new funding boost to transform Armed Forces and keep the UK safe",
+      "url": "https://www.gov.uk/government/news/15-billion-new-funding-boost-to-transform-armed-forces-and-keep-the-uk-safe--2",
+      "start_date": "2026-06-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Britain\u2019s\u00a0Armed\u00a0Forces will be ready and equipped to fight the\u00a0wars of today and\u00a0the future following a landmark \u00a315 billion investment to fund key\u00a0equipment\u00a0and technology.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-06-30T14:09:29.631137+00:00",
+      "last_seen": "2026-06-30T14:09:29.631137+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
