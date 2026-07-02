@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T08:49:22.836846+00:00",
-  "total_sources": 375,
+  "updated_at": "2026-07-02T13:49:18.173956+00:00",
+  "total_sources": 379,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -9608,7 +9608,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-30T14:09:29.629951+00:00",
-      "last_seen": "2026-07-02T08:49:22.675311+00:00",
+      "last_seen": "2026-07-02T13:49:18.035726+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9716,7 +9716,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-06-30T19:48:53.164417+00:00",
-      "last_seen": "2026-07-02T08:49:22.675212+00:00",
+      "last_seen": "2026-07-02T13:49:18.035645+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9743,7 +9743,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T03:23:35.185311+00:00",
-      "last_seen": "2026-07-02T08:49:22.674490+00:00",
+      "last_seen": "2026-07-02T13:49:18.035031+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9770,7 +9770,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T03:23:35.186486+00:00",
-      "last_seen": "2026-07-02T08:49:22.675100+00:00",
+      "last_seen": "2026-07-02T13:49:18.035557+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9797,7 +9797,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T09:38:31.475237+00:00",
-      "last_seen": "2026-07-02T08:49:22.674654+00:00",
+      "last_seen": "2026-07-02T13:49:18.035178+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9824,7 +9824,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T09:38:31.475424+00:00",
-      "last_seen": "2026-07-02T08:49:22.674812+00:00",
+      "last_seen": "2026-07-02T13:49:18.035320+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9851,7 +9851,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T09:38:31.475572+00:00",
-      "last_seen": "2026-07-02T08:49:22.674952+00:00",
+      "last_seen": "2026-07-02T13:49:18.035456+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9878,7 +9878,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T14:25:59.692873+00:00",
-      "last_seen": "2026-07-02T08:49:22.673428+00:00",
+      "last_seen": "2026-07-02T13:49:18.034116+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9905,7 +9905,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T14:25:59.693921+00:00",
-      "last_seen": "2026-07-02T08:49:22.673582+00:00",
+      "last_seen": "2026-07-02T13:49:18.034245+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9932,7 +9932,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T14:25:59.694095+00:00",
-      "last_seen": "2026-07-02T08:49:22.673736+00:00",
+      "last_seen": "2026-07-02T13:49:18.034376+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9959,7 +9959,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T14:25:59.694214+00:00",
-      "last_seen": "2026-07-02T08:49:22.673848+00:00",
+      "last_seen": "2026-07-02T13:49:18.034480+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -9986,7 +9986,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T14:25:59.694435+00:00",
-      "last_seen": "2026-07-02T08:49:22.674097+00:00",
+      "last_seen": "2026-07-02T13:49:18.034683+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10040,7 +10040,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T19:47:32.501982+00:00",
-      "last_seen": "2026-07-02T08:49:22.673135+00:00",
+      "last_seen": "2026-07-02T13:49:18.033904+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10067,7 +10067,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-01T19:47:32.502906+00:00",
-      "last_seen": "2026-07-02T08:49:22.673274+00:00",
+      "last_seen": "2026-07-02T13:49:18.033994+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10094,7 +10094,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T08:49:22.671918+00:00",
-      "last_seen": "2026-07-02T08:49:22.671918+00:00",
+      "last_seen": "2026-07-02T13:49:18.033735+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10121,7 +10121,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T08:49:22.674336+00:00",
-      "last_seen": "2026-07-02T08:49:22.674336+00:00",
+      "last_seen": "2026-07-02T13:49:18.034895+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "944631fa69e31ce8",
+      "title": "Three new Trustees appointed to the Royal Armouries Board",
+      "url": "https://www.gov.uk/government/news/three-new-trustees-appointed-to-the-royal-armouries-board",
+      "start_date": "2026-07-02T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Secretary of State has appointed Rebecca Crook and Judith Donovan for four-year terms commencing 26 September 2026, and Helen Williams for a four-year term from 1 October 2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-02T13:49:18.032380+00:00",
+      "last_seen": "2026-07-02T13:49:18.032380+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d2e43d1a757b9ba4",
+      "title": "Russia\u2019s actions in Ukraine and at the OSCE must not be normalised: UK statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/russias-actions-in-ukraine-and-at-the-osce-must-not-be-normalised-uk-statement-to-the-osce",
+      "start_date": "2026-07-02T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Ambassador Holland condemned Russia\u2019s ongoing aggression, highlighting rising civilian casualties, cultural destruction and reports of conflict-related sexual violence, while exposing persistent disinformation. He criticised\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-02T13:49:18.033198+00:00",
+      "last_seen": "2026-07-02T13:49:18.033198+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9b3311db1a978f19",
+      "title": "AAIB Report: De Havilland Aircraft of Canada Limited DHC-8, 9H-LWB",
+      "url": "https://www.gov.uk/government/news/aaib-report-de-havilland-aircraft-of-canada-limited-dhc-8-9h-lwb",
+      "start_date": "2026-07-02T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "De Havilland Aircraft of Canada Limited DHC-8 (9H-LWB), runway excursion, Runway 27, Guernsey Airport, 23 April 2024",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-02T13:49:18.033455+00:00",
+      "last_seen": "2026-07-02T13:49:18.033455+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1e67a847d0192a19",
+      "title": "New standards published by government agency",
+      "url": "https://www.gov.uk/government/news/new-standards-published-by-government-agency",
+      "start_date": "2026-07-02T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Improved guidelines have been published by the Government Property Agency (GPA) as it continues its mission to create smaller, better and greener offices.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-02T13:49:18.033597+00:00",
+      "last_seen": "2026-07-02T13:49:18.033597+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
