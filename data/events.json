@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T10:10:11.135091+00:00",
-  "total_sources": 390,
+  "updated_at": "2026-07-06T15:22:09.731735+00:00",
+  "total_sources": 394,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -10094,7 +10094,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T08:49:22.671918+00:00",
-      "last_seen": "2026-07-06T10:10:10.997448+00:00",
+      "last_seen": "2026-07-06T15:22:09.601203+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10148,7 +10148,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T13:49:18.032380+00:00",
-      "last_seen": "2026-07-06T10:10:10.996726+00:00",
+      "last_seen": "2026-07-06T15:22:09.600466+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10175,7 +10175,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T13:49:18.033198+00:00",
-      "last_seen": "2026-07-06T10:10:10.996887+00:00",
+      "last_seen": "2026-07-06T15:22:09.600641+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10202,7 +10202,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T13:49:18.033455+00:00",
-      "last_seen": "2026-07-06T10:10:10.997160+00:00",
+      "last_seen": "2026-07-06T15:22:09.600888+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10229,7 +10229,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T13:49:18.033597+00:00",
-      "last_seen": "2026-07-06T10:10:10.997307+00:00",
+      "last_seen": "2026-07-06T15:22:09.601032+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10256,7 +10256,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T19:18:09.518415+00:00",
-      "last_seen": "2026-07-06T10:10:10.996326+00:00",
+      "last_seen": "2026-07-06T15:22:09.600015+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10310,7 +10310,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T19:18:09.519610+00:00",
-      "last_seen": "2026-07-06T10:10:10.996489+00:00",
+      "last_seen": "2026-07-06T15:22:09.600205+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10337,7 +10337,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T19:18:09.519735+00:00",
-      "last_seen": "2026-07-06T10:10:10.996599+00:00",
+      "last_seen": "2026-07-06T15:22:09.600330+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10364,7 +10364,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T02:33:00.994643+00:00",
-      "last_seen": "2026-07-06T10:10:10.995863+00:00",
+      "last_seen": "2026-07-06T15:22:09.599555+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10391,7 +10391,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T02:33:00.995973+00:00",
-      "last_seen": "2026-07-06T10:10:10.996191+00:00",
+      "last_seen": "2026-07-06T15:22:09.599873+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10418,7 +10418,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T13:53:30.453784+00:00",
-      "last_seen": "2026-07-06T10:10:10.995563+00:00",
+      "last_seen": "2026-07-06T15:22:09.599241+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10445,7 +10445,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T13:53:30.454525+00:00",
-      "last_seen": "2026-07-06T10:10:10.995716+00:00",
+      "last_seen": "2026-07-06T15:22:09.599405+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10472,7 +10472,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T19:12:53.016033+00:00",
-      "last_seen": "2026-07-06T10:10:10.995408+00:00",
+      "last_seen": "2026-07-06T15:22:09.599055+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10499,7 +10499,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T10:10:10.994369+00:00",
-      "last_seen": "2026-07-06T10:10:10.994369+00:00",
+      "last_seen": "2026-07-06T15:22:09.598760+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10526,7 +10526,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T10:10:10.995234+00:00",
-      "last_seen": "2026-07-06T10:10:10.995234+00:00",
+      "last_seen": "2026-07-06T15:22:09.598900+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d66211c0082a5d26",
+      "title": "UKHSA updates heat health alerts across England",
+      "url": "https://www.gov.uk/government/news/ukhsa-issues-red-heat-health-alerts-across-england",
+      "start_date": "2026-07-06T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The existing yellow heat-health alert for the East Midlands, West Midlands, East of England, London, South East and South West will be escalated to amber",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-06T15:22:09.597106+00:00",
+      "last_seen": "2026-07-06T15:22:09.597106+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bb899fd4eb326fb3",
+      "title": "Communities backed to lead local climate and nature action",
+      "url": "https://www.gov.uk/government/news/communities-backed-to-lead-local-climate-and-nature-action",
+      "start_date": "2026-07-06T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Bradford, Manchester, Bristol, London and Birmingham are the first cities to host annual \u2018Energising Britain\u2019events.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-06T15:22:09.598142+00:00",
+      "last_seen": "2026-07-06T15:22:09.598142+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "fceb4e046baf4545",
+      "title": "Foreign Secretary Chatham House essay: Britain\u2019s place in the new world order",
+      "url": "https://www.gov.uk/government/news/foreign-secretary-chatham-house-essay-britains-place-in-the-new-world-order",
+      "start_date": "2026-07-06T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "We are facing a storm of geopolitical instability, economic coercion, AI and climate change \u2013 and it\u2019s likely to get worse. But by working more closely with Europe and seeking greater cooperation outside the big trading bloc\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-06T15:22:09.598348+00:00",
+      "last_seen": "2026-07-06T15:22:09.598348+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "383c949e1967c9f9",
+      "title": "Government backs Brighton beaches with new funding",
+      "url": "https://www.gov.uk/government/news/government-backs-brighton-beaches-with-new-funding",
+      "start_date": "2026-07-06T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The \u00a322 million government investment will replace dozens of Victorian arches to avoid the risk of collapse and ensure the road is safe for the next 100 years.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-06T15:22:09.598594+00:00",
+      "last_seen": "2026-07-06T15:22:09.598594+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
