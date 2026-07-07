@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T14:21:56.855108+00:00",
-  "total_sources": 398,
+  "updated_at": "2026-07-07T19:49:07.885408+00:00",
+  "total_sources": 402,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -10256,7 +10256,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-02T19:18:09.518415+00:00",
-      "last_seen": "2026-07-07T14:21:56.731980+00:00",
+      "last_seen": "2026-07-07T19:49:07.729256+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10364,7 +10364,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T02:33:00.994643+00:00",
-      "last_seen": "2026-07-07T14:21:56.731520+00:00",
+      "last_seen": "2026-07-07T19:49:07.728776+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10391,7 +10391,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T02:33:00.995973+00:00",
-      "last_seen": "2026-07-07T14:21:56.731837+00:00",
+      "last_seen": "2026-07-07T19:49:07.729107+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10418,7 +10418,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T13:53:30.453784+00:00",
-      "last_seen": "2026-07-07T14:21:56.731206+00:00",
+      "last_seen": "2026-07-07T19:49:07.728443+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10445,7 +10445,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T13:53:30.454525+00:00",
-      "last_seen": "2026-07-07T14:21:56.731371+00:00",
+      "last_seen": "2026-07-07T19:49:07.728605+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10472,7 +10472,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T19:12:53.016033+00:00",
-      "last_seen": "2026-07-07T14:21:56.731010+00:00",
+      "last_seen": "2026-07-07T19:49:07.728282+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10499,7 +10499,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T10:10:10.994369+00:00",
-      "last_seen": "2026-07-07T14:21:56.730718+00:00",
+      "last_seen": "2026-07-07T19:49:07.727977+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10526,7 +10526,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T10:10:10.995234+00:00",
-      "last_seen": "2026-07-07T14:21:56.730856+00:00",
+      "last_seen": "2026-07-07T19:49:07.728121+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10553,7 +10553,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.597106+00:00",
-      "last_seen": "2026-07-07T14:21:56.729974+00:00",
+      "last_seen": "2026-07-07T19:49:07.727215+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10580,7 +10580,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.598142+00:00",
-      "last_seen": "2026-07-07T14:21:56.730154+00:00",
+      "last_seen": "2026-07-07T19:49:07.727374+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10634,7 +10634,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.598594+00:00",
-      "last_seen": "2026-07-07T14:21:56.730556+00:00",
+      "last_seen": "2026-07-07T19:49:07.727802+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10661,7 +10661,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T19:50:48.201556+00:00",
-      "last_seen": "2026-07-07T14:21:56.729833+00:00",
+      "last_seen": "2026-07-07T19:49:07.727078+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10688,7 +10688,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T02:41:34.046565+00:00",
-      "last_seen": "2026-07-07T14:21:56.729674+00:00",
+      "last_seen": "2026-07-07T19:49:07.726938+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10715,7 +10715,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T09:34:38.752882+00:00",
-      "last_seen": "2026-07-07T14:21:56.728601+00:00",
+      "last_seen": "2026-07-07T19:49:07.726777+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10742,7 +10742,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T09:34:38.754570+00:00",
-      "last_seen": "2026-07-07T14:21:56.730317+00:00",
+      "last_seen": "2026-07-07T19:49:07.727532+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "96f2b19b999ecc63",
+      "title": "UK SME chosen to run Kyiv Business Centre",
+      "url": "https://www.gov.uk/government/news/uk-sme-chosen-to-run-kyiv-business-centre",
+      "start_date": "2026-07-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Audere Group has been chosen as the delivery partner for the dedicated Business Centre in Kyiv, providing British businesses permanent representation in Ukraine.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-07T19:49:07.725093+00:00",
+      "last_seen": "2026-07-07T19:49:07.725093+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "654e0a3832488f9c",
+      "title": "UN Human Rights Council 62: UK General Comment on the draft resolution on independence and impartiality of the judiciary",
+      "url": "https://www.gov.uk/government/news/un-human-rights-council-62-uk-general-comment-on-the-draft-resolution-on-independence-and-impartiality-of-the-judiciary",
+      "start_date": "2026-07-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UK General Comment on the draft resolution on independence and impartiality of the judiciary. Delivered at the 62nd Human Rights Council in Geneva.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-07T19:49:07.726199+00:00",
+      "last_seen": "2026-07-07T19:49:07.726199+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "93fdfdd2ce0fb513",
+      "title": "Local Government Association Conference 2026",
+      "url": "https://www.gov.uk/government/speeches/local-government-association-conference-2026",
+      "start_date": "2026-07-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A speech from the Local Government Secretary Steve Reed at the Local Government Conference",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-07T19:49:07.726422+00:00",
+      "last_seen": "2026-07-07T19:49:07.726422+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "593f695039f9b33c",
+      "title": "Local government reorganisation: section 24 direction letter to Surrey councils relating to financial transactions",
+      "url": "https://www.gov.uk/government/publications/local-government-reorganisation-section-24-direction-letter-to-surrey-councils-relating-to-financial-transactions",
+      "start_date": "2026-07-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Officials' letter to Surrey councils' chief executives in relation to section 24 of the Local Government and Public Involvement in Health Act 2007.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-07T19:49:07.726557+00:00",
+      "last_seen": "2026-07-07T19:49:07.726557+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
