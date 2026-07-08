@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T08:21:21.522583+00:00",
-  "total_sources": 404,
+  "updated_at": "2026-07-08T13:52:38.718162+00:00",
+  "total_sources": 409,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -10472,7 +10472,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T19:12:53.016033+00:00",
-      "last_seen": "2026-07-08T08:21:21.381656+00:00",
+      "last_seen": "2026-07-08T13:52:38.531618+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10526,7 +10526,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T10:10:10.995234+00:00",
-      "last_seen": "2026-07-08T08:21:21.381480+00:00",
+      "last_seen": "2026-07-08T13:52:38.531475+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10553,7 +10553,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.597106+00:00",
-      "last_seen": "2026-07-08T08:21:21.380807+00:00",
+      "last_seen": "2026-07-08T13:52:38.530761+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10580,7 +10580,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.598142+00:00",
-      "last_seen": "2026-07-08T08:21:21.380950+00:00",
+      "last_seen": "2026-07-08T13:52:38.530931+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10634,7 +10634,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.598594+00:00",
-      "last_seen": "2026-07-08T08:21:21.381312+00:00",
+      "last_seen": "2026-07-08T13:52:38.531326+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10661,7 +10661,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T19:50:48.201556+00:00",
-      "last_seen": "2026-07-08T08:21:21.380686+00:00",
+      "last_seen": "2026-07-08T13:52:38.530637+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10688,7 +10688,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T02:41:34.046565+00:00",
-      "last_seen": "2026-07-08T08:21:21.380564+00:00",
+      "last_seen": "2026-07-08T13:52:38.530515+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10715,7 +10715,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T09:34:38.752882+00:00",
-      "last_seen": "2026-07-08T08:21:21.380412+00:00",
+      "last_seen": "2026-07-08T13:52:38.530379+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10742,7 +10742,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T09:34:38.754570+00:00",
-      "last_seen": "2026-07-08T08:21:21.381090+00:00",
+      "last_seen": "2026-07-08T13:52:38.531086+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10769,7 +10769,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T19:49:07.725093+00:00",
-      "last_seen": "2026-07-08T08:21:21.379714+00:00",
+      "last_seen": "2026-07-08T13:52:38.529660+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10796,7 +10796,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T19:49:07.726199+00:00",
-      "last_seen": "2026-07-08T08:21:21.379930+00:00",
+      "last_seen": "2026-07-08T13:52:38.529838+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10823,7 +10823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T19:49:07.726422+00:00",
-      "last_seen": "2026-07-08T08:21:21.380123+00:00",
+      "last_seen": "2026-07-08T13:52:38.530081+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10850,7 +10850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T19:49:07.726557+00:00",
-      "last_seen": "2026-07-08T08:21:21.380238+00:00",
+      "last_seen": "2026-07-08T13:52:38.530205+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10877,7 +10877,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-08T02:14:01.353194+00:00",
-      "last_seen": "2026-07-08T08:21:21.379513+00:00",
+      "last_seen": "2026-07-08T13:52:38.529491+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10904,7 +10904,142 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-08T08:21:21.378651+00:00",
-      "last_seen": "2026-07-08T08:21:21.378651+00:00",
+      "last_seen": "2026-07-08T13:52:38.529360+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bf2adfc1dc8e31b3",
+      "title": "DfE Update 8 July 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-8-july-2026",
+      "start_date": "2026-07-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-08T13:52:38.527617+00:00",
+      "last_seen": "2026-07-08T13:52:38.527617+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b34d12bc797b687b",
+      "title": "Safety awards recognise Sellafield project delivery professionals",
+      "url": "https://www.gov.uk/government/news/safety-awards-recognise-sellafield-project-delivery-professionals",
+      "start_date": "2026-07-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Knowingly Safe 24/7 Awards recognised the safety commitment of those working in major projects at Sellafield.",
+      "organiser": null,
+      "tags": [
+        "awards"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-08T13:52:38.528667+00:00",
+      "last_seen": "2026-07-08T13:52:38.528667+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "acff03317cfdecc7",
+      "title": "Government action so children do not pay for a parent\u2019s crime",
+      "url": "https://www.gov.uk/government/news/government-action-so-children-do-not-pay-for-a-parents-crime",
+      "start_date": "2026-07-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Children with a parent in prison will be recognised earlier and connected to support under a new government pilot to help them thrive",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-08T13:52:38.528851+00:00",
+      "last_seen": "2026-07-08T13:52:38.528851+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5fdf92ef8dabd133",
+      "title": "Royal Museums Greenwich Board Appointments and Reappointments",
+      "url": "https://www.gov.uk/government/news/royal-museums-greenwich-board-appointments-and-reappointments",
+      "start_date": "2026-07-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Prime Minister has appointed Alexandra Butler, Sanjeev Gupta and Marshall Manson and reappointed Clare Anderson, Lance Batchelor and Stephen Deucher as Trustees to the Royal Museums Greenwich Board.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-08T13:52:38.529038+00:00",
+      "last_seen": "2026-07-08T13:52:38.529038+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "cd3bb63091a52c7f",
+      "title": "Four landlords get their first consumer grades from RSH",
+      "url": "https://www.gov.uk/government/news/four-landlords-get-their-first-consumer-grades-from-rsh",
+      "start_date": "2026-07-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Aster Group, Charnwood Borough Council, Dover District Council and Islington and Shoreditch Housing Association Limited received regulatory judgements today.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-08T13:52:38.529211+00:00",
+      "last_seen": "2026-07-08T13:52:38.529211+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
