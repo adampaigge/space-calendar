@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T02:14:01.520785+00:00",
-  "total_sources": 403,
+  "updated_at": "2026-07-08T08:21:21.522583+00:00",
+  "total_sources": 404,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -10364,7 +10364,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T02:33:00.994643+00:00",
-      "last_seen": "2026-07-08T02:14:01.356869+00:00",
+      "last_seen": "2026-07-08T08:21:21.382091+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10391,7 +10391,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T02:33:00.995973+00:00",
-      "last_seen": "2026-07-08T02:14:01.357169+00:00",
+      "last_seen": "2026-07-08T08:21:21.382388+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10418,7 +10418,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T13:53:30.453784+00:00",
-      "last_seen": "2026-07-08T02:14:01.356550+00:00",
+      "last_seen": "2026-07-08T08:21:21.381802+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10445,7 +10445,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T13:53:30.454525+00:00",
-      "last_seen": "2026-07-08T02:14:01.356697+00:00",
+      "last_seen": "2026-07-08T08:21:21.381948+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10472,7 +10472,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-03T19:12:53.016033+00:00",
-      "last_seen": "2026-07-08T02:14:01.356404+00:00",
+      "last_seen": "2026-07-08T08:21:21.381656+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10526,7 +10526,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T10:10:10.995234+00:00",
-      "last_seen": "2026-07-08T02:14:01.356257+00:00",
+      "last_seen": "2026-07-08T08:21:21.381480+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10553,7 +10553,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.597106+00:00",
-      "last_seen": "2026-07-08T02:14:01.355384+00:00",
+      "last_seen": "2026-07-08T08:21:21.380807+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10580,7 +10580,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.598142+00:00",
-      "last_seen": "2026-07-08T02:14:01.355534+00:00",
+      "last_seen": "2026-07-08T08:21:21.380950+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10634,7 +10634,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T15:22:09.598594+00:00",
-      "last_seen": "2026-07-08T02:14:01.355959+00:00",
+      "last_seen": "2026-07-08T08:21:21.381312+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10661,7 +10661,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-06T19:50:48.201556+00:00",
-      "last_seen": "2026-07-08T02:14:01.355255+00:00",
+      "last_seen": "2026-07-08T08:21:21.380686+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10688,7 +10688,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T02:41:34.046565+00:00",
-      "last_seen": "2026-07-08T02:14:01.355125+00:00",
+      "last_seen": "2026-07-08T08:21:21.380564+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10715,7 +10715,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T09:34:38.752882+00:00",
-      "last_seen": "2026-07-08T02:14:01.354980+00:00",
+      "last_seen": "2026-07-08T08:21:21.380412+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10742,7 +10742,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T09:34:38.754570+00:00",
-      "last_seen": "2026-07-08T02:14:01.355687+00:00",
+      "last_seen": "2026-07-08T08:21:21.381090+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10769,7 +10769,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T19:49:07.725093+00:00",
-      "last_seen": "2026-07-08T02:14:01.354280+00:00",
+      "last_seen": "2026-07-08T08:21:21.379714+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10796,7 +10796,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T19:49:07.726199+00:00",
-      "last_seen": "2026-07-08T02:14:01.354457+00:00",
+      "last_seen": "2026-07-08T08:21:21.379930+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10823,7 +10823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T19:49:07.726422+00:00",
-      "last_seen": "2026-07-08T02:14:01.354646+00:00",
+      "last_seen": "2026-07-08T08:21:21.380123+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10850,7 +10850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-07T19:49:07.726557+00:00",
-      "last_seen": "2026-07-08T02:14:01.354793+00:00",
+      "last_seen": "2026-07-08T08:21:21.380238+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -10877,7 +10877,34 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-08T02:14:01.353194+00:00",
-      "last_seen": "2026-07-08T02:14:01.353194+00:00",
+      "last_seen": "2026-07-08T08:21:21.379513+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3d5c3eda3c06af70",
+      "title": "UKDI launches Space to Innovate: Delta Drop",
+      "url": "https://www.gov.uk/government/news/ukdi-launches-space-to-innovate-delta-drop",
+      "start_date": "2026-07-08T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Dstl and the UKSpaceAgency are on the hunt for more innovations to improve futurespacecapabilities for  defence and security",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-08T08:21:21.378651+00:00",
+      "last_seen": "2026-07-08T08:21:21.378651+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
