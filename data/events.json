@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T14:23:45.172318+00:00",
-  "total_sources": 428,
+  "updated_at": "2026-07-13T19:18:20.267705+00:00",
+  "total_sources": 433,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -11066,7 +11066,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-08T19:18:14.859353+00:00",
-      "last_seen": "2026-07-13T14:23:44.965582+00:00",
+      "last_seen": "2026-07-13T19:18:20.102615+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11093,7 +11093,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-08T19:18:14.860216+00:00",
-      "last_seen": "2026-07-13T14:23:44.965684+00:00",
+      "last_seen": "2026-07-13T19:18:20.102737+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11147,7 +11147,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-09T09:35:49.962430+00:00",
-      "last_seen": "2026-07-13T14:23:44.965445+00:00",
+      "last_seen": "2026-07-13T19:18:20.102446+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11201,7 +11201,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-09T14:48:05.843477+00:00",
-      "last_seen": "2026-07-13T14:23:44.965074+00:00",
+      "last_seen": "2026-07-13T19:18:20.102059+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11228,7 +11228,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-09T14:48:05.843643+00:00",
-      "last_seen": "2026-07-13T14:23:44.965250+00:00",
+      "last_seen": "2026-07-13T19:18:20.102239+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11309,7 +11309,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-09T19:37:49.757991+00:00",
-      "last_seen": "2026-07-13T14:23:44.964926+00:00",
+      "last_seen": "2026-07-13T19:18:20.101941+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11336,7 +11336,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T09:27:04.709348+00:00",
-      "last_seen": "2026-07-13T14:23:44.964678+00:00",
+      "last_seen": "2026-07-13T19:18:20.101661+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11363,7 +11363,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T09:27:04.710234+00:00",
-      "last_seen": "2026-07-13T14:23:44.964809+00:00",
+      "last_seen": "2026-07-13T19:18:20.101818+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11390,7 +11390,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T14:12:45.082528+00:00",
-      "last_seen": "2026-07-13T14:23:44.964442+00:00",
+      "last_seen": "2026-07-13T19:18:20.101366+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11417,7 +11417,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T14:12:45.083618+00:00",
-      "last_seen": "2026-07-13T14:23:44.964542+00:00",
+      "last_seen": "2026-07-13T19:18:20.101478+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11444,7 +11444,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T19:21:21.549799+00:00",
-      "last_seen": "2026-07-13T14:23:44.964136+00:00",
+      "last_seen": "2026-07-13T19:18:20.101048+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11471,7 +11471,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T19:21:21.550516+00:00",
-      "last_seen": "2026-07-13T14:23:44.964291+00:00",
+      "last_seen": "2026-07-13T19:18:20.101207+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11498,7 +11498,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-11T13:08:37.361790+00:00",
-      "last_seen": "2026-07-13T14:23:44.963906+00:00",
+      "last_seen": "2026-07-13T19:18:20.100848+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11525,7 +11525,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T09:17:03.132260+00:00",
-      "last_seen": "2026-07-13T14:23:44.963731+00:00",
+      "last_seen": "2026-07-13T19:18:20.100686+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11552,7 +11552,142 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T14:23:44.962857+00:00",
-      "last_seen": "2026-07-13T14:23:44.962857+00:00",
+      "last_seen": "2026-07-13T19:18:20.100517+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8c0082f58fcbe681",
+      "title": "Statement about the death of Ann Widdecombe",
+      "url": "https://www.gov.uk/government/speeches/statement-about-the-death-of-ann-widdecombe",
+      "start_date": "2026-07-13T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Home Secretary statement about the death of Ann Widdecombe.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-13T19:18:20.098809+00:00",
+      "last_seen": "2026-07-13T19:18:20.098809+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "87fbdecc09774789",
+      "title": "Recommendations for the Financial Conduct Authority: November 2024",
+      "url": "https://www.gov.uk/government/publications/recommendations-for-the-financial-conduct-authority-november-2024",
+      "start_date": "2026-07-13T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Letter from the Chancellor of the Exchequer to the Chief Executive of the Financial Conduct Authority (FCA) providing recommendations for the FCA.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-13T19:18:20.099837+00:00",
+      "last_seen": "2026-07-13T19:18:20.099837+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5b07e037c4547447",
+      "title": "Government launches bold plan to \u2018turn up\u2019 the music industry",
+      "url": "https://www.gov.uk/government/news/government-launches-bold-plan-to-turn-up-the-music-industry",
+      "start_date": "2026-07-13T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The UK music industry will benefit from a range of new powers and investment as the government unveils a new long-term plan to back the sector.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-13T19:18:20.100018+00:00",
+      "last_seen": "2026-07-13T19:18:20.100018+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "851e71a8d8c55e89",
+      "title": "UKDI launches Space to Innovate: Delta Drop",
+      "url": "https://www.gov.uk/government/news/ukdi-launches-space-to-innovate-delta-drop",
+      "start_date": "2026-07-13T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Dstl and the UKSpaceAgency are on the hunt for more innovations to improve futurespacecapabilities for  defence and security",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-13T19:18:20.100210+00:00",
+      "last_seen": "2026-07-13T19:18:20.100210+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7dd5d9a71d5d878e",
+      "title": "5 years on, Londoners remember the impact of July 2021 floods",
+      "url": "https://www.gov.uk/government/news/5-years-on-londoners-remember-the-impact-of-july-2021-floods",
+      "start_date": "2026-07-13T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "It's 5 years since the 2021 flash floods that affected 24 boroughs and over 2,000 properties, including homes, schools, hospitals, and Underground stations.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-13T19:18:20.100352+00:00",
+      "last_seen": "2026-07-13T19:18:20.100352+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
