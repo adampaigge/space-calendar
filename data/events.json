@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T13:24:38.835188+00:00",
-  "total_sources": 436,
+  "updated_at": "2026-07-14T19:12:13.722676+00:00",
+  "total_sources": 439,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -11336,7 +11336,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T09:27:04.709348+00:00",
-      "last_seen": "2026-07-14T13:24:38.678956+00:00",
+      "last_seen": "2026-07-14T19:12:13.515245+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11363,7 +11363,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T09:27:04.710234+00:00",
-      "last_seen": "2026-07-14T13:24:38.679098+00:00",
+      "last_seen": "2026-07-14T19:12:13.515408+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11390,7 +11390,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T14:12:45.082528+00:00",
-      "last_seen": "2026-07-14T13:24:38.678734+00:00",
+      "last_seen": "2026-07-14T19:12:13.514989+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11417,7 +11417,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T14:12:45.083618+00:00",
-      "last_seen": "2026-07-14T13:24:38.678828+00:00",
+      "last_seen": "2026-07-14T19:12:13.515095+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11444,7 +11444,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T19:21:21.549799+00:00",
-      "last_seen": "2026-07-14T13:24:38.678457+00:00",
+      "last_seen": "2026-07-14T19:12:13.514678+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11471,7 +11471,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-10T19:21:21.550516+00:00",
-      "last_seen": "2026-07-14T13:24:38.678596+00:00",
+      "last_seen": "2026-07-14T19:12:13.514834+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11498,7 +11498,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-11T13:08:37.361790+00:00",
-      "last_seen": "2026-07-14T13:24:38.678283+00:00",
+      "last_seen": "2026-07-14T19:12:13.514482+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11525,7 +11525,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T09:17:03.132260+00:00",
-      "last_seen": "2026-07-14T13:24:38.678142+00:00",
+      "last_seen": "2026-07-14T19:12:13.514302+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11552,7 +11552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T14:23:44.962857+00:00",
-      "last_seen": "2026-07-14T13:24:38.678016+00:00",
+      "last_seen": "2026-07-14T19:12:13.514166+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11579,7 +11579,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T19:18:20.098809+00:00",
-      "last_seen": "2026-07-14T13:24:38.677345+00:00",
+      "last_seen": "2026-07-14T19:12:13.513435+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11606,7 +11606,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T19:18:20.099837+00:00",
-      "last_seen": "2026-07-14T13:24:38.677442+00:00",
+      "last_seen": "2026-07-14T19:12:13.513547+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11633,7 +11633,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T19:18:20.100018+00:00",
-      "last_seen": "2026-07-14T13:24:38.677581+00:00",
+      "last_seen": "2026-07-14T19:12:13.513701+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11660,7 +11660,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T19:18:20.100210+00:00",
-      "last_seen": "2026-07-14T13:24:38.677741+00:00",
+      "last_seen": "2026-07-14T19:12:13.513875+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11687,7 +11687,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-13T19:18:20.100352+00:00",
-      "last_seen": "2026-07-14T13:24:38.677864+00:00",
+      "last_seen": "2026-07-14T19:12:13.514008+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11714,7 +11714,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-14T13:24:38.676147+00:00",
-      "last_seen": "2026-07-14T13:24:38.676147+00:00",
+      "last_seen": "2026-07-14T19:12:13.512928+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11741,7 +11741,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-14T13:24:38.677041+00:00",
-      "last_seen": "2026-07-14T13:24:38.677041+00:00",
+      "last_seen": "2026-07-14T19:12:13.513096+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -11768,7 +11768,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-14T13:24:38.677182+00:00",
-      "last_seen": "2026-07-14T13:24:38.677182+00:00",
+      "last_seen": "2026-07-14T19:12:13.513235+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "639673cf07eb9c75",
+      "title": "PM remarks at stakeholder event: 14 July 2026",
+      "url": "https://www.gov.uk/government/news/pm-remarks-at-stakeholder-event-14-july-2026",
+      "start_date": "2026-07-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Prime Minister's words to Hillsborough Law campaigners and other partners who have worked with this government.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-14T19:12:13.511506+00:00",
+      "last_seen": "2026-07-14T19:12:13.511506+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c2adbd5efb22daba",
+      "title": "We remain concerned by the deteriorating security and humanitarian situation across West Africa and the Sahel: UK statement at the UN Security Council",
+      "url": "https://www.gov.uk/government/speeches/we-remain-concerned-by-the-deteriorating-security-and-humanitarian-situation-across-west-africa-and-the-sahel-uk-statement-at-the-un-security-council",
+      "start_date": "2026-07-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Statement by Jess Jambert-Gray, Deputy Political Coordinator, at the UN Security Council meeting on West Africa and the Sahel.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-14T19:12:13.512576+00:00",
+      "last_seen": "2026-07-14T19:12:13.512576+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "efe1e3ceb6ab38d2",
+      "title": "Risk of democratic interference added to National Risk Register",
+      "url": "https://www.gov.uk/government/news/risk-of-democratic-interference-added-to-national-risk-register",
+      "start_date": "2026-07-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Interference in democratic process and cyber attacks have been added to the National Risk Register",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-14T19:12:13.512787+00:00",
+      "last_seen": "2026-07-14T19:12:13.512787+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
