@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T08:19:44.058591+00:00",
-  "total_sources": 460,
+  "updated_at": "2026-07-21T13:29:02.833640+00:00",
+  "total_sources": 466,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -11984,7 +11984,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-16T13:40:17.863342+00:00",
-      "last_seen": "2026-07-21T08:19:43.988749+00:00",
+      "last_seen": "2026-07-21T13:29:02.694667+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12011,7 +12011,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-16T13:40:17.864224+00:00",
-      "last_seen": "2026-07-21T08:19:43.988831+00:00",
+      "last_seen": "2026-07-21T13:29:02.694802+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12038,7 +12038,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-16T13:40:17.864439+00:00",
-      "last_seen": "2026-07-21T08:19:43.988959+00:00",
+      "last_seen": "2026-07-21T13:29:02.695022+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12147,7 +12147,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-17T13:18:27.688086+00:00",
-      "last_seen": "2026-07-21T08:19:43.988386+00:00",
+      "last_seen": "2026-07-21T13:29:02.693495+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12174,7 +12174,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-17T13:18:27.688876+00:00",
-      "last_seen": "2026-07-21T08:19:43.988446+00:00",
+      "last_seen": "2026-07-21T13:29:02.693603+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12201,7 +12201,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-17T13:18:27.689024+00:00",
-      "last_seen": "2026-07-21T08:19:43.988530+00:00",
+      "last_seen": "2026-07-21T13:29:02.694317+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12228,7 +12228,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-17T13:18:27.689197+00:00",
-      "last_seen": "2026-07-21T08:19:43.988640+00:00",
+      "last_seen": "2026-07-21T13:29:02.694508+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12255,7 +12255,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-20T08:50:13.517788+00:00",
-      "last_seen": "2026-07-21T08:19:43.988236+00:00",
+      "last_seen": "2026-07-21T13:29:02.693268+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12282,7 +12282,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-20T13:56:35.908541+00:00",
-      "last_seen": "2026-07-21T08:19:43.987981+00:00",
+      "last_seen": "2026-07-21T13:29:02.692791+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12309,7 +12309,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-20T13:56:35.909297+00:00",
-      "last_seen": "2026-07-21T08:19:43.988059+00:00",
+      "last_seen": "2026-07-21T13:29:02.692920+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12336,7 +12336,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-20T13:56:35.909452+00:00",
-      "last_seen": "2026-07-21T08:19:43.988153+00:00",
+      "last_seen": "2026-07-21T13:29:02.693111+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12364,7 +12364,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-20T19:39:08.295377+00:00",
-      "last_seen": "2026-07-21T08:19:43.987823+00:00",
+      "last_seen": "2026-07-21T13:29:02.692553+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12391,7 +12391,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-20T19:39:08.296392+00:00",
-      "last_seen": "2026-07-21T08:19:43.987917+00:00",
+      "last_seen": "2026-07-21T13:29:02.692686+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12418,7 +12418,169 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T08:19:43.987261+00:00",
-      "last_seen": "2026-07-21T08:19:43.987261+00:00",
+      "last_seen": "2026-07-21T13:29:02.692386+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3ab3125f0f8ce10b",
+      "title": "UK and Florida forge new space partnership to back joint innovation",
+      "url": "https://www.gov.uk/government/news/uk-and-florida-forge-new-space-partnership-to-back-joint-innovation",
+      "start_date": "2026-07-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The UK and Florida have joined forces to helpspacecompanies and researchers turn innovative ideas into commercial reality, following the signing of a Memorandum of Understanding between the UK Government andSpaceFlorida at the Farnborough International Airshow.",
+      "organiser": null,
+      "tags": [
+        "exhibition"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-21T13:29:02.690464+00:00",
+      "last_seen": "2026-07-21T13:29:02.690464+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "85cd260221e05bfb",
+      "title": "Defence Minister Lord Coaker, keynote speech at Enterprise Gateway, Farnborough International Airshow.",
+      "url": "https://www.gov.uk/government/speeches/defence-minister-lord-coaker-keynote-speech-at-enterprise-gateway-farnborough-international-airshow",
+      "start_date": "2026-07-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Enterprise Gateway: Opening Address",
+      "organiser": null,
+      "tags": [
+        "exhibition"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-21T13:29:02.691574+00:00",
+      "last_seen": "2026-07-21T13:29:02.691574+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6945d71f342075ff",
+      "title": "Minister for Defence Readiness and Industry, Luke Pollard MP, keynote speech at AGF Defence Summit, Farnborough International Air show.",
+      "url": "https://www.gov.uk/government/speeches/minister-for-defence-readiness-and-industry-luke-pollard-mp-keynote-speech-at-agf-defence-summit-farnborough-international-air-show",
+      "start_date": "2026-07-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Minister Pollard highlighting record spending on air power, drones, and innovation, and publishing a new SME Action Plan to grow Britain's defence industry.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-21T13:29:02.691729+00:00",
+      "last_seen": "2026-07-21T13:29:02.691729+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a855c1aeb206741d",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-latest-decisions",
+      "start_date": "2026-07-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-21T13:29:02.691929+00:00",
+      "last_seen": "2026-07-21T13:29:02.691929+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8c8b652f64a3d262",
+      "title": "Central Bedfordshire maps services to identify potential sites",
+      "url": "https://www.gov.uk/government/case-studies/central-bedfordshire-maps-services-to-identify-potential-sites",
+      "start_date": "2026-07-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Central Bedfordshire Council used digital mapping to analyse local services and capacity, helping assess sites and proactively identify land.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-21T13:29:02.692070+00:00",
+      "last_seen": "2026-07-21T13:29:02.692070+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bf468851a404ea27",
+      "title": "Senvelgo 15 mg/ml Oral Solution for Cats \u2013 SPC change",
+      "url": "https://www.gov.uk/government/news/senvelgo-15-mgml-oral-solution-for-cats-spc-change",
+      "start_date": "2026-07-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Change to the information provided in the Summary of Product Characteristics (SPC).",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-21T13:29:02.692236+00:00",
+      "last_seen": "2026-07-21T13:29:02.692236+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
