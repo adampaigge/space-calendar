@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T19:07:48.543617+00:00",
-  "total_sources": 477,
+  "updated_at": "2026-07-23T02:22:00.649643+00:00",
+  "total_sources": 479,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -12418,7 +12418,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T08:19:43.987261+00:00",
-      "last_seen": "2026-07-22T19:07:48.338296+00:00",
+      "last_seen": "2026-07-23T02:22:00.413248+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12445,7 +12445,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T13:29:02.690464+00:00",
-      "last_seen": "2026-07-22T19:07:48.337323+00:00",
+      "last_seen": "2026-07-23T02:22:00.412264+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12472,7 +12472,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T13:29:02.691574+00:00",
-      "last_seen": "2026-07-22T19:07:48.337533+00:00",
+      "last_seen": "2026-07-23T02:22:00.412480+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12499,7 +12499,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T13:29:02.691729+00:00",
-      "last_seen": "2026-07-22T19:07:48.337662+00:00",
+      "last_seen": "2026-07-23T02:22:00.412639+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12526,7 +12526,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T13:29:02.691929+00:00",
-      "last_seen": "2026-07-22T19:07:48.337858+00:00",
+      "last_seen": "2026-07-23T02:22:00.412840+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12553,7 +12553,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T13:29:02.692070+00:00",
-      "last_seen": "2026-07-22T19:07:48.337999+00:00",
+      "last_seen": "2026-07-23T02:22:00.412950+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12580,7 +12580,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T13:29:02.692236+00:00",
-      "last_seen": "2026-07-22T19:07:48.338153+00:00",
+      "last_seen": "2026-07-23T02:22:00.413103+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12607,7 +12607,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T19:13:44.765252+00:00",
-      "last_seen": "2026-07-22T19:07:48.336707+00:00",
+      "last_seen": "2026-07-23T02:22:00.411669+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12634,7 +12634,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T19:13:44.766046+00:00",
-      "last_seen": "2026-07-22T19:07:48.336981+00:00",
+      "last_seen": "2026-07-23T02:22:00.411917+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12661,7 +12661,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-21T19:13:44.766200+00:00",
-      "last_seen": "2026-07-22T19:07:48.337162+00:00",
+      "last_seen": "2026-07-23T02:22:00.412099+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12688,7 +12688,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T08:20:37.991059+00:00",
-      "last_seen": "2026-07-22T19:07:48.336545+00:00",
+      "last_seen": "2026-07-23T02:22:00.411446+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12715,7 +12715,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T13:40:46.215481+00:00",
-      "last_seen": "2026-07-22T19:07:48.336049+00:00",
+      "last_seen": "2026-07-23T02:22:00.410950+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12742,7 +12742,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T13:40:46.216382+00:00",
-      "last_seen": "2026-07-22T19:07:48.336209+00:00",
+      "last_seen": "2026-07-23T02:22:00.411105+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12769,7 +12769,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T13:40:46.216586+00:00",
-      "last_seen": "2026-07-22T19:07:48.336401+00:00",
+      "last_seen": "2026-07-23T02:22:00.411300+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12796,7 +12796,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T19:07:48.334464+00:00",
-      "last_seen": "2026-07-22T19:07:48.334464+00:00",
+      "last_seen": "2026-07-23T02:22:00.410325+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12823,7 +12823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T19:07:48.335472+00:00",
-      "last_seen": "2026-07-22T19:07:48.335472+00:00",
+      "last_seen": "2026-07-23T02:22:00.410495+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12850,7 +12850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T19:07:48.335711+00:00",
-      "last_seen": "2026-07-22T19:07:48.335711+00:00",
+      "last_seen": "2026-07-23T02:22:00.410651+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12877,7 +12877,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T19:07:48.335856+00:00",
-      "last_seen": "2026-07-22T19:07:48.335856+00:00",
+      "last_seen": "2026-07-23T02:22:00.410792+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "993c39fba04556f0",
+      "title": "Prime Minister pledges growth in every postcode across whole of UK as he visits Scotland",
+      "url": "https://www.gov.uk/government/news/prime-minister-pledges-growth-in-every-postcode-across-whole-of-uk-as-he-visits-scotland",
+      "start_date": "2026-07-23T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Prime Minister Andy Burnham will pledge to deliver growth in every postcode across the UK as he visits Scotland during his first week in office.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-23T02:22:00.409043+00:00",
+      "last_seen": "2026-07-23T02:22:00.409043+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "95558467956cdde3",
+      "title": "PM call with Prime Minister Carney of of Canada: 22 July 2026",
+      "url": "https://www.gov.uk/government/news/pm-call-with-prime-minister-carney-of-of-canada-22-july-2026",
+      "start_date": "2026-07-22T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Prime Minister spoke to the Prime Minister of Canada, Mark Carney, this evening.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-23T02:22:00.410167+00:00",
+      "last_seen": "2026-07-23T02:22:00.410167+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
