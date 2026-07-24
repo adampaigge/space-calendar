@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T13:26:47.071668+00:00",
-  "total_sources": 491,
+  "updated_at": "2026-07-24T19:18:23.681012+00:00",
+  "total_sources": 494,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -12796,7 +12796,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T19:07:48.334464+00:00",
-      "last_seen": "2026-07-24T13:26:46.852456+00:00",
+      "last_seen": "2026-07-24T19:18:23.460338+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12823,7 +12823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T19:07:48.335472+00:00",
-      "last_seen": "2026-07-24T13:26:46.852613+00:00",
+      "last_seen": "2026-07-24T19:18:23.460493+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12850,7 +12850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T19:07:48.335711+00:00",
-      "last_seen": "2026-07-24T13:26:46.852735+00:00",
+      "last_seen": "2026-07-24T19:18:23.460643+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12877,7 +12877,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-22T19:07:48.335856+00:00",
-      "last_seen": "2026-07-24T13:26:46.852862+00:00",
+      "last_seen": "2026-07-24T19:18:23.460777+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12904,7 +12904,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-23T02:22:00.409043+00:00",
-      "last_seen": "2026-07-24T13:26:46.852158+00:00",
+      "last_seen": "2026-07-24T19:18:23.460042+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12931,7 +12931,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-23T02:22:00.410167+00:00",
-      "last_seen": "2026-07-24T13:26:46.852325+00:00",
+      "last_seen": "2026-07-24T19:18:23.460209+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12958,7 +12958,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-23T13:46:38.822079+00:00",
-      "last_seen": "2026-07-24T13:26:46.851690+00:00",
+      "last_seen": "2026-07-24T19:18:23.459569+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -12985,7 +12985,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-23T13:46:38.822943+00:00",
-      "last_seen": "2026-07-24T13:26:46.851825+00:00",
+      "last_seen": "2026-07-24T19:18:23.459743+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13039,7 +13039,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-23T13:46:38.823305+00:00",
-      "last_seen": "2026-07-24T13:26:46.851994+00:00",
+      "last_seen": "2026-07-24T19:18:23.459886+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13066,7 +13066,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-23T19:07:54.322926+00:00",
-      "last_seen": "2026-07-24T13:26:46.851372+00:00",
+      "last_seen": "2026-07-24T19:18:23.459250+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13093,7 +13093,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-23T19:07:54.323808+00:00",
-      "last_seen": "2026-07-24T13:26:46.851505+00:00",
+      "last_seen": "2026-07-24T19:18:23.459381+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13120,7 +13120,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T02:13:18.147832+00:00",
-      "last_seen": "2026-07-24T13:26:46.851169+00:00",
+      "last_seen": "2026-07-24T19:18:23.459049+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13147,7 +13147,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T08:18:58.367896+00:00",
-      "last_seen": "2026-07-24T13:26:46.850803+00:00",
+      "last_seen": "2026-07-24T19:18:23.458695+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13174,7 +13174,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T08:18:58.368789+00:00",
-      "last_seen": "2026-07-24T13:26:46.850951+00:00",
+      "last_seen": "2026-07-24T19:18:23.458842+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13201,7 +13201,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T13:26:46.849380+00:00",
-      "last_seen": "2026-07-24T13:26:46.849380+00:00",
+      "last_seen": "2026-07-24T19:18:23.458173+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13228,7 +13228,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T13:26:46.850488+00:00",
-      "last_seen": "2026-07-24T13:26:46.850488+00:00",
+      "last_seen": "2026-07-24T19:18:23.458384+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13255,7 +13255,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T13:26:46.850639+00:00",
-      "last_seen": "2026-07-24T13:26:46.850639+00:00",
+      "last_seen": "2026-07-24T19:18:23.458510+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d2eb6b5fb400afce",
+      "title": "Cross-government roundtable explores climate scenarios",
+      "url": "https://www.gov.uk/government/news/cross-government-roundtable-explores-climate-scenarios",
+      "start_date": "2026-07-24T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "GAD and the IFoA brought together 8 government organisations in London Climate Action Week to explore climate scenarios and strengthen resilient policymaking.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-24T19:18:23.456744+00:00",
+      "last_seen": "2026-07-24T19:18:23.456744+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c76aa2c11f420789",
+      "title": "PM puts new offer on the table to businesses in first talks with industry groups: 24 July 2026",
+      "url": "https://www.gov.uk/government/news/pm-puts-new-offer-on-the-table-to-businesses-in-first-talks-with-industry-groups-24-july-2026",
+      "start_date": "2026-07-24T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Prime Minister has held his first calls with business representative organisations where he set out a new offer from government to Britain's job creators.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-24T19:18:23.457798+00:00",
+      "last_seen": "2026-07-24T19:18:23.457798+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "64348c7808dbfdff",
+      "title": "Commonwealth Games return to Glasgow with UK Government backing",
+      "url": "https://www.gov.uk/government/news/commonwealth-games-return-to-glasgow-with-uk-government-backing",
+      "start_date": "2026-07-24T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Secretary of State Douglas Alexander joined His Majesty The King, Her Majesty The Queen and the Prime Minister at the 2026 Opening Ceremony.",
+      "organiser": null,
+      "tags": [
+        "awards"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-24T19:18:23.458004+00:00",
+      "last_seen": "2026-07-24T19:18:23.458004+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
