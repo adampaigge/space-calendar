@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T08:32:09.351326+00:00",
-  "total_sources": 504,
+  "updated_at": "2026-07-29T13:59:34.523385+00:00",
+  "total_sources": 506,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -13147,7 +13147,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T08:18:58.367896+00:00",
-      "last_seen": "2026-07-29T08:32:09.224277+00:00",
+      "last_seen": "2026-07-29T13:59:34.372127+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13174,7 +13174,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T08:18:58.368789+00:00",
-      "last_seen": "2026-07-29T08:32:09.224417+00:00",
+      "last_seen": "2026-07-29T13:59:34.372297+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13201,7 +13201,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T13:26:46.849380+00:00",
-      "last_seen": "2026-07-29T08:32:09.223756+00:00",
+      "last_seen": "2026-07-29T13:59:34.371637+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13228,7 +13228,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T13:26:46.850488+00:00",
-      "last_seen": "2026-07-29T08:32:09.223994+00:00",
+      "last_seen": "2026-07-29T13:59:34.371846+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13255,7 +13255,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T13:26:46.850639+00:00",
-      "last_seen": "2026-07-29T08:32:09.224122+00:00",
+      "last_seen": "2026-07-29T13:59:34.371972+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13282,7 +13282,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T19:18:23.456744+00:00",
-      "last_seen": "2026-07-29T08:32:09.223136+00:00",
+      "last_seen": "2026-07-29T13:59:34.371048+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13309,7 +13309,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T19:18:23.457798+00:00",
-      "last_seen": "2026-07-29T08:32:09.223383+00:00",
+      "last_seen": "2026-07-29T13:59:34.371279+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13336,7 +13336,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-24T19:18:23.458004+00:00",
-      "last_seen": "2026-07-29T08:32:09.223569+00:00",
+      "last_seen": "2026-07-29T13:59:34.371475+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13363,7 +13363,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-27T14:22:20.458382+00:00",
-      "last_seen": "2026-07-29T08:32:09.222918+00:00",
+      "last_seen": "2026-07-29T13:59:34.370917+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13390,7 +13390,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-27T19:19:52.145357+00:00",
-      "last_seen": "2026-07-29T08:32:09.222631+00:00",
+      "last_seen": "2026-07-29T13:59:34.370653+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13417,7 +13417,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-27T19:19:52.146196+00:00",
-      "last_seen": "2026-07-29T08:32:09.222742+00:00",
+      "last_seen": "2026-07-29T13:59:34.370763+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13444,7 +13444,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-28T02:06:00.218385+00:00",
-      "last_seen": "2026-07-29T08:32:09.222410+00:00",
+      "last_seen": "2026-07-29T13:59:34.370436+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13471,7 +13471,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-28T13:54:14.309515+00:00",
-      "last_seen": "2026-07-29T08:32:09.221873+00:00",
+      "last_seen": "2026-07-29T13:59:34.369926+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13498,7 +13498,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-28T13:54:14.310386+00:00",
-      "last_seen": "2026-07-29T08:32:09.222093+00:00",
+      "last_seen": "2026-07-29T13:59:34.370088+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13525,7 +13525,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-28T13:54:14.310573+00:00",
-      "last_seen": "2026-07-29T08:32:09.222275+00:00",
+      "last_seen": "2026-07-29T13:59:34.370294+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13552,7 +13552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-28T19:15:56.363316+00:00",
-      "last_seen": "2026-07-29T08:32:09.221720+00:00",
+      "last_seen": "2026-07-29T13:59:34.369777+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13579,7 +13579,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-29T02:08:46.317461+00:00",
-      "last_seen": "2026-07-29T08:32:09.221551+00:00",
+      "last_seen": "2026-07-29T13:59:34.369628+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -13606,7 +13606,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-07-29T08:32:09.220484+00:00",
-      "last_seen": "2026-07-29T08:32:09.220484+00:00",
+      "last_seen": "2026-07-29T13:59:34.369468+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9b6e3b8020b614e3",
+      "title": "Beat the heat: MHRA urges people to take extra care with medical devices this summer",
+      "url": "https://www.gov.uk/government/news/beat-the-heat-mhra-urges-people-to-take-extra-care-with-medical-devices-this-summer",
+      "start_date": "2026-07-29T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Simple steps to help keep your essential medical equipment working safely when temperatures rise.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-29T13:59:34.368271+00:00",
+      "last_seen": "2026-07-29T13:59:34.368271+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "60a9cbe29fea40ab",
+      "title": "Appointments made to the Board of Natural England",
+      "url": "https://www.gov.uk/government/news/appointments-made-to-the-board-of-natural-england",
+      "start_date": "2026-07-29T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Kunle Barker and Tom Sleigh confirmed as new members",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-07-29T13:59:34.369332+00:00",
+      "last_seen": "2026-07-29T13:59:34.369332+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
