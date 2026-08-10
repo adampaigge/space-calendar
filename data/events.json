@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T12:57:04.731984+00:00",
-  "total_sources": 542,
+  "updated_at": "2026-08-10T18:50:40.237863+00:00",
+  "total_sources": 545,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -14120,7 +14120,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-03T14:28:57.828831+00:00",
-      "last_seen": "2026-08-10T12:57:04.567600+00:00",
+      "last_seen": "2026-08-10T18:50:40.081600+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14174,7 +14174,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-03T19:24:31.363238+00:00",
-      "last_seen": "2026-08-10T12:57:04.567389+00:00",
+      "last_seen": "2026-08-10T18:50:40.081434+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14201,7 +14201,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-04T13:59:42.938082+00:00",
-      "last_seen": "2026-08-10T12:57:04.567060+00:00",
+      "last_seen": "2026-08-10T18:50:40.080998+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14228,7 +14228,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-04T13:59:42.939147+00:00",
-      "last_seen": "2026-08-10T12:57:04.567212+00:00",
+      "last_seen": "2026-08-10T18:50:40.081232+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14255,7 +14255,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-05T08:28:11.140133+00:00",
-      "last_seen": "2026-08-10T12:57:04.566921+00:00",
+      "last_seen": "2026-08-10T18:50:40.080852+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14282,7 +14282,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-05T13:57:31.744580+00:00",
-      "last_seen": "2026-08-10T12:57:04.566646+00:00",
+      "last_seen": "2026-08-10T18:50:40.080523+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14309,7 +14309,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-05T13:57:31.745478+00:00",
-      "last_seen": "2026-08-10T12:57:04.566805+00:00",
+      "last_seen": "2026-08-10T18:50:40.080721+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14363,7 +14363,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-05T19:23:14.776199+00:00",
-      "last_seen": "2026-08-10T12:57:04.566389+00:00",
+      "last_seen": "2026-08-10T18:50:40.080292+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14390,7 +14390,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-06T02:07:31.906817+00:00",
-      "last_seen": "2026-08-10T12:57:04.566048+00:00",
+      "last_seen": "2026-08-10T18:50:40.079873+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14417,7 +14417,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-06T13:54:41.655366+00:00",
-      "last_seen": "2026-08-10T12:57:04.565704+00:00",
+      "last_seen": "2026-08-10T18:50:40.079505+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14444,7 +14444,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-06T13:54:41.656424+00:00",
-      "last_seen": "2026-08-10T12:57:04.565852+00:00",
+      "last_seen": "2026-08-10T18:50:40.079660+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14471,7 +14471,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-06T13:54:41.656864+00:00",
-      "last_seen": "2026-08-10T12:57:04.566225+00:00",
+      "last_seen": "2026-08-10T18:50:40.080057+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14525,7 +14525,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-06T23:54:08.551849+00:00",
-      "last_seen": "2026-08-10T12:57:04.565528+00:00",
+      "last_seen": "2026-08-10T18:50:40.079319+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14552,7 +14552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-07T18:48:46.066355+00:00",
-      "last_seen": "2026-08-10T12:57:04.565259+00:00",
+      "last_seen": "2026-08-10T18:50:40.079036+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14579,7 +14579,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-07T18:48:46.067368+00:00",
-      "last_seen": "2026-08-10T12:57:04.565369+00:00",
+      "last_seen": "2026-08-10T18:50:40.079147+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14606,7 +14606,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T12:57:04.564227+00:00",
-      "last_seen": "2026-08-10T12:57:04.564227+00:00",
+      "last_seen": "2026-08-10T18:50:40.078753+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14633,7 +14633,89 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T12:57:04.565090+00:00",
-      "last_seen": "2026-08-10T12:57:04.565090+00:00",
+      "last_seen": "2026-08-10T18:50:40.078889+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "4338846c554e9408",
+      "title": "More areas in England declared in drought after record dry July",
+      "url": "https://www.gov.uk/government/news/more-areas-in-england-declared-in-drought-after-record-dry-july",
+      "start_date": "2026-08-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "National Drought Group met today as 71.3% of England now in drought",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-10T18:50:40.077371+00:00",
+      "last_seen": "2026-08-10T18:50:40.077371+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e862fa7a317771db",
+      "title": "MOJ Lawtech Grant Competition Phase III",
+      "url": "https://www.gov.uk/government/news/moj-lawtech-grant-competition-phase-iii",
+      "start_date": "2026-08-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Ministry of Justice (MOJ) has launched a competition to award funding for the third phase of the LawtechUK programme.",
+      "organiser": null,
+      "tags": [
+        "hackathon",
+        "awards"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-10T18:50:40.078402+00:00",
+      "last_seen": "2026-08-10T18:50:40.078402+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1311f4fd1f974813",
+      "title": "British Embassy Santiago presents recommendations to advance offshore wind development in Chile",
+      "url": "https://www.gov.uk/government/news/british-embassy-santiago-presents-recommendations-to-advance-offshore-wind-development-in-chile",
+      "start_date": "2026-08-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Embassyeventwill bring together government authorities, industry representatives and academia to discuss key findings of the reports and explore next steps for the development of the sector.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-10T18:50:40.078559+00:00",
+      "last_seen": "2026-08-10T18:50:40.078559+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
