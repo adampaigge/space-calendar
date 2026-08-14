@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T07:17:01.068551+00:00",
-  "total_sources": 555,
+  "updated_at": "2026-08-14T12:54:59.033755+00:00",
+  "total_sources": 558,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -14417,7 +14417,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-06T13:54:41.655366+00:00",
-      "last_seen": "2026-08-14T07:17:00.928142+00:00",
+      "last_seen": "2026-08-14T12:54:58.893272+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14444,7 +14444,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-06T13:54:41.656424+00:00",
-      "last_seen": "2026-08-14T07:17:00.928299+00:00",
+      "last_seen": "2026-08-14T12:54:58.893426+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14525,7 +14525,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-06T23:54:08.551849+00:00",
-      "last_seen": "2026-08-14T07:17:00.927938+00:00",
+      "last_seen": "2026-08-14T12:54:58.893087+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14552,7 +14552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-07T18:48:46.066355+00:00",
-      "last_seen": "2026-08-14T07:17:00.927831+00:00",
+      "last_seen": "2026-08-14T12:54:58.892978+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14633,7 +14633,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T12:57:04.565090+00:00",
-      "last_seen": "2026-08-14T07:17:00.927690+00:00",
+      "last_seen": "2026-08-14T12:54:58.892828+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14660,7 +14660,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T18:50:40.077371+00:00",
-      "last_seen": "2026-08-14T07:17:00.927260+00:00",
+      "last_seen": "2026-08-14T12:54:58.892362+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14688,7 +14688,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T18:50:40.078402+00:00",
-      "last_seen": "2026-08-14T07:17:00.927384+00:00",
+      "last_seen": "2026-08-14T12:54:58.892487+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14715,7 +14715,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T18:50:40.078559+00:00",
-      "last_seen": "2026-08-14T07:17:00.927511+00:00",
+      "last_seen": "2026-08-14T12:54:58.892616+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14742,7 +14742,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-11T12:53:52.070880+00:00",
-      "last_seen": "2026-08-14T07:17:00.927016+00:00",
+      "last_seen": "2026-08-14T12:54:58.892244+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14796,7 +14796,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T01:26:55.766146+00:00",
-      "last_seen": "2026-08-14T07:17:00.926624+00:00",
+      "last_seen": "2026-08-14T12:54:58.891874+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14823,7 +14823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T01:26:55.767361+00:00",
-      "last_seen": "2026-08-14T07:17:00.926750+00:00",
+      "last_seen": "2026-08-14T12:54:58.892005+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14850,7 +14850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.945334+00:00",
-      "last_seen": "2026-08-14T07:17:00.926186+00:00",
+      "last_seen": "2026-08-14T12:54:58.891422+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14877,7 +14877,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.946319+00:00",
-      "last_seen": "2026-08-14T07:17:00.926339+00:00",
+      "last_seen": "2026-08-14T12:54:58.891568+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14904,7 +14904,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.946611+00:00",
-      "last_seen": "2026-08-14T07:17:00.926492+00:00",
+      "last_seen": "2026-08-14T12:54:58.891718+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14931,7 +14931,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T18:55:50.414982+00:00",
-      "last_seen": "2026-08-14T07:17:00.926029+00:00",
+      "last_seen": "2026-08-14T12:54:58.891279+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14958,7 +14958,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-13T12:58:55.725093+00:00",
-      "last_seen": "2026-08-14T07:17:00.925819+00:00",
+      "last_seen": "2026-08-14T12:54:58.890985+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14985,7 +14985,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T01:28:06.273945+00:00",
-      "last_seen": "2026-08-14T07:17:00.924672+00:00",
+      "last_seen": "2026-08-14T12:54:58.890759+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9127b487652501f4",
+      "title": "UKHSA updates heat health alerts across England",
+      "url": "https://www.gov.uk/government/news/ukhsa-updates-heat-health-alerts-across-england",
+      "start_date": "2026-08-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "An amber heat-health alert is now in place across all regions in England.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-14T12:54:58.889558+00:00",
+      "last_seen": "2026-08-14T12:54:58.889558+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f16051ecc3f3d1f5",
+      "title": "Asylum appeals target launched for faster removals",
+      "url": "https://www.gov.uk/government/news/asylum-appeals-target-launched-for-faster-removals",
+      "start_date": "2026-08-14T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Individuals with no right to be in the UK will be deported faster as new  24-week target on asylum appeal decisions comes into force.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-14T12:54:58.890589+00:00",
+      "last_seen": "2026-08-14T12:54:58.890589+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e634b3a6b40aeece",
+      "title": "Darlington Economic Campus programme reaches important milestone",
+      "url": "https://www.gov.uk/government/news/darlington-economic-campus-programme-reaches-important-milestone",
+      "start_date": "2026-08-13T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "An 800-tonne steel structure is now being installed at the site of the Brunswick Street Government Hub.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-14T12:54:58.891143+00:00",
+      "last_seen": "2026-08-14T12:54:58.891143+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
