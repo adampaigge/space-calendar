@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T18:32:22.197345+00:00",
-  "total_sources": 560,
+  "updated_at": "2026-08-18T00:57:09.033231+00:00",
+  "total_sources": 561,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -14552,7 +14552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-07T18:48:46.066355+00:00",
-      "last_seen": "2026-08-17T18:32:22.048483+00:00",
+      "last_seen": "2026-08-18T00:57:08.860316+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14633,7 +14633,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T12:57:04.565090+00:00",
-      "last_seen": "2026-08-17T18:32:22.048335+00:00",
+      "last_seen": "2026-08-18T00:57:08.860152+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14660,7 +14660,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T18:50:40.077371+00:00",
-      "last_seen": "2026-08-17T18:32:22.047930+00:00",
+      "last_seen": "2026-08-18T00:57:08.859723+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14688,7 +14688,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T18:50:40.078402+00:00",
-      "last_seen": "2026-08-17T18:32:22.048035+00:00",
+      "last_seen": "2026-08-18T00:57:08.859843+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14715,7 +14715,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T18:50:40.078559+00:00",
-      "last_seen": "2026-08-17T18:32:22.048143+00:00",
+      "last_seen": "2026-08-18T00:57:08.859971+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14742,7 +14742,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-11T12:53:52.070880+00:00",
-      "last_seen": "2026-08-17T18:32:22.047836+00:00",
+      "last_seen": "2026-08-18T00:57:08.859609+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14796,7 +14796,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T01:26:55.766146+00:00",
-      "last_seen": "2026-08-17T18:32:22.047504+00:00",
+      "last_seen": "2026-08-18T00:57:08.859201+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14823,7 +14823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T01:26:55.767361+00:00",
-      "last_seen": "2026-08-17T18:32:22.047615+00:00",
+      "last_seen": "2026-08-18T00:57:08.859363+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14850,7 +14850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.945334+00:00",
-      "last_seen": "2026-08-17T18:32:22.047109+00:00",
+      "last_seen": "2026-08-18T00:57:08.858772+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14877,7 +14877,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.946319+00:00",
-      "last_seen": "2026-08-17T18:32:22.047238+00:00",
+      "last_seen": "2026-08-18T00:57:08.858921+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14904,7 +14904,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.946611+00:00",
-      "last_seen": "2026-08-17T18:32:22.047389+00:00",
+      "last_seen": "2026-08-18T00:57:08.859072+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14931,7 +14931,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T18:55:50.414982+00:00",
-      "last_seen": "2026-08-17T18:32:22.046982+00:00",
+      "last_seen": "2026-08-18T00:57:08.858629+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14958,7 +14958,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-13T12:58:55.725093+00:00",
-      "last_seen": "2026-08-17T18:32:22.046733+00:00",
+      "last_seen": "2026-08-18T00:57:08.858326+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14985,7 +14985,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T01:28:06.273945+00:00",
-      "last_seen": "2026-08-17T18:32:22.046578+00:00",
+      "last_seen": "2026-08-18T00:57:08.858130+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15012,7 +15012,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.889558+00:00",
-      "last_seen": "2026-08-17T18:32:22.046334+00:00",
+      "last_seen": "2026-08-18T00:57:08.857866+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15039,7 +15039,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.890589+00:00",
-      "last_seen": "2026-08-17T18:32:22.046445+00:00",
+      "last_seen": "2026-08-18T00:57:08.857985+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15066,7 +15066,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.891143+00:00",
-      "last_seen": "2026-08-17T18:32:22.046866+00:00",
+      "last_seen": "2026-08-18T00:57:08.858487+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15093,7 +15093,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T18:46:09.190723+00:00",
-      "last_seen": "2026-08-17T18:32:22.045256+00:00",
+      "last_seen": "2026-08-18T00:57:08.857498+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15120,7 +15120,34 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T18:46:09.191906+00:00",
-      "last_seen": "2026-08-17T18:32:22.046180+00:00",
+      "last_seen": "2026-08-18T00:57:08.857727+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "798bc49597c2b753",
+      "title": "Free bus travel 24/7 for disabled people as Prime Minister takes further action to ease cost of living",
+      "url": "https://www.gov.uk/government/news/free-bus-travel-247-for-disabled-people-as-prime-minister-takes-further-action-to-ease-cost-of-living",
+      "start_date": "2026-08-17T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Eligible disabled people across England will get free bus travel all day, every day, after the Prime Minister announced today (Tuesday 18 August) that the government will lift time restrictions on concessionary passes.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-18T00:57:08.856372+00:00",
+      "last_seen": "2026-08-18T00:57:08.856372+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
