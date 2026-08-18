@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T06:35:28.479531+00:00",
-  "total_sources": 561,
+  "updated_at": "2026-08-18T12:35:33.816580+00:00",
+  "total_sources": 564,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -14660,7 +14660,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T18:50:40.077371+00:00",
-      "last_seen": "2026-08-18T06:35:28.327601+00:00",
+      "last_seen": "2026-08-18T12:35:33.656271+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14688,7 +14688,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-10T18:50:40.078402+00:00",
-      "last_seen": "2026-08-18T06:35:28.327723+00:00",
+      "last_seen": "2026-08-18T12:35:33.656394+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14742,7 +14742,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-11T12:53:52.070880+00:00",
-      "last_seen": "2026-08-18T06:35:28.327487+00:00",
+      "last_seen": "2026-08-18T12:35:33.656155+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14796,7 +14796,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T01:26:55.766146+00:00",
-      "last_seen": "2026-08-18T06:35:28.327099+00:00",
+      "last_seen": "2026-08-18T12:35:33.655793+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14823,7 +14823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T01:26:55.767361+00:00",
-      "last_seen": "2026-08-18T06:35:28.327249+00:00",
+      "last_seen": "2026-08-18T12:35:33.655922+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14850,7 +14850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.945334+00:00",
-      "last_seen": "2026-08-18T06:35:28.326668+00:00",
+      "last_seen": "2026-08-18T12:35:33.655328+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14877,7 +14877,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.946319+00:00",
-      "last_seen": "2026-08-18T06:35:28.326817+00:00",
+      "last_seen": "2026-08-18T12:35:33.655479+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14904,7 +14904,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T12:57:58.946611+00:00",
-      "last_seen": "2026-08-18T06:35:28.326969+00:00",
+      "last_seen": "2026-08-18T12:35:33.655660+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14931,7 +14931,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-12T18:55:50.414982+00:00",
-      "last_seen": "2026-08-18T06:35:28.326524+00:00",
+      "last_seen": "2026-08-18T12:35:33.655184+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14958,7 +14958,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-13T12:58:55.725093+00:00",
-      "last_seen": "2026-08-18T06:35:28.326230+00:00",
+      "last_seen": "2026-08-18T12:35:33.654897+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14985,7 +14985,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T01:28:06.273945+00:00",
-      "last_seen": "2026-08-18T06:35:28.326040+00:00",
+      "last_seen": "2026-08-18T12:35:33.654718+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15012,7 +15012,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.889558+00:00",
-      "last_seen": "2026-08-18T06:35:28.325774+00:00",
+      "last_seen": "2026-08-18T12:35:33.654409+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15039,7 +15039,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.890589+00:00",
-      "last_seen": "2026-08-18T06:35:28.325895+00:00",
+      "last_seen": "2026-08-18T12:35:33.654524+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15066,7 +15066,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.891143+00:00",
-      "last_seen": "2026-08-18T06:35:28.326388+00:00",
+      "last_seen": "2026-08-18T12:35:33.655049+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15093,7 +15093,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T18:46:09.190723+00:00",
-      "last_seen": "2026-08-18T06:35:28.325407+00:00",
+      "last_seen": "2026-08-18T12:35:33.654073+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15120,7 +15120,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T18:46:09.191906+00:00",
-      "last_seen": "2026-08-18T06:35:28.325636+00:00",
+      "last_seen": "2026-08-18T12:35:33.654280+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15147,7 +15147,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-18T00:57:08.856372+00:00",
-      "last_seen": "2026-08-18T06:35:28.324281+00:00",
+      "last_seen": "2026-08-18T12:35:33.653862+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "344862c0a36624f7",
+      "title": "Better WiFi on remote trains and access to cutting edge tech for British farmers through \u00a313 million boost to drive next-gen satellite communications",
+      "url": "https://www.gov.uk/government/news/better-wifi-on-remote-trains-and-access-to-cutting-edge-tech-for-british-farmers-through-13-million-boost-to-drive-next-gen-satellite-communications",
+      "start_date": "2026-08-18T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "More reliable\u00a0broadband on remote Scottish railways\u00a0and\u00a0affordable sensors\u00a0which\u00a0help farmers grow more food.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-18T12:35:33.652432+00:00",
+      "last_seen": "2026-08-18T12:35:33.652432+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7ddfaba8c855815d",
+      "title": "Founder of Liverpool's Signature empire banned as director after investors lost \u00a34.8 million through connected company",
+      "url": "https://www.gov.uk/government/news/founder-of-liverpools-signature-empire-banned-as-director-after-investors-lost-48-million-through-connected-company",
+      "start_date": "2026-08-18T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Director disqualified until 2031",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-18T12:35:33.653511+00:00",
+      "last_seen": "2026-08-18T12:35:33.653511+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bb28f072ee9e6b32",
+      "title": "Prime Minister supports West Midlands to take public control of local bus network",
+      "url": "https://www.gov.uk/government/news/prime-minister-supports-west-midlands-to-take-public-control-of-local-bus-network",
+      "start_date": "2026-08-18T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Government and local leaders join forces to keep vital bus services running for millions of people across the West Midlands.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-18T12:35:33.653694+00:00",
+      "last_seen": "2026-08-18T12:35:33.653694+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
