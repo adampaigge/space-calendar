@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T06:37:04.219307+00:00",
-  "total_sources": 571,
+  "updated_at": "2026-08-20T12:37:42.364116+00:00",
+  "total_sources": 575,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -14958,7 +14958,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-13T12:58:55.725093+00:00",
-      "last_seen": "2026-08-20T06:37:04.111191+00:00",
+      "last_seen": "2026-08-20T12:37:42.208832+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -14985,7 +14985,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T01:28:06.273945+00:00",
-      "last_seen": "2026-08-20T06:37:04.111050+00:00",
+      "last_seen": "2026-08-20T12:37:42.208660+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15012,7 +15012,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.889558+00:00",
-      "last_seen": "2026-08-20T06:37:04.110861+00:00",
+      "last_seen": "2026-08-20T12:37:42.208419+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15039,7 +15039,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.890589+00:00",
-      "last_seen": "2026-08-20T06:37:04.110942+00:00",
+      "last_seen": "2026-08-20T12:37:42.208526+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15066,7 +15066,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T12:54:58.891143+00:00",
-      "last_seen": "2026-08-20T06:37:04.111307+00:00",
+      "last_seen": "2026-08-20T12:37:42.208972+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15093,7 +15093,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T18:46:09.190723+00:00",
-      "last_seen": "2026-08-20T06:37:04.110604+00:00",
+      "last_seen": "2026-08-20T12:37:42.208103+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15120,7 +15120,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-14T18:46:09.191906+00:00",
-      "last_seen": "2026-08-20T06:37:04.110766+00:00",
+      "last_seen": "2026-08-20T12:37:42.208300+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15147,7 +15147,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-18T00:57:08.856372+00:00",
-      "last_seen": "2026-08-20T06:37:04.110442+00:00",
+      "last_seen": "2026-08-20T12:37:42.207902+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15174,7 +15174,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-18T12:35:33.652432+00:00",
-      "last_seen": "2026-08-20T06:37:04.110052+00:00",
+      "last_seen": "2026-08-20T12:37:42.207436+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15201,7 +15201,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-18T12:35:33.653511+00:00",
-      "last_seen": "2026-08-20T06:37:04.110220+00:00",
+      "last_seen": "2026-08-20T12:37:42.207613+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15228,7 +15228,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-18T12:35:33.653694+00:00",
-      "last_seen": "2026-08-20T06:37:04.110324+00:00",
+      "last_seen": "2026-08-20T12:37:42.207738+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15282,7 +15282,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-19T12:36:47.478325+00:00",
-      "last_seen": "2026-08-20T06:37:04.109604+00:00",
+      "last_seen": "2026-08-20T12:37:42.206996+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15309,7 +15309,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-19T12:36:47.479418+00:00",
-      "last_seen": "2026-08-20T06:37:04.109753+00:00",
+      "last_seen": "2026-08-20T12:37:42.207172+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15336,7 +15336,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-19T12:36:47.479568+00:00",
-      "last_seen": "2026-08-20T06:37:04.109849+00:00",
+      "last_seen": "2026-08-20T12:37:42.207289+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15390,7 +15390,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-19T18:27:21.537340+00:00",
-      "last_seen": "2026-08-20T06:37:04.109464+00:00",
+      "last_seen": "2026-08-20T12:37:42.206849+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15417,7 +15417,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-20T00:57:46.384931+00:00",
-      "last_seen": "2026-08-20T06:37:04.108756+00:00",
+      "last_seen": "2026-08-20T12:37:42.206686+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "927b80acd2f70da6",
+      "title": "Fly-tippers forced to pay up for the streets they trashed",
+      "url": "https://www.gov.uk/government/news/fly-tippers-forced-to-pay-up-for-the-streets-they-trashed",
+      "start_date": "2026-08-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Fly-tippers will be forced to clean up our communities and pay the costs of clearing up their mess under government plans for \u2018clean up squads\u2019.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-20T12:37:42.205330+00:00",
+      "last_seen": "2026-08-20T12:37:42.205330+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "986b6e1e579c57c1",
+      "title": "Adult skills fund: devolved grant determination letters 2026",
+      "url": "https://www.gov.uk/government/publications/adult-skills-fund-devolved-grant-determination-letters-2026",
+      "start_date": "2026-08-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Letters to devolved areas outlining adult skills fund (ASF) and free courses for jobs funding for the 2026 to 2027 financial year.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-20T12:37:42.206245+00:00",
+      "last_seen": "2026-08-20T12:37:42.206245+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "78b241fd5fd5a41a",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-latest-decisions",
+      "start_date": "2026-08-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-20T12:37:42.206415+00:00",
+      "last_seen": "2026-08-20T12:37:42.206415+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "fb27530f9f552a3f",
+      "title": "PM orders crackdown on the criminal gangs profiting from illegal waste and blighting communities",
+      "url": "https://www.gov.uk/government/news/pm-orders-crackdown-on-the-criminal-gangs-profiting-from-illegal-waste-and-blighting-communities",
+      "start_date": "2026-08-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "New crackdown unites government, regulators, police, local government, and Mayors against criminal gangs behind illegal waste sites.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-20T12:37:42.206526+00:00",
+      "last_seen": "2026-08-20T12:37:42.206526+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
