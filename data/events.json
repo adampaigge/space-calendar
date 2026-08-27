@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T06:56:25.258983+00:00",
-  "total_sources": 591,
+  "updated_at": "2026-08-27T21:38:51.237499+00:00",
+  "total_sources": 594,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -15444,7 +15444,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-20T12:37:42.205330+00:00",
-      "last_seen": "2026-08-27T06:56:25.129406+00:00",
+      "last_seen": "2026-08-27T21:38:51.106239+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15552,7 +15552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-20T18:32:00.207824+00:00",
-      "last_seen": "2026-08-27T06:56:25.129133+00:00",
+      "last_seen": "2026-08-27T21:38:51.105982+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15579,7 +15579,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-20T18:32:00.208816+00:00",
-      "last_seen": "2026-08-27T06:56:25.129261+00:00",
+      "last_seen": "2026-08-27T21:38:51.106109+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15606,7 +15606,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-21T01:00:59.431008+00:00",
-      "last_seen": "2026-08-27T06:56:25.128981+00:00",
+      "last_seen": "2026-08-27T21:38:51.105810+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15633,7 +15633,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-21T12:36:45.244746+00:00",
-      "last_seen": "2026-08-27T06:56:25.128443+00:00",
+      "last_seen": "2026-08-27T21:38:51.105282+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15660,7 +15660,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-21T12:36:45.245314+00:00",
-      "last_seen": "2026-08-27T06:56:25.128586+00:00",
+      "last_seen": "2026-08-27T21:38:51.105419+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15687,7 +15687,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-21T12:36:45.245428+00:00",
-      "last_seen": "2026-08-27T06:56:25.128741+00:00",
+      "last_seen": "2026-08-27T21:38:51.105571+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15714,7 +15714,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-21T12:36:45.245505+00:00",
-      "last_seen": "2026-08-27T06:56:25.128853+00:00",
+      "last_seen": "2026-08-27T21:38:51.105682+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15741,7 +15741,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-23T12:30:07.806564+00:00",
-      "last_seen": "2026-08-27T06:56:25.128266+00:00",
+      "last_seen": "2026-08-27T21:38:51.105147+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15768,7 +15768,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-24T01:00:30.878600+00:00",
-      "last_seen": "2026-08-27T06:56:25.128106+00:00",
+      "last_seen": "2026-08-27T21:38:51.104978+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15796,7 +15796,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-25T00:59:45.460861+00:00",
-      "last_seen": "2026-08-27T06:56:25.127946+00:00",
+      "last_seen": "2026-08-27T21:38:51.104799+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15823,7 +15823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-26T01:01:01.948240+00:00",
-      "last_seen": "2026-08-27T06:56:25.127722+00:00",
+      "last_seen": "2026-08-27T21:38:51.104578+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15850,7 +15850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-26T12:41:25.348456+00:00",
-      "last_seen": "2026-08-27T06:56:25.127456+00:00",
+      "last_seen": "2026-08-27T21:38:51.104326+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15877,7 +15877,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-26T12:41:25.349315+00:00",
-      "last_seen": "2026-08-27T06:56:25.127614+00:00",
+      "last_seen": "2026-08-27T21:38:51.104473+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15904,7 +15904,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-26T19:41:33.074922+00:00",
-      "last_seen": "2026-08-27T06:56:25.127280+00:00",
+      "last_seen": "2026-08-27T21:38:51.104207+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15931,7 +15931,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-27T06:56:25.126200+00:00",
-      "last_seen": "2026-08-27T06:56:25.126200+00:00",
+      "last_seen": "2026-08-27T21:38:51.103876+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15958,7 +15958,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-27T06:56:25.127075+00:00",
-      "last_seen": "2026-08-27T06:56:25.127075+00:00",
+      "last_seen": "2026-08-27T21:38:51.104023+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e5b686c895551d08",
+      "title": "Apply to become Ambassador for a Day in Tunisia",
+      "url": "https://www.gov.uk/government/news/apply-to-become-ambassador-for-a-day-in-tunisia",
+      "start_date": "2026-08-27T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "To mark International Day of the Girl on 11 October, the British and Danish Embassies in Tunisia are inviting girls to enter the Ambassador for a Day competition.",
+      "organiser": null,
+      "tags": [
+        "hackathon"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-27T21:38:51.102604+00:00",
+      "last_seen": "2026-08-27T21:38:51.102604+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "19ad1c6906766491",
+      "title": "Cost of living and young people priorities for the PM during first visit to Northern Ireland",
+      "url": "https://www.gov.uk/government/news/cost-of-living-and-young-people-priorities-for-the-pm-during-first-visit-to-northern-ireland",
+      "start_date": "2026-08-27T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Prime Minister Andy Burnham has arrived in Northern Ireland as part of his summer tour of the United Kingdom.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-27T21:38:51.103523+00:00",
+      "last_seen": "2026-08-27T21:38:51.103523+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5b1f6c42e2692110",
+      "title": "Record number of heating oil households apply for a heat pump",
+      "url": "https://www.gov.uk/government/news/record-number-of-heating-oil-households-apply-for-a-heat-pump",
+      "start_date": "2026-08-27T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Thousands of households on heating oil have applied for a heat pump, taking advantage of the \u00a39,000 Boiler Upgrade Scheme grant.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-08-27T21:38:51.103698+00:00",
+      "last_seen": "2026-08-27T21:38:51.103698+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
