@@ -1,5 +1,14 @@
 [
   {
+    "timestamp": "2026-08-31T22:20:32.030469+00:00",
+    "sources": 10,
+    "events_found": 20,
+    "events_added": 1,
+    "events_updated": 19,
+    "errors": [],
+    "duration_ms": 19551
+  },
+  {
     "timestamp": "2026-08-31T12:31:35.979979+00:00",
     "sources": 10,
     "events_found": 20,
@@ -889,14 +898,5 @@
     "events_updated": 18,
     "errors": [],
     "duration_ms": 11185
-  },
-  {
-    "timestamp": "2026-08-05T08:28:11.326560+00:00",
-    "sources": 10,
-    "events_found": 20,
-    "events_added": 1,
-    "events_updated": 19,
-    "errors": [],
-    "duration_ms": 11468
   }
 ]
