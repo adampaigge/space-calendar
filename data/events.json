@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T03:15:50.031854+00:00",
-  "total_sources": 602,
+  "updated_at": "2026-09-01T10:59:28.104378+00:00",
+  "total_sources": 606,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -15823,7 +15823,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-26T01:01:01.948240+00:00",
-      "last_seen": "2026-09-01T03:15:49.823100+00:00",
+      "last_seen": "2026-09-01T10:59:27.928301+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15850,7 +15850,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-26T12:41:25.348456+00:00",
-      "last_seen": "2026-09-01T03:15:49.822820+00:00",
+      "last_seen": "2026-09-01T10:59:27.928025+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15877,7 +15877,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-26T12:41:25.349315+00:00",
-      "last_seen": "2026-09-01T03:15:49.822983+00:00",
+      "last_seen": "2026-09-01T10:59:27.928184+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15904,7 +15904,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-26T19:41:33.074922+00:00",
-      "last_seen": "2026-09-01T03:15:49.822657+00:00",
+      "last_seen": "2026-09-01T10:59:27.927897+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15931,7 +15931,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-27T06:56:25.126200+00:00",
-      "last_seen": "2026-09-01T03:15:49.822318+00:00",
+      "last_seen": "2026-09-01T10:59:27.927549+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15958,7 +15958,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-27T06:56:25.127075+00:00",
-      "last_seen": "2026-09-01T03:15:49.822464+00:00",
+      "last_seen": "2026-09-01T10:59:27.927701+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -15985,7 +15985,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-27T21:38:51.102604+00:00",
-      "last_seen": "2026-09-01T03:15:49.821819+00:00",
+      "last_seen": "2026-09-01T10:59:27.927037+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16012,7 +16012,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-27T21:38:51.103523+00:00",
-      "last_seen": "2026-09-01T03:15:49.821995+00:00",
+      "last_seen": "2026-09-01T10:59:27.927203+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16039,7 +16039,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-27T21:38:51.103698+00:00",
-      "last_seen": "2026-09-01T03:15:49.822160+00:00",
+      "last_seen": "2026-09-01T10:59:27.927368+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16066,7 +16066,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-28T08:44:24.893494+00:00",
-      "last_seen": "2026-09-01T03:15:49.821433+00:00",
+      "last_seen": "2026-09-01T10:59:27.926697+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16093,7 +16093,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-28T08:44:24.894401+00:00",
-      "last_seen": "2026-09-01T03:15:49.821604+00:00",
+      "last_seen": "2026-09-01T10:59:27.926870+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16120,7 +16120,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-28T21:40:52.847221+00:00",
-      "last_seen": "2026-09-01T03:15:49.820979+00:00",
+      "last_seen": "2026-09-01T10:59:27.926213+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16147,7 +16147,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-28T21:40:52.847838+00:00",
-      "last_seen": "2026-09-01T03:15:49.821148+00:00",
+      "last_seen": "2026-09-01T10:59:27.926377+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16174,7 +16174,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-28T21:40:52.847958+00:00",
-      "last_seen": "2026-09-01T03:15:49.821303+00:00",
+      "last_seen": "2026-09-01T10:59:27.926558+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16201,7 +16201,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-30T11:07:14.460698+00:00",
-      "last_seen": "2026-09-01T03:15:49.820767+00:00",
+      "last_seen": "2026-09-01T10:59:27.926011+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16228,7 +16228,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-31T22:20:31.848401+00:00",
-      "last_seen": "2026-09-01T03:15:49.820539+00:00",
+      "last_seen": "2026-09-01T10:59:27.925845+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16256,6 +16256,114 @@
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T03:15:49.819433+00:00",
       "last_seen": "2026-09-01T03:15:49.819433+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "afd217bd89593820",
+      "title": "NATO Submarine Rescue System conducts Exercise Flying Fish",
+      "url": "https://www.gov.uk/government/news/nato-submarine-rescue-system-conducts-exercise-flying-fish",
+      "start_date": "2026-09-01T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The NATO submarine rescue system tests global RAF airlift capability in major exercise, keeping UK, France and Norway crews emergency ready.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-01T10:59:27.924258+00:00",
+      "last_seen": "2026-09-01T10:59:27.924258+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6b06d318c8e2a8b0",
+      "title": "Funding accelerated to turbocharge prison building across country",
+      "url": "https://www.gov.uk/government/news/funding-accelerated-to-turbocharge-prison-building-across-country",
+      "start_date": "2026-09-01T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The largest prison building programme since the Victorian era will be accelerated through a \u00a3110m investment announced by the Lord Chancellor Alex Norris today (1 September).",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-01T10:59:27.925301+00:00",
+      "last_seen": "2026-09-01T10:59:27.925301+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3edfe7de4bb33694",
+      "title": "Breathing space for families as government eases school costs",
+      "url": "https://www.gov.uk/government/news/breathing-space-for-families-as-government-eases-school-costs",
+      "start_date": "2026-09-01T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Families to save up to \u00a31,200 a year from free school meals, free breakfast clubs and cheaper uniforms.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-01T10:59:27.925526+00:00",
+      "last_seen": "2026-09-01T10:59:27.925526+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "68001d6929b34a71",
+      "title": "Recruitment",
+      "url": "https://www.gov.uk/government/news/fsa-sac-recruitment",
+      "start_date": "2026-08-31T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Help shape the future of food safety in the UK. Join the FSA\u2019s Scientific Advisory Committees and Science Council and contribute to evidence-based decision making.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-01T10:59:27.925689+00:00",
+      "last_seen": "2026-09-01T10:59:27.925689+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
