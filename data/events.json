@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T02:41:16.312514+00:00",
-  "total_sources": 617,
+  "updated_at": "2026-09-03T10:35:15.492419+00:00",
+  "total_sources": 621,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -16201,7 +16201,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-30T11:07:14.460698+00:00",
-      "last_seen": "2026-09-03T02:41:16.157327+00:00",
+      "last_seen": "2026-09-03T10:35:15.274867+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16228,7 +16228,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-08-31T22:20:31.848401+00:00",
-      "last_seen": "2026-09-03T02:41:16.157185+00:00",
+      "last_seen": "2026-09-03T10:35:15.274708+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16282,7 +16282,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T10:59:27.924258+00:00",
-      "last_seen": "2026-09-03T02:41:16.156590+00:00",
+      "last_seen": "2026-09-03T10:35:15.274055+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16309,7 +16309,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T10:59:27.925301+00:00",
-      "last_seen": "2026-09-03T02:41:16.156730+00:00",
+      "last_seen": "2026-09-03T10:35:15.274212+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16336,7 +16336,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T10:59:27.925526+00:00",
-      "last_seen": "2026-09-03T02:41:16.156913+00:00",
+      "last_seen": "2026-09-03T10:35:15.274406+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16363,7 +16363,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T10:59:27.925689+00:00",
-      "last_seen": "2026-09-03T02:41:16.157050+00:00",
+      "last_seen": "2026-09-03T10:35:15.274558+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16390,7 +16390,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T15:58:41.597761+00:00",
-      "last_seen": "2026-09-03T02:41:16.156181+00:00",
+      "last_seen": "2026-09-03T10:35:15.273613+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16417,7 +16417,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T15:58:41.598391+00:00",
-      "last_seen": "2026-09-03T02:41:16.156288+00:00",
+      "last_seen": "2026-09-03T10:35:15.273735+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16444,7 +16444,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T20:26:43.563768+00:00",
-      "last_seen": "2026-09-03T02:41:16.155946+00:00",
+      "last_seen": "2026-09-03T10:35:15.273296+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16471,7 +16471,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-01T20:26:43.564763+00:00",
-      "last_seen": "2026-09-03T02:41:16.156054+00:00",
+      "last_seen": "2026-09-03T10:35:15.273452+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16498,7 +16498,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T10:29:13.131816+00:00",
-      "last_seen": "2026-09-03T02:41:16.155793+00:00",
+      "last_seen": "2026-09-03T10:35:15.273122+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16552,7 +16552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.846586+00:00",
-      "last_seen": "2026-09-03T02:41:16.155107+00:00",
+      "last_seen": "2026-09-03T10:35:15.272407+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16579,7 +16579,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.846792+00:00",
-      "last_seen": "2026-09-03T02:41:16.155296+00:00",
+      "last_seen": "2026-09-03T10:35:15.272598+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16606,7 +16606,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.846938+00:00",
-      "last_seen": "2026-09-03T02:41:16.155435+00:00",
+      "last_seen": "2026-09-03T10:35:15.272746+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16633,7 +16633,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.847090+00:00",
-      "last_seen": "2026-09-03T02:41:16.155581+00:00",
+      "last_seen": "2026-09-03T10:35:15.272904+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16660,7 +16660,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.847987+00:00",
-      "last_seen": "2026-09-03T02:41:16.156439+00:00",
+      "last_seen": "2026-09-03T10:35:15.273899+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "23030ec672015788",
+      "title": "Invasive mosquito species detected in east London",
+      "url": "https://www.gov.uk/government/news/invasive-mosquito-species-detected-in-east-london",
+      "start_date": "2026-09-03T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UKHSA finds invasive Aedes aegypti breeding in east London, prompting enhanced surveillance.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-03T10:35:15.270878+00:00",
+      "last_seen": "2026-09-03T10:35:15.270878+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "666a966b710d7c43",
+      "title": "Fast-paced funding for force-protection innovation",
+      "url": "https://www.gov.uk/government/news/fast-paced-funding-for-force-protection-innovation",
+      "start_date": "2026-09-03T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UKDI seeks counter-Uncrewed Aerial System capabilities for development to deployment",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-03T10:35:15.271892+00:00",
+      "last_seen": "2026-09-03T10:35:15.271892+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5dac138eaec88862",
+      "title": "AAIB Report: Boeing 747-433, G-ONEE",
+      "url": "https://www.gov.uk/government/news/aaib-report-boeing-747-433-g-onee",
+      "start_date": "2026-09-03T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Boeing 747-433 (G-ONEE), water ingress leading to loss of two AC buses, and ice leading to unreliable airspeed, after departure from London Heathrow Airport, 8 February 2024",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-03T10:35:15.272041+00:00",
+      "last_seen": "2026-09-03T10:35:15.272041+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bf8b45879de0b3cf",
+      "title": "\u201cShort-changing staff isn't a shortcut to success\u201d - Nearly 660 employers announced as failing to pay the minimum wage",
+      "url": "https://www.gov.uk/government/news/short-changing-staff-isnt-a-shortcut-to-success-nearly-660-employers-announced-as-failing-to-pay-the-minimum-wage",
+      "start_date": "2026-09-03T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Around \u00a34 million has been repaid to 27,000 workers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-03T10:35:15.272216+00:00",
+      "last_seen": "2026-09-03T10:35:15.272216+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
