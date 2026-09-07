@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T02:34:11.381345+00:00",
-  "total_sources": 628,
+  "updated_at": "2026-09-07T11:25:25.437685+00:00",
+  "total_sources": 632,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -16498,7 +16498,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T10:29:13.131816+00:00",
-      "last_seen": "2026-09-07T02:34:11.172873+00:00",
+      "last_seen": "2026-09-07T11:25:25.268412+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16552,7 +16552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.846586+00:00",
-      "last_seen": "2026-09-07T02:34:11.172181+00:00",
+      "last_seen": "2026-09-07T11:25:25.267775+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16579,7 +16579,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.846792+00:00",
-      "last_seen": "2026-09-07T02:34:11.172361+00:00",
+      "last_seen": "2026-09-07T11:25:25.267952+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16606,7 +16606,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.846938+00:00",
-      "last_seen": "2026-09-07T02:34:11.172503+00:00",
+      "last_seen": "2026-09-07T11:25:25.268077+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16633,7 +16633,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.847090+00:00",
-      "last_seen": "2026-09-07T02:34:11.172658+00:00",
+      "last_seen": "2026-09-07T11:25:25.268219+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16687,7 +16687,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T10:35:15.270878+00:00",
-      "last_seen": "2026-09-07T02:34:11.171565+00:00",
+      "last_seen": "2026-09-07T11:25:25.267259+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16714,7 +16714,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T10:35:15.271892+00:00",
-      "last_seen": "2026-09-07T02:34:11.171692+00:00",
+      "last_seen": "2026-09-07T11:25:25.267371+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16741,7 +16741,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T10:35:15.272041+00:00",
-      "last_seen": "2026-09-07T02:34:11.171815+00:00",
+      "last_seen": "2026-09-07T11:25:25.267479+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16768,7 +16768,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T10:35:15.272216+00:00",
-      "last_seen": "2026-09-07T02:34:11.171976+00:00",
+      "last_seen": "2026-09-07T11:25:25.267625+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16795,7 +16795,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T15:41:26.635362+00:00",
-      "last_seen": "2026-09-07T02:34:11.171410+00:00",
+      "last_seen": "2026-09-07T11:25:25.267121+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16822,7 +16822,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T20:25:19.789385+00:00",
-      "last_seen": "2026-09-07T02:34:11.171252+00:00",
+      "last_seen": "2026-09-07T11:25:25.266983+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16849,7 +16849,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-04T10:27:01.338249+00:00",
-      "last_seen": "2026-09-07T02:34:11.171111+00:00",
+      "last_seen": "2026-09-07T11:25:25.266862+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16876,7 +16876,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-04T15:39:48.787714+00:00",
-      "last_seen": "2026-09-07T02:34:11.170739+00:00",
+      "last_seen": "2026-09-07T11:25:25.266551+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16903,7 +16903,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-04T15:39:48.788786+00:00",
-      "last_seen": "2026-09-07T02:34:11.170917+00:00",
+      "last_seen": "2026-09-07T11:25:25.266700+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16930,7 +16930,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-04T20:11:22.020836+00:00",
-      "last_seen": "2026-09-07T02:34:11.170568+00:00",
+      "last_seen": "2026-09-07T11:25:25.266418+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16957,7 +16957,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-06T10:09:54.826983+00:00",
-      "last_seen": "2026-09-07T02:34:11.169549+00:00",
+      "last_seen": "2026-09-07T11:25:25.266256+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "687a8e0f18c1afdb",
+      "title": "Chancellor John Healey's Growth Speech 2026",
+      "url": "https://www.gov.uk/government/speeches/chancellor-john-healeys-growth-speech-2026",
+      "start_date": "2026-09-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Chancellor John Healey delivered his Growth Speech on 7 September 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-07T11:25:25.264948+00:00",
+      "last_seen": "2026-09-07T11:25:25.264948+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5b6a211f6f797c68",
+      "title": "Derek Wilson reappointed as Chair of the Sports Grounds Safety Authority Board",
+      "url": "https://www.gov.uk/government/news/derek-wilson-reappointed-as-chair-of-the-sports-grounds-safety-authority-board",
+      "start_date": "2026-09-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Secretary of State for Digital, Culture, Media and Sport has reappointed Derek Wilson as Chair of the Sports Grounds Safety Authority Board for a third term of three years",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-07T11:25:25.265776+00:00",
+      "last_seen": "2026-09-07T11:25:25.265776+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "62ce3d52cfdea132",
+      "title": "London hotelier sentenced for exploiting Covid support scheme nine times to fraudulently claim \u00a3450,000",
+      "url": "https://www.gov.uk/government/news/london-hotelier-sentenced-for-exploiting-covid-support-scheme-nine-times-to-fraudulently-claim-450000",
+      "start_date": "2026-09-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "He illegally obtained the funds for five separate companies",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-07T11:25:25.265964+00:00",
+      "last_seen": "2026-09-07T11:25:25.265964+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f0d722e2590b1c2b",
+      "title": "CASI hosts info session for prospective Chevening applicants in Honiara",
+      "url": "https://www.gov.uk/government/news/casi-hosts-info-session-for-prospective-chevening-applicants-in-honiara",
+      "start_date": "2026-09-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Students, young professionals and aspiring leaders interested in pursuing a fully funded master's degree attended the Chevening Scholarship info session.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-07T11:25:25.266104+00:00",
+      "last_seen": "2026-09-07T11:25:25.266104+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
