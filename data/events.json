@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T11:25:25.437685+00:00",
-  "total_sources": 632,
+  "updated_at": "2026-09-07T17:07:15.012653+00:00",
+  "total_sources": 635,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -16552,7 +16552,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.846586+00:00",
-      "last_seen": "2026-09-07T11:25:25.267775+00:00",
+      "last_seen": "2026-09-07T17:07:14.857281+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16579,7 +16579,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-02T15:51:57.846792+00:00",
-      "last_seen": "2026-09-07T11:25:25.267952+00:00",
+      "last_seen": "2026-09-07T17:07:14.857492+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16687,7 +16687,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T10:35:15.270878+00:00",
-      "last_seen": "2026-09-07T11:25:25.267259+00:00",
+      "last_seen": "2026-09-07T17:07:14.856691+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16714,7 +16714,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T10:35:15.271892+00:00",
-      "last_seen": "2026-09-07T11:25:25.267371+00:00",
+      "last_seen": "2026-09-07T17:07:14.856823+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16741,7 +16741,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T10:35:15.272041+00:00",
-      "last_seen": "2026-09-07T11:25:25.267479+00:00",
+      "last_seen": "2026-09-07T17:07:14.856949+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16768,7 +16768,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T10:35:15.272216+00:00",
-      "last_seen": "2026-09-07T11:25:25.267625+00:00",
+      "last_seen": "2026-09-07T17:07:14.857121+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16795,7 +16795,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T15:41:26.635362+00:00",
-      "last_seen": "2026-09-07T11:25:25.267121+00:00",
+      "last_seen": "2026-09-07T17:07:14.856528+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16822,7 +16822,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-03T20:25:19.789385+00:00",
-      "last_seen": "2026-09-07T11:25:25.266983+00:00",
+      "last_seen": "2026-09-07T17:07:14.856356+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16849,7 +16849,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-04T10:27:01.338249+00:00",
-      "last_seen": "2026-09-07T11:25:25.266862+00:00",
+      "last_seen": "2026-09-07T17:07:14.856192+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16876,7 +16876,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-04T15:39:48.787714+00:00",
-      "last_seen": "2026-09-07T11:25:25.266551+00:00",
+      "last_seen": "2026-09-07T17:07:14.855854+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16903,7 +16903,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-04T15:39:48.788786+00:00",
-      "last_seen": "2026-09-07T11:25:25.266700+00:00",
+      "last_seen": "2026-09-07T17:07:14.856025+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16930,7 +16930,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-04T20:11:22.020836+00:00",
-      "last_seen": "2026-09-07T11:25:25.266418+00:00",
+      "last_seen": "2026-09-07T17:07:14.855702+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16957,7 +16957,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-06T10:09:54.826983+00:00",
-      "last_seen": "2026-09-07T11:25:25.266256+00:00",
+      "last_seen": "2026-09-07T17:07:14.855517+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -16984,7 +16984,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T11:25:25.264948+00:00",
-      "last_seen": "2026-09-07T11:25:25.264948+00:00",
+      "last_seen": "2026-09-07T17:07:14.855024+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17011,7 +17011,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T11:25:25.265776+00:00",
-      "last_seen": "2026-09-07T11:25:25.265776+00:00",
+      "last_seen": "2026-09-07T17:07:14.854838+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17038,7 +17038,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T11:25:25.265964+00:00",
-      "last_seen": "2026-09-07T11:25:25.265964+00:00",
+      "last_seen": "2026-09-07T17:07:14.855144+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17065,7 +17065,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T11:25:25.266104+00:00",
-      "last_seen": "2026-09-07T11:25:25.266104+00:00",
+      "last_seen": "2026-09-07T17:07:14.855295+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b8dcbd678e70c8f4",
+      "title": "On track: delivering the promises of the digital markets regime",
+      "url": "https://www.gov.uk/government/speeches/on-track-delivering-the-promises-of-the-digital-markets-regime",
+      "start_date": "2026-09-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Speech delivered by Will Hayter at Time to Reset: Unlocking Growth & Sovereignty Through Digital Competition (eventhosted by News Media Association and Reset).",
+      "organiser": null,
+      "tags": [
+        "hackathon"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-07T17:07:14.853410+00:00",
+      "last_seen": "2026-09-07T17:07:14.853410+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3e4bf97c8363e28c",
+      "title": "IBCA Community Update, 7 September 2026",
+      "url": "https://www.gov.uk/government/publications/ibca-community-update-7-september-2026",
+      "start_date": "2026-09-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Infected Blood Compensation Authority's update that was circulated on 7 September 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-07T17:07:14.854492+00:00",
+      "last_seen": "2026-09-07T17:07:14.854492+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a685f397f223c347",
+      "title": "UK expertise to bolster Polish air defences in boost to NATO security",
+      "url": "https://www.gov.uk/government/news/uk-expertise-to-bolster-polish-air-defences-in-boost-to-nato-security",
+      "start_date": "2026-09-07T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A new defence centre\u00a0built with\u00a0UK\u00a0expertise\u00a0opens today\u00a0in Poland,\u00a0strengthening\u00a0the country's air\u00a0defences\u00a0and\u00a0reinforcing\u00a0NATO\u2019s eastern flank\u00a0against Russian aggression.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-07T17:07:14.854640+00:00",
+      "last_seen": "2026-09-07T17:07:14.854640+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
