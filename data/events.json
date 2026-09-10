@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T10:28:26.624821+00:00",
-  "total_sources": 646,
+  "updated_at": "2026-09-10T15:44:04.152695+00:00",
+  "total_sources": 650,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -16984,7 +16984,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T11:25:25.264948+00:00",
-      "last_seen": "2026-09-10T10:28:26.472700+00:00",
+      "last_seen": "2026-09-10T15:44:03.938071+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17011,7 +17011,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T11:25:25.265776+00:00",
-      "last_seen": "2026-09-10T10:28:26.472544+00:00",
+      "last_seen": "2026-09-10T15:44:03.937883+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17038,7 +17038,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T11:25:25.265964+00:00",
-      "last_seen": "2026-09-10T10:28:26.472812+00:00",
+      "last_seen": "2026-09-10T15:44:03.938190+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17092,7 +17092,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T17:07:14.853410+00:00",
-      "last_seen": "2026-09-10T10:28:26.472145+00:00",
+      "last_seen": "2026-09-10T15:44:03.937377+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17119,7 +17119,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T17:07:14.854492+00:00",
-      "last_seen": "2026-09-10T10:28:26.472286+00:00",
+      "last_seen": "2026-09-10T15:44:03.937546+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17146,7 +17146,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T17:07:14.854640+00:00",
-      "last_seen": "2026-09-10T10:28:26.472385+00:00",
+      "last_seen": "2026-09-10T15:44:03.937687+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17173,7 +17173,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-07T21:02:35.711136+00:00",
-      "last_seen": "2026-09-10T10:28:26.472044+00:00",
+      "last_seen": "2026-09-10T15:44:03.937244+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17200,7 +17200,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-08T02:47:24.311696+00:00",
-      "last_seen": "2026-09-10T10:28:26.471756+00:00",
+      "last_seen": "2026-09-10T15:44:03.936922+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17227,7 +17227,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-08T10:29:09.045818+00:00",
-      "last_seen": "2026-09-10T10:28:26.471919+00:00",
+      "last_seen": "2026-09-10T15:44:03.937098+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17254,7 +17254,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-08T15:53:19.891697+00:00",
-      "last_seen": "2026-09-10T10:28:26.471193+00:00",
+      "last_seen": "2026-09-10T15:44:03.936234+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17281,7 +17281,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-08T15:53:19.892254+00:00",
-      "last_seen": "2026-09-10T10:28:26.471324+00:00",
+      "last_seen": "2026-09-10T15:44:03.936384+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17308,7 +17308,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-08T15:53:19.892346+00:00",
-      "last_seen": "2026-09-10T10:28:26.471436+00:00",
+      "last_seen": "2026-09-10T15:44:03.936518+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17335,7 +17335,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-08T15:53:19.892444+00:00",
-      "last_seen": "2026-09-10T10:28:26.471577+00:00",
+      "last_seen": "2026-09-10T15:44:03.936706+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17362,7 +17362,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-09T15:49:05.854972+00:00",
-      "last_seen": "2026-09-10T10:28:26.470713+00:00",
+      "last_seen": "2026-09-10T15:44:03.935885+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17389,7 +17389,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-09T15:49:05.856032+00:00",
-      "last_seen": "2026-09-10T10:28:26.470914+00:00",
+      "last_seen": "2026-09-10T15:44:03.936081+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17443,7 +17443,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-10T10:28:26.469997+00:00",
-      "last_seen": "2026-09-10T10:28:26.469997+00:00",
+      "last_seen": "2026-09-10T15:44:03.935566+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2c1872a6e4f1f95c",
+      "title": "Implementation of the NPT Safeguards Agreement in Iran: Quad statement to the IAEA Board of Governors, September 2026",
+      "url": "https://www.gov.uk/government/speeches/implementation-of-the-npt-safeguards-agreement-in-iran-quad-statement-to-the-iaea-board-of-governors-september-2026",
+      "start_date": "2026-09-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Statement by France, Germany, the United Kingdom and the United States on the implementation of the NPT safeguards agreement in Iran.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-10T15:44:03.934126+00:00",
+      "last_seen": "2026-09-10T15:44:03.934126+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8862f23b48d484cc",
+      "title": "Extension proposal for Surrey Hills National Landscape submitted",
+      "url": "https://www.gov.uk/government/news/extension-proposal-for-surrey-hills-national-landscape-submitted",
+      "start_date": "2026-09-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Natural England submits proposal to the secretary of state for the environment to extend the boundary of the Surrey Hills Area of Outstanding Natural Beauty.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-10T15:44:03.935203+00:00",
+      "last_seen": "2026-09-10T15:44:03.935203+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "968d12389565831c",
+      "title": "Local leaders handed powers to drive investment in communities",
+      "url": "https://www.gov.uk/government/news/local-leaders-handed-powers-to-drive-investment-in-communities",
+      "start_date": "2026-09-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Mayors and local leaders will be given new powers with a levy on overnight stays as part of a devolution drive to shift power out of Westminster.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-10T15:44:03.935395+00:00",
+      "last_seen": "2026-09-10T15:44:03.935395+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "507ac1b474a34388",
+      "title": "DfE Update 9 September 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-9-september-2026",
+      "start_date": "2026-09-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-10T15:44:03.935718+00:00",
+      "last_seen": "2026-09-10T15:44:03.935718+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
