@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T16:07:26.679284+00:00",
-  "total_sources": 671,
+  "updated_at": "2026-09-15T20:47:58.669872+00:00",
+  "total_sources": 674,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -17578,7 +17578,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-11T10:30:26.211767+00:00",
-      "last_seen": "2026-09-15T16:07:26.496616+00:00",
+      "last_seen": "2026-09-15T20:47:58.469949+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17713,7 +17713,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-11T15:45:31.845989+00:00",
-      "last_seen": "2026-09-15T16:07:26.496481+00:00",
+      "last_seen": "2026-09-15T20:47:58.469801+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17740,7 +17740,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-12T02:51:30.314053+00:00",
-      "last_seen": "2026-09-15T16:07:26.496277+00:00",
+      "last_seen": "2026-09-15T20:47:58.469583+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17767,7 +17767,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-13T02:49:41.223003+00:00",
-      "last_seen": "2026-09-15T16:07:26.496125+00:00",
+      "last_seen": "2026-09-15T20:47:58.469420+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17794,7 +17794,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T11:36:01.509961+00:00",
-      "last_seen": "2026-09-15T16:07:26.495687+00:00",
+      "last_seen": "2026-09-15T20:47:58.468927+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17821,7 +17821,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T11:36:01.510833+00:00",
-      "last_seen": "2026-09-15T16:07:26.495829+00:00",
+      "last_seen": "2026-09-15T20:47:58.469103+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17848,7 +17848,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T11:36:01.511006+00:00",
-      "last_seen": "2026-09-15T16:07:26.495991+00:00",
+      "last_seen": "2026-09-15T20:47:58.469274+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17875,7 +17875,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T17:31:26.182064+00:00",
-      "last_seen": "2026-09-15T16:07:26.494942+00:00",
+      "last_seen": "2026-09-15T20:47:58.468116+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17902,7 +17902,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T17:31:26.183164+00:00",
-      "last_seen": "2026-09-15T16:07:26.495099+00:00",
+      "last_seen": "2026-09-15T20:47:58.468292+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17929,7 +17929,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T17:31:26.183327+00:00",
-      "last_seen": "2026-09-15T16:07:26.495223+00:00",
+      "last_seen": "2026-09-15T20:47:58.468428+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17956,7 +17956,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T17:31:26.183496+00:00",
-      "last_seen": "2026-09-15T16:07:26.495372+00:00",
+      "last_seen": "2026-09-15T20:47:58.468588+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -17983,7 +17983,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T17:31:26.183699+00:00",
-      "last_seen": "2026-09-15T16:07:26.495529+00:00",
+      "last_seen": "2026-09-15T20:47:58.468754+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18010,7 +18010,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T21:21:19.611318+00:00",
-      "last_seen": "2026-09-15T16:07:26.494776+00:00",
+      "last_seen": "2026-09-15T20:47:58.467942+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18037,7 +18037,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T03:06:09.111158+00:00",
-      "last_seen": "2026-09-15T16:07:26.494631+00:00",
+      "last_seen": "2026-09-15T20:47:58.467789+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18064,7 +18064,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T10:55:35.075452+00:00",
-      "last_seen": "2026-09-15T16:07:26.494327+00:00",
+      "last_seen": "2026-09-15T20:47:58.467490+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18091,7 +18091,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T10:55:35.076422+00:00",
-      "last_seen": "2026-09-15T16:07:26.494489+00:00",
+      "last_seen": "2026-09-15T20:47:58.467641+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18118,7 +18118,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T16:07:26.493510+00:00",
-      "last_seen": "2026-09-15T16:07:26.493510+00:00",
+      "last_seen": "2026-09-15T20:47:58.467394+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5999fe8fc922d6e9",
+      "title": "Government response to the Thirlwall Inquiry",
+      "url": "https://www.gov.uk/government/speeches/government-response-to-the-thirlwall-inquiry",
+      "start_date": "2026-09-15T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Secretary of State has apologised to families and set out urgent action following the Thirlwall Inquiry\u2019s findings, published on 15 September.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-15T20:47:58.465997+00:00",
+      "last_seen": "2026-09-15T20:47:58.465997+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b3e5d3c284d51536",
+      "title": "First Secretary of State Louise Haigh's speech to the Trade Union Congress 2026",
+      "url": "https://www.gov.uk/government/speeches/first-secretary-of-state-louise-haighs-speech-to-the-trade-union-congress-2026",
+      "start_date": "2026-09-15T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "First Secretary of State Louise Haigh's speech to the Trade Union Congress 2026.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-15T20:47:58.467022+00:00",
+      "last_seen": "2026-09-15T20:47:58.467022+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "06437b02e5991d81",
+      "title": "Government to act on Thirlwall patient safety recommendations",
+      "url": "https://www.gov.uk/government/news/government-to-act-on-thirlwall-patient-safety-recommendations",
+      "start_date": "2026-09-15T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The government outlines plans to strengthen NHS safeguarding, accountability and neonatal safety, including work on cot cams.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-15T20:47:58.467232+00:00",
+      "last_seen": "2026-09-15T20:47:58.467232+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
