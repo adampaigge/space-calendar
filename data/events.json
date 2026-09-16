@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T10:45:06.948543+00:00",
-  "total_sources": 678,
+  "updated_at": "2026-09-16T16:00:30.083479+00:00",
+  "total_sources": 686,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -18010,7 +18010,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-14T21:21:19.611318+00:00",
-      "last_seen": "2026-09-16T10:45:06.723952+00:00",
+      "last_seen": "2026-09-16T16:00:29.880453+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18037,7 +18037,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T03:06:09.111158+00:00",
-      "last_seen": "2026-09-16T10:45:06.723796+00:00",
+      "last_seen": "2026-09-16T16:00:29.880325+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18064,7 +18064,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T10:55:35.075452+00:00",
-      "last_seen": "2026-09-16T10:45:06.723475+00:00",
+      "last_seen": "2026-09-16T16:00:29.880049+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18091,7 +18091,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T10:55:35.076422+00:00",
-      "last_seen": "2026-09-16T10:45:06.723649+00:00",
+      "last_seen": "2026-09-16T16:00:29.880201+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18118,7 +18118,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T16:07:26.493510+00:00",
-      "last_seen": "2026-09-16T10:45:06.723385+00:00",
+      "last_seen": "2026-09-16T16:00:29.879982+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18145,7 +18145,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T20:47:58.465997+00:00",
-      "last_seen": "2026-09-16T10:45:06.722936+00:00",
+      "last_seen": "2026-09-16T16:00:29.879609+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18172,7 +18172,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T20:47:58.467022+00:00",
-      "last_seen": "2026-09-16T10:45:06.723100+00:00",
+      "last_seen": "2026-09-16T16:00:29.879746+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18199,7 +18199,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-15T20:47:58.467232+00:00",
-      "last_seen": "2026-09-16T10:45:06.723236+00:00",
+      "last_seen": "2026-09-16T16:00:29.879856+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18226,7 +18226,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T03:02:38.806863+00:00",
-      "last_seen": "2026-09-16T10:45:06.722780+00:00",
+      "last_seen": "2026-09-16T16:00:29.879485+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18253,7 +18253,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T10:45:06.721373+00:00",
-      "last_seen": "2026-09-16T10:45:06.721373+00:00",
+      "last_seen": "2026-09-16T16:00:29.879020+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18280,7 +18280,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T10:45:06.722384+00:00",
-      "last_seen": "2026-09-16T10:45:06.722384+00:00",
+      "last_seen": "2026-09-16T16:00:29.879218+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18308,7 +18308,223 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T10:45:06.722625+00:00",
-      "last_seen": "2026-09-16T10:45:06.722625+00:00",
+      "last_seen": "2026-09-16T16:00:29.879367+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5a2adc3948991eff",
+      "title": "Implementing nuclear regulatory taskforce review: letter from Philip Duffy to Chancellor of the Exchequer",
+      "url": "https://www.gov.uk/government/publications/implementing-nuclear-regulatory-taskforce-review-letter-from-philip-duffy-to-chancellor-of-the-exchequer",
+      "start_date": "2026-09-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Environment Agency response outlining actions to implement the Nuclear Regulatory Taskforce Review.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-16T16:00:29.876849+00:00",
+      "last_seen": "2026-09-16T16:00:29.876849+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "42fd8e3b1c549d9e",
+      "title": "Public encouraged to submit their memories of Queen Elizabeth II as 4th anniversary of late monarch\u2019s passing is marked",
+      "url": "https://www.gov.uk/government/news/public-encouraged-to-submit-their-memories-of-queen-elizabeth-ii-as-4th-anniversary-of-late-monarchs-passing-is-marked",
+      "start_date": "2026-09-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The public are being encouraged to share their personal memories of Queen Elizabeth II, as the country marks four years since the late monarch\u2019s passing.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-16T16:00:29.877710+00:00",
+      "last_seen": "2026-09-16T16:00:29.877710+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "735e8a0fdac3dbd6",
+      "title": "Millom Town Deal milestone as historic Old Bank work complete",
+      "url": "https://www.gov.uk/government/news/millom-town-deal-milestone-as-historic-old-bank-work-complete",
+      "start_date": "2026-09-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A major project in Millom has reached a milestone, with work now complete on the town's historic Old Bank building.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-16T16:00:29.877933+00:00",
+      "last_seen": "2026-09-16T16:00:29.877933+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "384faed3d18fe183",
+      "title": "Minister for Defence Readiness and Industry Luke Pollard MP's speech at DVD 2026",
+      "url": "https://www.gov.uk/government/speeches/minister-for-defence-readiness-and-industry-luke-pollard-mps-speech-at-dvd-2026",
+      "start_date": "2026-09-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Minister Pollard highlighting the importance of collaboration between government, industry and private finance, to strengthen the capabilities of the British Army and boost economic growth.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-16T16:00:29.878108+00:00",
+      "last_seen": "2026-09-16T16:00:29.878108+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "fcf17ede2fecafe7",
+      "title": "DfE Update 16 September 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-16-september-2026",
+      "start_date": "2026-09-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-16T16:00:29.878351+00:00",
+      "last_seen": "2026-09-16T16:00:29.878351+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f69714cbe20c72aa",
+      "title": "New 'spy' drones to give Army greater powers on the battlefield",
+      "url": "https://www.gov.uk/government/news/new-spy-drones-to-give-army-greater-powers-on-the-battlefield",
+      "start_date": "2026-09-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "British soldiers will receive new\u00a0Intelligence, Surveillance and Reconnaissance (ISR)\u00a0drones, giving them better\u00a0sight of the battlefield and\u00a0greater protection against emerging threats\u00a0in conflict.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-16T16:00:29.878548+00:00",
+      "last_seen": "2026-09-16T16:00:29.878548+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "66d99db2c50091db",
+      "title": "Democracy in Solomons needs more women, says High Commissioner Turner",
+      "url": "https://www.gov.uk/government/news/democracy-in-solomons-needs-more-women-says-high-commissioner-turner",
+      "start_date": "2026-09-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A Westminster Foundation for Democracy workshop in Honiara explored barriers to women\u2019s participation in politics and ways to build a more inclusive democracy.",
+      "organiser": null,
+      "tags": [
+        "workshop"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-16T16:00:29.878782+00:00",
+      "last_seen": "2026-09-16T16:00:29.878782+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7ec5548ae4754133",
+      "title": "Police Superintendents' Association 2026 Conference",
+      "url": "https://www.gov.uk/government/speeches/police-superintendents-association-2026-conference",
+      "start_date": "2026-09-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Conference Speech by the Minister for Crime and Policing Sarah Jones",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-16T16:00:29.878931+00:00",
+      "last_seen": "2026-09-16T16:00:29.878931+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
