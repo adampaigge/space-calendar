@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T10:52:01.809768+00:00",
-  "total_sources": 692,
+  "updated_at": "2026-09-17T16:06:49.929676+00:00",
+  "total_sources": 694,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -18226,7 +18226,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T03:02:38.806863+00:00",
-      "last_seen": "2026-09-17T10:52:01.560464+00:00",
+      "last_seen": "2026-09-17T16:06:49.677413+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18253,7 +18253,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T10:45:06.721373+00:00",
-      "last_seen": "2026-09-17T10:52:01.559941+00:00",
+      "last_seen": "2026-09-17T16:06:49.676730+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18280,7 +18280,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T10:45:06.722384+00:00",
-      "last_seen": "2026-09-17T10:52:01.560144+00:00",
+      "last_seen": "2026-09-17T16:06:49.677098+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18308,7 +18308,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T10:45:06.722625+00:00",
-      "last_seen": "2026-09-17T10:52:01.560318+00:00",
+      "last_seen": "2026-09-17T16:06:49.677273+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18335,7 +18335,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T16:00:29.876849+00:00",
-      "last_seen": "2026-09-17T10:52:01.558524+00:00",
+      "last_seen": "2026-09-17T16:06:49.674376+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18362,7 +18362,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T16:00:29.877710+00:00",
-      "last_seen": "2026-09-17T10:52:01.558683+00:00",
+      "last_seen": "2026-09-17T16:06:49.674577+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18389,7 +18389,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T16:00:29.877933+00:00",
-      "last_seen": "2026-09-17T10:52:01.558928+00:00",
+      "last_seen": "2026-09-17T16:06:49.674839+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18416,7 +18416,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T16:00:29.878108+00:00",
-      "last_seen": "2026-09-17T10:52:01.559085+00:00",
+      "last_seen": "2026-09-17T16:06:49.675119+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18443,7 +18443,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T16:00:29.878351+00:00",
-      "last_seen": "2026-09-17T10:52:01.559277+00:00",
+      "last_seen": "2026-09-17T16:06:49.675483+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18470,7 +18470,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T16:00:29.878548+00:00",
-      "last_seen": "2026-09-17T10:52:01.559435+00:00",
+      "last_seen": "2026-09-17T16:06:49.675789+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18497,7 +18497,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T16:00:29.878782+00:00",
-      "last_seen": "2026-09-17T10:52:01.559625+00:00",
+      "last_seen": "2026-09-17T16:06:49.676184+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18524,7 +18524,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T16:00:29.878931+00:00",
-      "last_seen": "2026-09-17T10:52:01.559797+00:00",
+      "last_seen": "2026-09-17T16:06:49.676509+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18551,7 +18551,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-16T20:47:54.220996+00:00",
-      "last_seen": "2026-09-17T10:52:01.558361+00:00",
+      "last_seen": "2026-09-17T16:06:49.674108+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18578,7 +18578,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-17T03:06:06.949841+00:00",
-      "last_seen": "2026-09-17T10:52:01.558209+00:00",
+      "last_seen": "2026-09-17T16:06:49.673792+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18605,7 +18605,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-17T10:52:01.556657+00:00",
-      "last_seen": "2026-09-17T10:52:01.556657+00:00",
+      "last_seen": "2026-09-17T16:06:49.672583+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18632,7 +18632,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-17T10:52:01.557677+00:00",
-      "last_seen": "2026-09-17T10:52:01.557677+00:00",
+      "last_seen": "2026-09-17T16:06:49.672862+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18659,7 +18659,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-17T10:52:01.557858+00:00",
-      "last_seen": "2026-09-17T10:52:01.557858+00:00",
+      "last_seen": "2026-09-17T16:06:49.673154+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18686,7 +18686,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-17T10:52:01.558013+00:00",
-      "last_seen": "2026-09-17T10:52:01.558013+00:00",
+      "last_seen": "2026-09-17T16:06:49.673425+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "046441ee2b756d82",
+      "title": "Chiltern Railways brought into public ownership",
+      "url": "https://www.gov.uk/government/news/chiltern-railways-brought-into-public-ownership",
+      "start_date": "2026-09-17T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Chiltern Railways brought into public ownership with more daily services and more reliable journeys.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-17T16:06:49.670751+00:00",
+      "last_seen": "2026-09-17T16:06:49.670751+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "29deee994a697adb",
+      "title": "NDA galvanises cultural shift across nuclear sector",
+      "url": "https://www.gov.uk/government/news/nda-galvanises-cultural-shift-across-nuclear-sector",
+      "start_date": "2026-09-17T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "NDA brings nuclear sector senior leaders together to galvanise action on Nuclear Regulatory Taskforce (NRTF) review recommendations.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-17T16:06:49.672276+00:00",
+      "last_seen": "2026-09-17T16:06:49.672276+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
