@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T10:51:10.511988+00:00",
-  "total_sources": 712,
+  "updated_at": "2026-09-22T16:09:17.827825+00:00",
+  "total_sources": 713,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -18713,7 +18713,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-17T16:06:49.670751+00:00",
-      "last_seen": "2026-09-22T10:51:10.336449+00:00",
+      "last_seen": "2026-09-22T16:09:17.647085+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18767,7 +18767,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-18T02:54:06.927251+00:00",
-      "last_seen": "2026-09-22T10:51:10.335645+00:00",
+      "last_seen": "2026-09-22T16:09:17.646356+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18794,7 +18794,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-18T10:27:30.398034+00:00",
-      "last_seen": "2026-09-22T10:51:10.336260+00:00",
+      "last_seen": "2026-09-22T16:09:17.646915+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18821,7 +18821,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-18T15:42:59.285082+00:00",
-      "last_seen": "2026-09-22T10:51:10.335771+00:00",
+      "last_seen": "2026-09-22T16:09:17.646471+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18848,7 +18848,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-18T15:42:59.285299+00:00",
-      "last_seen": "2026-09-22T10:51:10.335942+00:00",
+      "last_seen": "2026-09-22T16:09:17.646619+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18875,7 +18875,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-18T15:42:59.285445+00:00",
-      "last_seen": "2026-09-22T10:51:10.336093+00:00",
+      "last_seen": "2026-09-22T16:09:17.646756+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18902,7 +18902,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-18T20:18:42.400763+00:00",
-      "last_seen": "2026-09-22T10:51:10.335495+00:00",
+      "last_seen": "2026-09-22T16:09:17.646218+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18929,7 +18929,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-20T03:04:27.959910+00:00",
-      "last_seen": "2026-09-22T10:51:10.335338+00:00",
+      "last_seen": "2026-09-22T16:09:17.646071+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -18956,7 +18956,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-21T11:49:48.988560+00:00",
-      "last_seen": "2026-09-22T10:51:10.335043+00:00",
+      "last_seen": "2026-09-22T16:09:17.645798+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19010,7 +19010,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-21T17:44:53.460951+00:00",
-      "last_seen": "2026-09-22T10:51:10.334539+00:00",
+      "last_seen": "2026-09-22T16:09:17.645322+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19037,7 +19037,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-21T17:44:53.461978+00:00",
-      "last_seen": "2026-09-22T10:51:10.334684+00:00",
+      "last_seen": "2026-09-22T16:09:17.645462+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19064,7 +19064,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-21T17:44:53.462175+00:00",
-      "last_seen": "2026-09-22T10:51:10.334882+00:00",
+      "last_seen": "2026-09-22T16:09:17.645649+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19091,7 +19091,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-22T03:01:06.893252+00:00",
-      "last_seen": "2026-09-22T10:51:10.334206+00:00",
+      "last_seen": "2026-09-22T16:09:17.645008+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19118,7 +19118,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-22T03:01:06.893864+00:00",
-      "last_seen": "2026-09-22T10:51:10.334340+00:00",
+      "last_seen": "2026-09-22T16:09:17.645125+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19145,7 +19145,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-22T10:51:10.332472+00:00",
-      "last_seen": "2026-09-22T10:51:10.332472+00:00",
+      "last_seen": "2026-09-22T16:09:17.644268+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19172,7 +19172,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-22T10:51:10.333530+00:00",
-      "last_seen": "2026-09-22T10:51:10.333530+00:00",
+      "last_seen": "2026-09-22T16:09:17.644448+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19199,7 +19199,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-22T10:51:10.333752+00:00",
-      "last_seen": "2026-09-22T10:51:10.333752+00:00",
+      "last_seen": "2026-09-22T16:09:17.644657+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19226,7 +19226,34 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-22T10:51:10.333965+00:00",
-      "last_seen": "2026-09-22T10:51:10.333965+00:00",
+      "last_seen": "2026-09-22T16:09:17.644797+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c4a052b6d3bfd77f",
+      "title": "Joint Statement on UK-Philippines Joint Economic and Trade Committee",
+      "url": "https://www.gov.uk/government/news/joint-statement-on-uk-philippines-joint-economic-and-trade-committee",
+      "start_date": "2026-09-22T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A Joint Statement between the United Kingdom and the Philippines concluding the second Joint Economic and Trade Committee Ministerial Meeting.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-22T16:09:17.643379+00:00",
+      "last_seen": "2026-09-22T16:09:17.643379+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
