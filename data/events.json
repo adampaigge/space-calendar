@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T11:49:20.143113+00:00",
-  "total_sources": 744,
+  "updated_at": "2026-09-30T17:29:54.303622+00:00",
+  "total_sources": 750,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -19631,7 +19631,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-24T16:22:44.899033+00:00",
-      "last_seen": "2026-09-30T11:49:20.052845+00:00",
+      "last_seen": "2026-09-30T17:29:54.241586+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19685,7 +19685,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-24T16:22:44.900130+00:00",
-      "last_seen": "2026-09-30T11:49:20.053115+00:00",
+      "last_seen": "2026-09-30T17:29:54.241858+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19793,7 +19793,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-24T21:04:27.814077+00:00",
-      "last_seen": "2026-09-30T11:49:20.052746+00:00",
+      "last_seen": "2026-09-30T17:29:54.241487+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19820,7 +19820,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-24T21:04:27.815365+00:00",
-      "last_seen": "2026-09-30T11:49:20.052970+00:00",
+      "last_seen": "2026-09-30T17:29:54.241711+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19847,7 +19847,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-25T03:08:41.109047+00:00",
-      "last_seen": "2026-09-30T11:49:20.052624+00:00",
+      "last_seen": "2026-09-30T17:29:54.241362+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19874,7 +19874,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-25T11:00:40.266463+00:00",
-      "last_seen": "2026-09-30T11:49:20.052536+00:00",
+      "last_seen": "2026-09-30T17:29:54.241274+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19901,7 +19901,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-25T16:23:21.719479+00:00",
-      "last_seen": "2026-09-30T11:49:20.052448+00:00",
+      "last_seen": "2026-09-30T17:29:54.241184+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19928,7 +19928,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-25T21:01:47.521492+00:00",
-      "last_seen": "2026-09-30T11:49:20.052359+00:00",
+      "last_seen": "2026-09-30T17:29:54.241079+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19955,7 +19955,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-26T03:12:45.510270+00:00",
-      "last_seen": "2026-09-30T11:49:20.052262+00:00",
+      "last_seen": "2026-09-30T17:29:54.240991+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -19982,7 +19982,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-28T12:44:34.489802+00:00",
-      "last_seen": "2026-09-30T11:49:20.052182+00:00",
+      "last_seen": "2026-09-30T17:29:54.240912+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -20009,7 +20009,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-28T22:53:08.535304+00:00",
-      "last_seen": "2026-09-30T11:49:20.052007+00:00",
+      "last_seen": "2026-09-30T17:29:54.240745+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -20036,7 +20036,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-28T22:53:08.536491+00:00",
-      "last_seen": "2026-09-30T11:49:20.052095+00:00",
+      "last_seen": "2026-09-30T17:29:54.240827+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -20063,7 +20063,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-30T11:49:20.051328+00:00",
-      "last_seen": "2026-09-30T11:49:20.051328+00:00",
+      "last_seen": "2026-09-30T17:29:54.240575+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -20090,7 +20090,169 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-09-30T11:49:20.051910+00:00",
-      "last_seen": "2026-09-30T11:49:20.051910+00:00",
+      "last_seen": "2026-09-30T17:29:54.240666+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bde736f58519ac5f",
+      "title": "Security Minister's speech at the International Security Expo",
+      "url": "https://www.gov.uk/government/speeches/security-ministers-speech-at-the-international-security-expo",
+      "start_date": "2026-09-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Security Minister Dan Jarvis' speech for the annual International Security Expo on 30 September 2026.",
+      "organiser": null,
+      "tags": [
+        "exhibition"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-30T17:29:54.239584+00:00",
+      "last_seen": "2026-09-30T17:29:54.239584+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "007f33ff4e7187ac",
+      "title": "Life on Mars? - ExoMars Programme",
+      "url": "https://www.gov.uk/government/case-studies/exomars",
+      "start_date": "2026-09-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Can we find life on Mars? Meet the Rosalind Franklin Rover",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-30T17:29:54.240100+00:00",
+      "last_seen": "2026-09-30T17:29:54.240100+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1671c1198c82c3ea",
+      "title": "Edition 7: Making Tax Digital for Income Tax \u2014 software developer newsletter",
+      "url": "https://www.gov.uk/government/publications/edition-7-making-tax-digital-for-income-tax-software-developer-newsletter",
+      "start_date": "2026-09-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "HMRC's newsletter for software developers for Making Tax Digital for Income Tax.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-30T17:29:54.240205+00:00",
+      "last_seen": "2026-09-30T17:29:54.240205+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "542b23f82a6ba6a4",
+      "title": "CNC attends Europe\u2019s top Emergency Services Show",
+      "url": "https://www.gov.uk/government/news/cnc-attends-europes-top-emergency-services-show",
+      "start_date": "2026-09-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "CNC officers and staff attended the Emergency Services Show, engaging thousands of visitors to showcase the AFO role, raise awareness and inspire recruits.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-30T17:29:54.240303+00:00",
+      "last_seen": "2026-09-30T17:29:54.240303+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a8875e10afc94f9d",
+      "title": "DfE Update: 30 September 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-30-september-2026",
+      "start_date": "2026-09-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-30T17:29:54.240402+00:00",
+      "last_seen": "2026-09-30T17:29:54.240402+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6710d51b613fe403",
+      "title": "\u00a316m legal lifeline for families facing eviction and hardship",
+      "url": "https://www.gov.uk/government/news/16m-legal-lifeline-for-families-facing-eviction-and-hardship",
+      "start_date": "2026-09-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Families facing debt, housing or welfare disputes will get earlier access to free legal support through a new \u00a316 million Government fund.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-09-30T17:29:54.240490+00:00",
+      "last_seen": "2026-09-30T17:29:54.240490+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
