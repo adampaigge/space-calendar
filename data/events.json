@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T12:28:49.992152+00:00",
-  "total_sources": 793,
+  "updated_at": "2026-10-09T22:09:58.238430+00:00",
+  "total_sources": 799,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -21062,7 +21062,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T12:42:00.465073+00:00",
-      "last_seen": "2026-10-09T12:28:49.878678+00:00",
+      "last_seen": "2026-10-09T22:09:58.046310+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21089,7 +21089,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T12:42:00.465819+00:00",
-      "last_seen": "2026-10-09T12:28:49.878756+00:00",
+      "last_seen": "2026-10-09T22:09:58.046413+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21116,7 +21116,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T12:42:00.466014+00:00",
-      "last_seen": "2026-10-09T12:28:49.878845+00:00",
+      "last_seen": "2026-10-09T22:09:58.046532+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21143,7 +21143,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T22:46:56.890153+00:00",
-      "last_seen": "2026-10-09T12:28:49.878561+00:00",
+      "last_seen": "2026-10-09T22:09:58.046126+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21170,7 +21170,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T22:46:56.891174+00:00",
-      "last_seen": "2026-10-09T12:28:49.878617+00:00",
+      "last_seen": "2026-10-09T22:09:58.046225+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21197,7 +21197,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T04:17:11.976159+00:00",
-      "last_seen": "2026-10-09T12:28:49.878482+00:00",
+      "last_seen": "2026-10-09T22:09:58.046005+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21224,7 +21224,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.877230+00:00",
-      "last_seen": "2026-10-09T12:28:49.877230+00:00",
+      "last_seen": "2026-10-09T22:09:58.044943+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21251,7 +21251,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.877718+00:00",
-      "last_seen": "2026-10-09T12:28:49.877718+00:00",
+      "last_seen": "2026-10-09T22:09:58.045038+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21278,7 +21278,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.877805+00:00",
-      "last_seen": "2026-10-09T12:28:49.877805+00:00",
+      "last_seen": "2026-10-09T22:09:58.045139+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21305,7 +21305,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.877899+00:00",
-      "last_seen": "2026-10-09T12:28:49.877899+00:00",
+      "last_seen": "2026-10-09T22:09:58.045263+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21332,7 +21332,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.878026+00:00",
-      "last_seen": "2026-10-09T12:28:49.878026+00:00",
+      "last_seen": "2026-10-09T22:09:58.045417+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21359,7 +21359,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.878169+00:00",
-      "last_seen": "2026-10-09T12:28:49.878169+00:00",
+      "last_seen": "2026-10-09T22:09:58.045605+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21386,7 +21386,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.878271+00:00",
-      "last_seen": "2026-10-09T12:28:49.878271+00:00",
+      "last_seen": "2026-10-09T22:09:58.045722+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21413,7 +21413,169 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.878382+00:00",
-      "last_seen": "2026-10-09T12:28:49.878382+00:00",
+      "last_seen": "2026-10-09T22:09:58.045870+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "dd759c5e93fc0133",
+      "title": "Statement from the Secretary of State for Northern Ireland on Drumcree Parade",
+      "url": "https://www.gov.uk/government/news/statement-from-the-secretary-of-state-for-northern-ireland-on-drumcree-parade",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Secretary of State has now considered the Section 9 request from the Chief Constable of the PSNI and has reviewed the determination. He has now made an order under Section 11.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T22:09:58.043515+00:00",
+      "last_seen": "2026-10-09T22:09:58.043515+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "bbf1194ef7901d7f",
+      "title": "Prime Minister to hand regions innovation funding to build world-leading industries",
+      "url": "https://www.gov.uk/government/news/prime-minister-to-hand-regions-innovation-funding-to-build-world-leading-industries",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Local leaders will be handed dedicated research and development (R&D) funding for the first time under plans unveiled by the Prime Minister today to spread opportunity, investment, and growth to every part of the country.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T22:09:58.044266+00:00",
+      "last_seen": "2026-10-09T22:09:58.044266+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a056d49d7c7ff4af",
+      "title": "PM speech at the Innovation Nation Summit: 9 October 2026",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-at-the-innovation-nation-summit-9-october-2026",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Prime Minister Andy Burnham delivered a speech at the Innovation Nation Summit this morning.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T22:09:58.044493+00:00",
+      "last_seen": "2026-10-09T22:09:58.044493+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "10021331bfe7c624",
+      "title": "Minister McGovern speech on mental health, ADHD and autism",
+      "url": "https://www.gov.uk/government/speeches/minister-mcgovern-speech-on-mental-health-adhd-and-autism",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Minister for Social Care and Mental Health, Alison McGovern, delivered a speech at the Fonagy Review launcheventhosted by Rethink Mental Illness",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T22:09:58.044613+00:00",
+      "last_seen": "2026-10-09T22:09:58.044613+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1e8dd8d189ea4fca",
+      "title": "The inaugural Fair Work Assembly welcomes over 100 delegates",
+      "url": "https://www.gov.uk/government/news/the-inaugural-fair-work-assembly-welcomes-over-100-delegates",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Earlier this week delegates gathered in Birmingham for the first Fair Work Assembly for a day of discussion and collaboration.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T22:09:58.044731+00:00",
+      "last_seen": "2026-10-09T22:09:58.044731+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2c40421b10ac5c66",
+      "title": "Young people's role in incidents to be celebrated in Somerset",
+      "url": "https://www.gov.uk/government/news/young-peoples-role-in-incidents-to-be-celebrated-in-somerset",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u2026Expect a youth focus at the county's annual resilienceeventon 21 October.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T22:09:58.044841+00:00",
+      "last_seen": "2026-10-09T22:09:58.044841+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
