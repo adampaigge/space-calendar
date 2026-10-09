@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T04:17:12.128918+00:00",
-  "total_sources": 785,
+  "updated_at": "2026-10-09T12:28:49.992152+00:00",
+  "total_sources": 793,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -20873,7 +20873,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-07T12:32:19.475100+00:00",
-      "last_seen": "2026-10-09T04:17:11.978306+00:00",
+      "last_seen": "2026-10-09T12:28:49.879171+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -20900,7 +20900,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-07T12:32:19.475998+00:00",
-      "last_seen": "2026-10-09T04:17:11.978449+00:00",
+      "last_seen": "2026-10-09T12:28:49.879261+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -20927,7 +20927,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-07T12:32:19.476180+00:00",
-      "last_seen": "2026-10-09T04:17:11.978596+00:00",
+      "last_seen": "2026-10-09T12:28:49.879346+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -20981,7 +20981,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-07T22:34:51.102639+00:00",
-      "last_seen": "2026-10-09T04:17:11.978158+00:00",
+      "last_seen": "2026-10-09T12:28:49.879092+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21008,7 +21008,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T04:12:23.092221+00:00",
-      "last_seen": "2026-10-09T04:17:11.977821+00:00",
+      "last_seen": "2026-10-09T12:28:49.878927+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21035,7 +21035,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T04:12:23.093277+00:00",
-      "last_seen": "2026-10-09T04:17:11.977952+00:00",
+      "last_seen": "2026-10-09T12:28:49.879001+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21062,7 +21062,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T12:42:00.465073+00:00",
-      "last_seen": "2026-10-09T04:17:11.977373+00:00",
+      "last_seen": "2026-10-09T12:28:49.878678+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21089,7 +21089,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T12:42:00.465819+00:00",
-      "last_seen": "2026-10-09T04:17:11.977515+00:00",
+      "last_seen": "2026-10-09T12:28:49.878756+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21116,7 +21116,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T12:42:00.466014+00:00",
-      "last_seen": "2026-10-09T04:17:11.977674+00:00",
+      "last_seen": "2026-10-09T12:28:49.878845+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21143,7 +21143,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T22:46:56.890153+00:00",
-      "last_seen": "2026-10-09T04:17:11.977120+00:00",
+      "last_seen": "2026-10-09T12:28:49.878561+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21170,7 +21170,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-08T22:46:56.891174+00:00",
-      "last_seen": "2026-10-09T04:17:11.977254+00:00",
+      "last_seen": "2026-10-09T12:28:49.878617+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21197,7 +21197,223 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T04:17:11.976159+00:00",
-      "last_seen": "2026-10-09T04:17:11.976159+00:00",
+      "last_seen": "2026-10-09T12:28:49.878482+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "87cdab6b71edb8ea",
+      "title": "Kent prison to gain nearly 250 extra places",
+      "url": "https://www.gov.uk/government/news/kent-prison-to-gain-nearly-250-extra-places",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Kent prison to gain nearly 250 extra places as part of largest prison expansion since Victorian era",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T12:28:49.877230+00:00",
+      "last_seen": "2026-10-09T12:28:49.877230+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "64eaa979946ae3db",
+      "title": "Environment Agency declares drought status in Yorkshire",
+      "url": "https://www.gov.uk/government/news/environment-agency-declares-drought-status-in-yorkshire",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Drought announced due to low water levels in reservoirs and rivers in many parts of Yorkshire despite recent rainfall.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T12:28:49.877718+00:00",
+      "last_seen": "2026-10-09T12:28:49.877718+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e502445adc9659c5",
+      "title": "Brits to benefit from faster recovery from surgeries and better harvests through new backing for robotics",
+      "url": "https://www.gov.uk/government/news/brits-to-benefit-from-faster-recovery-from-surgeries-and-better-harvests-through-new-backing-for-robotics",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Hubs across the country will give businesses and public services the support they need to adopt cutting-edge robotics technology",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T12:28:49.877805+00:00",
+      "last_seen": "2026-10-09T12:28:49.877805+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2ac434ffacd0651d",
+      "title": "Keep Britain Working review update: a national growth opportunity, September 2026",
+      "url": "https://www.gov.uk/government/publications/keep-britain-working-review-update-a-national-growth-opportunity-september-2026",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "September 2026 update on implementing the independent review of employers' role in tackling health based economic inactivity and promoting healthy and inclusive workplaces to change outcomes, improve lives and drive grow\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T12:28:49.877899+00:00",
+      "last_seen": "2026-10-09T12:28:49.877899+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b95a53fbc5843e06",
+      "title": "MHRA Chair Professor Anthony Harnden: Bringing our strategy to life \u2013 listening, learning, and looking ahead",
+      "url": "https://www.gov.uk/government/news/mhra-chair-professor-anthony-harnden-bringing-our-strategy-to-life-listening-learning-and-looking-ahead",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "In the final instalment of our strategy blog series, MHRA Chair Professor Anthony Harnden reflects on the insights shared throughout the series and how innovation and collaboration across the UK are shaping the future of hea\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T12:28:49.878026+00:00",
+      "last_seen": "2026-10-09T12:28:49.878026+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "557fbfc37920685e",
+      "title": "UK-Japan science and technology Joint Committee: joint statement",
+      "url": "https://www.gov.uk/government/news/uk-japan-science-and-technology-joint-committee-joint-statement",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The 13th Meeting of the United Kingdom - Japan Joint Committee (JCM) on Cooperation in Science and Technology was held in Tokyo on 9 October 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T12:28:49.878169+00:00",
+      "last_seen": "2026-10-09T12:28:49.878169+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "66f629ee39f681fb",
+      "title": "Minister for International Development and Africa speech at the Institute of International and European Affairs, Dublin",
+      "url": "https://www.gov.uk/government/speeches/minister-for-international-development-and-africa-speech-at-the-institute-of-international-and-european-affairs-dublin",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "As part of her attendance at the EU Foreign Affairs Council on Development in Dublin, Minister Kirsty McNeill gave the following speech at the Institute of International and European Affairs.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T12:28:49.878271+00:00",
+      "last_seen": "2026-10-09T12:28:49.878271+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c970c9fed2a047d2",
+      "title": "Hull and East Yorkshire join forces with Homes England to unlock homes, regeneration and investment",
+      "url": "https://www.gov.uk/government/news/hull-and-east-yorkshire-join-forces-with-homes-england-to-unlock-homes-regeneration-and-investment",
+      "start_date": "2026-10-09T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "New Strategic Place Partnership will bring local priorities, national expertise and a shared pipeline of sites together to speed up housing and regeneration across the region",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-09T12:28:49.878382+00:00",
+      "last_seen": "2026-10-09T12:28:49.878382+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
