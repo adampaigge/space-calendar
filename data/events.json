@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T14:16:11.833147+00:00",
-  "total_sources": 804,
+  "updated_at": "2026-10-13T00:05:18.256492+00:00",
+  "total_sources": 808,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -21224,7 +21224,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.877230+00:00",
-      "last_seen": "2026-10-12T14:16:11.559006+00:00",
+      "last_seen": "2026-10-13T00:05:18.083584+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21251,7 +21251,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.877718+00:00",
-      "last_seen": "2026-10-12T14:16:11.559122+00:00",
+      "last_seen": "2026-10-13T00:05:18.083674+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21278,7 +21278,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.877805+00:00",
-      "last_seen": "2026-10-12T14:16:11.559247+00:00",
+      "last_seen": "2026-10-13T00:05:18.083771+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21305,7 +21305,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.877899+00:00",
-      "last_seen": "2026-10-12T14:16:11.559400+00:00",
+      "last_seen": "2026-10-13T00:05:18.083907+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21332,7 +21332,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T12:28:49.878026+00:00",
-      "last_seen": "2026-10-12T14:16:11.559623+00:00",
+      "last_seen": "2026-10-13T00:05:18.084065+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21440,7 +21440,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T22:09:58.043515+00:00",
-      "last_seen": "2026-10-12T14:16:11.558107+00:00",
+      "last_seen": "2026-10-13T00:05:18.082902+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21467,7 +21467,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T22:09:58.044266+00:00",
-      "last_seen": "2026-10-12T14:16:11.558282+00:00",
+      "last_seen": "2026-10-13T00:05:18.083033+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21494,7 +21494,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T22:09:58.044493+00:00",
-      "last_seen": "2026-10-12T14:16:11.558470+00:00",
+      "last_seen": "2026-10-13T00:05:18.083179+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21521,7 +21521,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T22:09:58.044613+00:00",
-      "last_seen": "2026-10-12T14:16:11.558606+00:00",
+      "last_seen": "2026-10-13T00:05:18.083275+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21548,7 +21548,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T22:09:58.044731+00:00",
-      "last_seen": "2026-10-12T14:16:11.558748+00:00",
+      "last_seen": "2026-10-13T00:05:18.083386+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21575,7 +21575,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-09T22:09:58.044841+00:00",
-      "last_seen": "2026-10-12T14:16:11.558881+00:00",
+      "last_seen": "2026-10-13T00:05:18.083489+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21602,7 +21602,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-11T21:24:58.854613+00:00",
-      "last_seen": "2026-10-12T14:16:11.557947+00:00",
+      "last_seen": "2026-10-13T00:05:18.082768+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21629,7 +21629,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-12T04:02:04.623374+00:00",
-      "last_seen": "2026-10-12T14:16:11.557757+00:00",
+      "last_seen": "2026-10-13T00:05:18.082624+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21656,7 +21656,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-12T14:16:11.556573+00:00",
-      "last_seen": "2026-10-12T14:16:11.556573+00:00",
+      "last_seen": "2026-10-13T00:05:18.082303+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21683,7 +21683,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-12T14:16:11.557428+00:00",
-      "last_seen": "2026-10-12T14:16:11.557428+00:00",
+      "last_seen": "2026-10-13T00:05:18.082406+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -21710,7 +21710,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-12T14:16:11.557607+00:00",
-      "last_seen": "2026-10-12T14:16:11.557607+00:00",
+      "last_seen": "2026-10-13T00:05:18.082516+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "514e168364889a65",
+      "title": "Root-and-branch review of security for those in public life",
+      "url": "https://www.gov.uk/government/news/root-and-branch-review-of-security-for-those-in-public-life",
+      "start_date": "2026-10-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Home Secretary has expanded dedicated police support and launched a review into protective security for those in public life.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-13T00:05:18.081318+00:00",
+      "last_seen": "2026-10-13T00:05:18.081318+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c3d852b2c7bee7bb",
+      "title": "Home Secretary Oral Statement on National Security",
+      "url": "https://www.gov.uk/government/speeches/home-secretary-oral-statement-on-national-security",
+      "start_date": "2026-10-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Home Secretary delivered an oral statement on government action to tackle national security threats and improve our protective security system.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-13T00:05:18.082000+00:00",
+      "last_seen": "2026-10-13T00:05:18.082000+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b211fc21c3d34851",
+      "title": "PM statement to the House of Commons: 12 October 2026",
+      "url": "https://www.gov.uk/government/speeches/pm-statement-to-the-house-of-commons-12-october-2026",
+      "start_date": "2026-10-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Prime Minister Andy Burnham's statement to the House of Commons.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-13T00:05:18.082125+00:00",
+      "last_seen": "2026-10-13T00:05:18.082125+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "02c62a7cffbdcb39",
+      "title": "Joint Statement on Iran, 12 October",
+      "url": "https://www.gov.uk/government/news/joint-statement-on-iran-12-october",
+      "start_date": "2026-10-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Joint Statement from Foreign Ministers regarding RAF Fairford and Iran State Threats.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-13T00:05:18.082217+00:00",
+      "last_seen": "2026-10-13T00:05:18.082217+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
