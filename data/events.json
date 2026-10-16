@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-16T02:53:39.278254+00:00",
-  "total_sources": 836,
+  "updated_at": "2026-10-16T10:34:23.407257+00:00",
+  "total_sources": 839,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -22088,7 +22088,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-14T21:14:43.503930+00:00",
-      "last_seen": "2026-10-16T02:53:38.926877+00:00",
+      "last_seen": "2026-10-16T10:34:23.094436+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22115,7 +22115,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-14T21:14:43.504456+00:00",
-      "last_seen": "2026-10-16T02:53:38.927031+00:00",
+      "last_seen": "2026-10-16T10:34:23.094594+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22142,7 +22142,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-14T21:14:43.504555+00:00",
-      "last_seen": "2026-10-16T02:53:38.927180+00:00",
+      "last_seen": "2026-10-16T10:34:23.094749+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22223,7 +22223,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T02:56:05.921029+00:00",
-      "last_seen": "2026-10-16T02:53:38.926498+00:00",
+      "last_seen": "2026-10-16T10:34:23.094036+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22250,7 +22250,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T02:56:05.922029+00:00",
-      "last_seen": "2026-10-16T02:53:38.926668+00:00",
+      "last_seen": "2026-10-16T10:34:23.094236+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22277,7 +22277,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T10:46:36.147458+00:00",
-      "last_seen": "2026-10-16T02:53:38.925646+00:00",
+      "last_seen": "2026-10-16T10:34:23.093218+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22304,7 +22304,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T10:46:36.148155+00:00",
-      "last_seen": "2026-10-16T02:53:38.925763+00:00",
+      "last_seen": "2026-10-16T10:34:23.093347+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22331,7 +22331,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T10:46:36.148395+00:00",
-      "last_seen": "2026-10-16T02:53:38.925978+00:00",
+      "last_seen": "2026-10-16T10:34:23.093512+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22358,7 +22358,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T10:46:36.148605+00:00",
-      "last_seen": "2026-10-16T02:53:38.926209+00:00",
+      "last_seen": "2026-10-16T10:34:23.093738+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22385,7 +22385,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T10:46:36.148733+00:00",
-      "last_seen": "2026-10-16T02:53:38.926351+00:00",
+      "last_seen": "2026-10-16T10:34:23.093883+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22412,7 +22412,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.305750+00:00",
-      "last_seen": "2026-10-16T02:53:38.924617+00:00",
+      "last_seen": "2026-10-16T10:34:23.092175+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22439,7 +22439,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306430+00:00",
-      "last_seen": "2026-10-16T02:53:38.924808+00:00",
+      "last_seen": "2026-10-16T10:34:23.092360+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22466,7 +22466,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306625+00:00",
-      "last_seen": "2026-10-16T02:53:38.925028+00:00",
+      "last_seen": "2026-10-16T10:34:23.092550+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22493,7 +22493,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306735+00:00",
-      "last_seen": "2026-10-16T02:53:38.925178+00:00",
+      "last_seen": "2026-10-16T10:34:23.092698+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22520,7 +22520,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306837+00:00",
-      "last_seen": "2026-10-16T02:53:38.925317+00:00",
+      "last_seen": "2026-10-16T10:34:23.092841+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22547,7 +22547,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306947+00:00",
-      "last_seen": "2026-10-16T02:53:38.925465+00:00",
+      "last_seen": "2026-10-16T10:34:23.092996+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22574,7 +22574,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T20:52:33.468049+00:00",
-      "last_seen": "2026-10-16T02:53:38.923545+00:00",
+      "last_seen": "2026-10-16T10:34:23.091930+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e7bda6e1b701a274",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-latest-decisions",
+      "start_date": "2026-10-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-16T10:34:23.090568+00:00",
+      "last_seen": "2026-10-16T10:34:23.090568+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "88e3e205a2fc140e",
+      "title": "UK and Germany strengthen defence ties in London talks",
+      "url": "https://www.gov.uk/government/news/uk-and-germany-strengthen-defence-ties-in-london-talks",
+      "start_date": "2026-10-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UK and Germany deepen defence-industrial cooperation at Lancaster House talks, building on the Trinity House Agreement and Kensington Treaty.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-16T10:34:23.091586+00:00",
+      "last_seen": "2026-10-16T10:34:23.091586+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "079718acf2733518",
+      "title": "Sellafield\u2019s Calder Hall turns 70 as decommissioning gathers pace",
+      "url": "https://www.gov.uk/government/news/sellafields-calder-hall-turns-70-as-decommissioning-gathers-pace",
+      "start_date": "2026-10-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u2026Decommissioning of the facility progresses, creatingspacefor Sellafield\u2019s future mission.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-16T10:34:23.091764+00:00",
+      "last_seen": "2026-10-16T10:34:23.091764+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
