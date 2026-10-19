@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T02:59:40.257011+00:00",
-  "total_sources": 843,
+  "updated_at": "2026-10-19T11:56:34.667932+00:00",
+  "total_sources": 847,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -22277,7 +22277,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T10:46:36.147458+00:00",
-      "last_seen": "2026-10-19T02:59:39.970028+00:00",
+      "last_seen": "2026-10-19T11:56:34.466314+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22304,7 +22304,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T10:46:36.148155+00:00",
-      "last_seen": "2026-10-19T02:59:39.970142+00:00",
+      "last_seen": "2026-10-19T11:56:34.466418+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22412,7 +22412,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.305750+00:00",
-      "last_seen": "2026-10-19T02:59:39.969049+00:00",
+      "last_seen": "2026-10-19T11:56:34.465426+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22439,7 +22439,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306430+00:00",
-      "last_seen": "2026-10-19T02:59:39.969216+00:00",
+      "last_seen": "2026-10-19T11:56:34.465597+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22466,7 +22466,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306625+00:00",
-      "last_seen": "2026-10-19T02:59:39.969400+00:00",
+      "last_seen": "2026-10-19T11:56:34.465763+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22493,7 +22493,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306735+00:00",
-      "last_seen": "2026-10-19T02:59:39.969541+00:00",
+      "last_seen": "2026-10-19T11:56:34.465892+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22520,7 +22520,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306837+00:00",
-      "last_seen": "2026-10-19T02:59:39.969675+00:00",
+      "last_seen": "2026-10-19T11:56:34.466015+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22547,7 +22547,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T16:12:01.306947+00:00",
-      "last_seen": "2026-10-19T02:59:39.969845+00:00",
+      "last_seen": "2026-10-19T11:56:34.466150+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22574,7 +22574,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-15T20:52:33.468049+00:00",
-      "last_seen": "2026-10-19T02:59:39.968839+00:00",
+      "last_seen": "2026-10-19T11:56:34.465231+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22601,7 +22601,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-16T10:34:23.090568+00:00",
-      "last_seen": "2026-10-19T02:59:39.968402+00:00",
+      "last_seen": "2026-10-19T11:56:34.464879+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22628,7 +22628,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-16T10:34:23.091586+00:00",
-      "last_seen": "2026-10-19T02:59:39.968513+00:00",
+      "last_seen": "2026-10-19T11:56:34.464974+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22655,7 +22655,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-16T10:34:23.091764+00:00",
-      "last_seen": "2026-10-19T02:59:39.968661+00:00",
+      "last_seen": "2026-10-19T11:56:34.465106+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22682,7 +22682,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-16T15:59:04.099911+00:00",
-      "last_seen": "2026-10-19T02:59:39.968037+00:00",
+      "last_seen": "2026-10-19T11:56:34.464576+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22709,7 +22709,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-16T15:59:04.100654+00:00",
-      "last_seen": "2026-10-19T02:59:39.968251+00:00",
+      "last_seen": "2026-10-19T11:56:34.464748+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22736,7 +22736,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-16T20:26:32.054511+00:00",
-      "last_seen": "2026-10-19T02:59:39.967902+00:00",
+      "last_seen": "2026-10-19T11:56:34.464466+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22763,7 +22763,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-19T02:59:39.966841+00:00",
-      "last_seen": "2026-10-19T02:59:39.966841+00:00",
+      "last_seen": "2026-10-19T11:56:34.464321+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "1a239f4b27f4b50c",
+      "title": "Liverpool City Region agencies fight back against waste crime",
+      "url": "https://www.gov.uk/government/news/liverpool-city-region-agencies-fight-back-against-waste-crime",
+      "start_date": "2026-10-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The first ever waste crime summit to bring partners together in Liverpool City Region was held in Widnes.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-19T11:56:34.462929+00:00",
+      "last_seen": "2026-10-19T11:56:34.462929+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d71e2954999683e7",
+      "title": "Military Engineering Showcase highlights UK defence innovation",
+      "url": "https://www.gov.uk/government/news/military-engineering-showcase-highlights-uk-defence-innovation",
+      "start_date": "2026-10-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Over 60 UK companies joined partners from over 20 nations to showcase military engineering solutions, strengthen collaboration and support UK defence exports.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-19T11:56:34.463790+00:00",
+      "last_seen": "2026-10-19T11:56:34.463790+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "eb1289c57bf375de",
+      "title": "Families of missing Brits abroad to benefit from new support as government partners with charity Missing People",
+      "url": "https://www.gov.uk/government/news/families-of-missing-brits-abroad-to-benefit-from-new-support-as-government-partners-with-charity-missing-people",
+      "start_date": "2026-10-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The families of British people missing abroad are set to receive improved support, as a result of a new partnership between the UK Government and the charity Missing People.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-19T11:56:34.463981+00:00",
+      "last_seen": "2026-10-19T11:56:34.463981+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "548e14742039bbe6",
+      "title": "British High Commission in New Delhi celebrates the King\u2019s birthday",
+      "url": "https://www.gov.uk/government/news/british-high-commission-in-new-delhi-celebrates-the-kings-birthday",
+      "start_date": "2026-10-19T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The British High Commission hosted the King\u2019s Birthday Party, paying tribute to His Majesty King Charles III as the UK\u2019s Head of State.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-19T11:56:34.464160+00:00",
+      "last_seen": "2026-10-19T11:56:34.464160+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
