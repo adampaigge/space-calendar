@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T11:03:02.903983+00:00",
-  "total_sources": 855,
+  "updated_at": "2026-10-21T16:30:46.634613+00:00",
+  "total_sources": 862,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -22763,7 +22763,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-19T02:59:39.966841+00:00",
-      "last_seen": "2026-10-21T11:03:02.802547+00:00",
+      "last_seen": "2026-10-21T16:30:46.397007+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22790,7 +22790,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-19T11:56:34.462929+00:00",
-      "last_seen": "2026-10-21T11:03:02.802172+00:00",
+      "last_seen": "2026-10-21T16:30:46.396372+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22817,7 +22817,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-19T11:56:34.463790+00:00",
-      "last_seen": "2026-10-21T11:03:02.802244+00:00",
+      "last_seen": "2026-10-21T16:30:46.396494+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22844,7 +22844,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-19T11:56:34.463981+00:00",
-      "last_seen": "2026-10-21T11:03:02.802339+00:00",
+      "last_seen": "2026-10-21T16:30:46.396639+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22871,7 +22871,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-19T11:56:34.464160+00:00",
-      "last_seen": "2026-10-21T11:03:02.802445+00:00",
+      "last_seen": "2026-10-21T16:30:46.396816+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22898,7 +22898,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-19T18:19:58.560572+00:00",
-      "last_seen": "2026-10-21T11:03:02.802057+00:00",
+      "last_seen": "2026-10-21T16:30:46.396190+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22925,7 +22925,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-20T10:51:38.048534+00:00",
-      "last_seen": "2026-10-21T11:03:02.801807+00:00",
+      "last_seen": "2026-10-21T16:30:46.395746+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22952,7 +22952,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-20T10:51:38.049588+00:00",
-      "last_seen": "2026-10-21T11:03:02.801885+00:00",
+      "last_seen": "2026-10-21T16:30:46.395876+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -22979,7 +22979,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-20T10:51:38.049767+00:00",
-      "last_seen": "2026-10-21T11:03:02.801969+00:00",
+      "last_seen": "2026-10-21T16:30:46.396037+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -23006,7 +23006,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-20T16:15:49.095096+00:00",
-      "last_seen": "2026-10-21T11:03:02.801630+00:00",
+      "last_seen": "2026-10-21T16:30:46.395460+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -23033,7 +23033,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-20T16:15:49.095791+00:00",
-      "last_seen": "2026-10-21T11:03:02.801721+00:00",
+      "last_seen": "2026-10-21T16:30:46.395603+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -23060,7 +23060,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-21T11:03:02.801020+00:00",
-      "last_seen": "2026-10-21T11:03:02.801020+00:00",
+      "last_seen": "2026-10-21T16:30:46.395220+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -23087,7 +23087,197 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-21T11:03:02.801550+00:00",
-      "last_seen": "2026-10-21T11:03:02.801550+00:00",
+      "last_seen": "2026-10-21T16:30:46.395353+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8bcea3ea7c2cee45",
+      "title": "World-first taskforce to protect communities from climate change",
+      "url": "https://www.gov.uk/government/news/world-first-taskforce-to-protect-communities-from-climate-change",
+      "start_date": "2026-10-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Communities across the UK will be better protected against the growing threats of climate change and nature loss.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-21T16:30:46.393395+00:00",
+      "last_seen": "2026-10-21T16:30:46.393395+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "da8c5df10311a51e",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-announcements--2",
+      "start_date": "2026-10-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-21T16:30:46.394259+00:00",
+      "last_seen": "2026-10-21T16:30:46.394259+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ef9d6bf61add99d9",
+      "title": "\u201cGenerational moment\u201d as government acts on landmark antisemitism review",
+      "url": "https://www.gov.uk/government/news/generational-moment-as-government-acts-on-landmark-antisemitism-review",
+      "start_date": "2026-10-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "New training, guidance and practical resources will give teachers and leaders the confidence to identify, challenge and prevent antisemitism wherever it occurs.",
+      "organiser": null,
+      "tags": [
+        "workshop",
+        "hackathon"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-21T16:30:46.394380+00:00",
+      "last_seen": "2026-10-21T16:30:46.394380+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "cafc1a7cab8d4c22",
+      "title": "Major boost for young people in Telford as Youth Hub opens to support them towards work",
+      "url": "https://www.gov.uk/government/news/major-boost-for-young-people-in-telford-as-youth-hub-opens-to-support-them-towards-work",
+      "start_date": "2026-10-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Young people in Telford are set to benefit from expanded employment support through the area\u2019s first Youth Hub, as the government continues to deliver opportunity directly into the heart of the community.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-21T16:30:46.394562+00:00",
+      "last_seen": "2026-10-21T16:30:46.394562+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3fbde394e44fbf29",
+      "title": "\u00a316 billion productivity boost delivers better value and better services for taxpayers",
+      "url": "https://www.gov.uk/government/news/16-billion-productivity-boost-delivers-better-value-and-better-services-for-taxpayers",
+      "start_date": "2026-10-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u00a316 billion in efficiency and savings were delivered last year as government departments significantly outperformed their efficiency target.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-21T16:30:46.394766+00:00",
+      "last_seen": "2026-10-21T16:30:46.394766+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f6aed3c10c048cec",
+      "title": "DfE Update 21 October 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-21-october-2026",
+      "start_date": "2026-10-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-21T16:30:46.394924+00:00",
+      "last_seen": "2026-10-21T16:30:46.394924+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9ff64b2e70460f18",
+      "title": "Test, Learn and Grow: One-year-on",
+      "url": "https://www.gov.uk/government/news/test-learn-and-grow-one-year-on",
+      "start_date": "2026-10-21T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Local leaders supported to drive change in their communities and improve public services with the launch of a new playbook to support decentralisation.",
+      "organiser": null,
+      "tags": [
+        "launch"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-21T16:30:46.395086+00:00",
+      "last_seen": "2026-10-21T16:30:46.395086+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
