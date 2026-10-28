@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T12:00:49.415112+00:00",
-  "total_sources": 893,
+  "updated_at": "2026-10-28T18:17:13.208214+00:00",
+  "total_sources": 905,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -23925,7 +23925,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-27T03:28:19.891108+00:00",
-      "last_seen": "2026-10-28T12:00:49.295028+00:00",
+      "last_seen": "2026-10-28T18:17:12.999915+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -23952,7 +23952,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-27T11:30:37.541117+00:00",
-      "last_seen": "2026-10-28T12:00:49.294741+00:00",
+      "last_seen": "2026-10-28T18:17:12.999486+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -23979,7 +23979,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-27T11:30:37.542183+00:00",
-      "last_seen": "2026-10-28T12:00:49.294843+00:00",
+      "last_seen": "2026-10-28T18:17:12.999638+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24006,7 +24006,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-27T11:30:37.542362+00:00",
-      "last_seen": "2026-10-28T12:00:49.294938+00:00",
+      "last_seen": "2026-10-28T18:17:12.999776+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24033,7 +24033,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-27T17:20:21.263698+00:00",
-      "last_seen": "2026-10-28T12:00:49.294623+00:00",
+      "last_seen": "2026-10-28T18:17:12.999318+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24060,7 +24060,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-28T12:00:49.293852+00:00",
-      "last_seen": "2026-10-28T12:00:49.293852+00:00",
+      "last_seen": "2026-10-28T18:17:12.998880+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24087,7 +24087,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-28T12:00:49.294361+00:00",
-      "last_seen": "2026-10-28T12:00:49.294361+00:00",
+      "last_seen": "2026-10-28T18:17:12.999009+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24114,7 +24114,331 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-28T12:00:49.294490+00:00",
-      "last_seen": "2026-10-28T12:00:49.294490+00:00",
+      "last_seen": "2026-10-28T18:17:12.999129+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "31b014a788e2b9f8",
+      "title": "What the Autumn Budget 2026 means for your energy bills",
+      "url": "https://www.gov.uk/government/news/what-the-autumn-budget-2026-means-for-your-energy-bills",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Autumn Budget will create breathingspacefor families with the cost of living.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.996479+00:00",
+      "last_seen": "2026-10-28T18:17:12.996479+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "4744791d2a4e6543",
+      "title": "Leeds station set for biggest transformation in a generation as government backs city\u2019s growth with a \u00a3303 million upgrade",
+      "url": "https://www.gov.uk/government/news/leeds-station-set-for-biggest-transformation-in-a-generation-as-government-backs-citys-growth-with-a-303-million-upgrade",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Upgrades include the construction of a new central overbridge, 3 new entrances, nearly 40% more rail ticket barriers and increased lift capacity to make journeys quicker and easier.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.997328+00:00",
+      "last_seen": "2026-10-28T18:17:12.997328+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a3fb4fac6c3217ff",
+      "title": "Budget 2026 speech",
+      "url": "https://www.gov.uk/government/speeches/budget-2026-speech",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Budget 2026 speech as delivered by Chancellor John Healey.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.997572+00:00",
+      "last_seen": "2026-10-28T18:17:12.997572+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3660ee88de4f12bd",
+      "title": "Government and Rolls-Royce agree \u00a32.5bn to build jet engines in the UK and create tens of thousands of jobs",
+      "url": "https://www.gov.uk/government/news/government-and-rolls-royce-agree-25bn-to-build-jet-engines-in-the-uk-and-create-tens-of-thousands-of-jobs",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Government and Rolls-Royce have agreed a \u00a32.5 billion programme which could see jet engines built in the UK for decades and create tens of thousands of jobs.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.997667+00:00",
+      "last_seen": "2026-10-28T18:17:12.997667+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2ec9646680d6a13c",
+      "title": "Budget 2026 Fact Sheet: Delivering for Every Region",
+      "url": "https://www.gov.uk/government/news/budget-2026-fact-sheet-delivering-for-every-region",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A factsheet on local and regional growth measures in England.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.997842+00:00",
+      "last_seen": "2026-10-28T18:17:12.997842+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9074389d6974ff5d",
+      "title": "Breathing space for Scottish families and businesses at Budget",
+      "url": "https://www.gov.uk/government/news/breathing-space-for-scottish-families-and-businesses-at-budget",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Families and businesses in Scotland will get breathingspacefrom action announced in Budget 2026.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.997944+00:00",
+      "last_seen": "2026-10-28T18:17:12.997944+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "51206682637818c3",
+      "title": "Breathing space for Northern Ireland families and businesses",
+      "url": "https://www.gov.uk/government/news/breathing-space-for-northern-ireland-families-and-businesses",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Families and businesses in Northern Ireland will get breathingspacefrom Budget 2026.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.998072+00:00",
+      "last_seen": "2026-10-28T18:17:12.998072+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "dccb66228b3d3af6",
+      "title": "Breathing space for Welsh families and businesses at Budget 2026",
+      "url": "https://www.gov.uk/government/news/breathing-space-for-welsh-families-and-businesses-at-budget-2026",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Families and businesses in Wales will get breathingspacefrom action announced in Budget 2026.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.998191+00:00",
+      "last_seen": "2026-10-28T18:17:12.998191+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8b1186a83098b16a",
+      "title": "Cutting electric vehicle charging costs",
+      "url": "https://www.gov.uk/government/news/cutting-electric-vehicle-charging-costs",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The government will cut prices at local, lower-powered electric vehicle chargers across Britain, saving drivers who rely on them around \u00a3150 a year.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.998318+00:00",
+      "last_seen": "2026-10-28T18:17:12.998318+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ed20314683580e6d",
+      "title": "How we protected the UK and space in September 2026",
+      "url": "https://www.gov.uk/government/news/how-we-protected-the-uk-and-space-in-september-2026",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "This report was issued in October 2026 and covers the time period 1 September 2026 to 30 September 2026 inclusive.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.998450+00:00",
+      "last_seen": "2026-10-28T18:17:12.998450+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e6de2289d467e141",
+      "title": "Budget 2026: Breathing space for Welsh families and businesses",
+      "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-welsh-families-and-businesses",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Families and businesses in Wales will get breathingspaceas a result of action announced in Budget 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.998602+00:00",
+      "last_seen": "2026-10-28T18:17:12.998602+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "4110f59e301eeb02",
+      "title": "Budget 2026: Breathing space for today, hope for the future",
+      "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future",
+      "start_date": "2026-10-28T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Chancellor has unveiled a Budget that gives families and businesses breathingspacetoday, while delivering the big structural changes needed for the future.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-28T18:17:12.998725+00:00",
+      "last_seen": "2026-10-28T18:17:12.998725+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
