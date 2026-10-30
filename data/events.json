@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T12:02:11.659209+00:00",
-  "total_sources": 917,
+  "updated_at": "2026-10-30T21:54:04.678357+00:00",
+  "total_sources": 922,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -24141,7 +24141,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-28T18:17:12.996479+00:00",
-      "last_seen": "2026-10-30T12:02:11.432201+00:00",
+      "last_seen": "2026-10-30T21:54:04.493256+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24168,7 +24168,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-28T18:17:12.997328+00:00",
-      "last_seen": "2026-10-30T12:02:11.432351+00:00",
+      "last_seen": "2026-10-30T21:54:04.493351+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24195,7 +24195,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-28T18:17:12.997572+00:00",
-      "last_seen": "2026-10-30T12:02:11.432587+00:00",
+      "last_seen": "2026-10-30T21:54:04.493533+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24465,7 +24465,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T04:04:58.902196+00:00",
-      "last_seen": "2026-10-30T12:02:11.432029+00:00",
+      "last_seen": "2026-10-30T21:54:04.493122+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24492,7 +24492,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T12:10:49.916740+00:00",
-      "last_seen": "2026-10-30T12:02:11.431494+00:00",
+      "last_seen": "2026-10-30T21:54:04.492763+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24519,7 +24519,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T12:10:49.917804+00:00",
-      "last_seen": "2026-10-30T12:02:11.431737+00:00",
+      "last_seen": "2026-10-30T21:54:04.492883+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24546,7 +24546,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T12:10:49.918011+00:00",
-      "last_seen": "2026-10-30T12:02:11.431908+00:00",
+      "last_seen": "2026-10-30T21:54:04.493012+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24573,7 +24573,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T22:22:13.836964+00:00",
-      "last_seen": "2026-10-30T12:02:11.430624+00:00",
+      "last_seen": "2026-10-30T21:54:04.492173+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24600,7 +24600,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T22:22:13.837770+00:00",
-      "last_seen": "2026-10-30T12:02:11.430740+00:00",
+      "last_seen": "2026-10-30T21:54:04.492256+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24627,7 +24627,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T22:22:13.837998+00:00",
-      "last_seen": "2026-10-30T12:02:11.430927+00:00",
+      "last_seen": "2026-10-30T21:54:04.492401+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24654,7 +24654,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T22:22:13.838212+00:00",
-      "last_seen": "2026-10-30T12:02:11.431122+00:00",
+      "last_seen": "2026-10-30T21:54:04.492549+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24681,7 +24681,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-29T22:22:13.838363+00:00",
-      "last_seen": "2026-10-30T12:02:11.431324+00:00",
+      "last_seen": "2026-10-30T21:54:04.492671+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24708,7 +24708,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T04:05:48.339772+00:00",
-      "last_seen": "2026-10-30T12:02:11.430393+00:00",
+      "last_seen": "2026-10-30T21:54:04.491982+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24735,7 +24735,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T12:02:11.429329+00:00",
-      "last_seen": "2026-10-30T12:02:11.429329+00:00",
+      "last_seen": "2026-10-30T21:54:04.491736+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24762,7 +24762,142 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T12:02:11.430179+00:00",
-      "last_seen": "2026-10-30T12:02:11.430179+00:00",
+      "last_seen": "2026-10-30T21:54:04.491849+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "83b4ea15db94dedb",
+      "title": "Major undersea power cable given green light",
+      "url": "https://www.gov.uk/government/news/major-undersea-power-cable-given-green-light",
+      "start_date": "2026-10-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Government approves Sea Link, a major undersea power connection between Suffolk and Kent.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-30T21:54:04.490588+00:00",
+      "last_seen": "2026-10-30T21:54:04.490588+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "86522868d3faffa5",
+      "title": "Triheptanoin (Dojolvi) approved to treat adults and children with a group of rare inherited disorders",
+      "url": "https://www.gov.uk/government/news/triheptanoin-dojolvi-approved-to-treat-adults-and-children-with-a-group-of-rare-inherited-disorders",
+      "start_date": "2026-10-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "MHRA approves triheptanoin to treat adult and paediatric patients with a group of rare inherited disorders.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-30T21:54:04.491233+00:00",
+      "last_seen": "2026-10-30T21:54:04.491233+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f814ae9c171fb12d",
+      "title": "Government gives Northern Olympics and Paralympics hopes a chance",
+      "url": "https://www.gov.uk/government/news/government-gives-northern-olympics-and-paralympics-hopes-a-chance",
+      "start_date": "2026-10-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Northern Games could transform region, drive growth and benefit whole country",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-30T21:54:04.491360+00:00",
+      "last_seen": "2026-10-30T21:54:04.491360+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c4f80a0591566c60",
+      "title": "Edition 8: Making Tax Digital for Income Tax \u2014 software developer newsletter",
+      "url": "https://www.gov.uk/government/publications/edition-8-making-tax-digital-for-income-tax-software-developer-newsletter",
+      "start_date": "2026-10-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "HMRC's newsletter for software developers for Making Tax Digital for Income Tax.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-30T21:54:04.491453+00:00",
+      "last_seen": "2026-10-30T21:54:04.491453+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6692f889e6f83ba8",
+      "title": "Cornwall's first Youth Guarantee Jobs Fair moves hundreds of young people closer to employment",
+      "url": "https://www.gov.uk/government/news/cornwalls-first-youth-guarantee-jobs-fair-moves-hundreds-of-young-people-closer-to-employment",
+      "start_date": "2026-10-30T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Hundreds of young people attended Cornwall\u2019s first Youth Guarantee Jobs Fair to explore opportunities for jobs, apprenticeships, training and work experience at some of the region\u2019s largest businesses.",
+      "organiser": null,
+      "tags": [
+        "workshop"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-10-30T21:54:04.491571+00:00",
+      "last_seen": "2026-10-30T21:54:04.491571+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
