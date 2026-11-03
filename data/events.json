@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T00:24:33.168193+00:00",
-  "total_sources": 932,
+  "updated_at": "2026-11-03T13:30:33.893246+00:00",
+  "total_sources": 935,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -24708,7 +24708,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T04:05:48.339772+00:00",
-      "last_seen": "2026-11-03T00:24:33.048793+00:00",
+      "last_seen": "2026-11-03T13:30:33.723444+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24735,7 +24735,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T12:02:11.429329+00:00",
-      "last_seen": "2026-11-03T00:24:33.048611+00:00",
+      "last_seen": "2026-11-03T13:30:33.723140+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24762,7 +24762,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T12:02:11.430179+00:00",
-      "last_seen": "2026-11-03T00:24:33.048693+00:00",
+      "last_seen": "2026-11-03T13:30:33.723279+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24789,7 +24789,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T21:54:04.490588+00:00",
-      "last_seen": "2026-11-03T00:24:33.048204+00:00",
+      "last_seen": "2026-11-03T13:30:33.722505+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24816,7 +24816,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T21:54:04.491233+00:00",
-      "last_seen": "2026-11-03T00:24:33.048264+00:00",
+      "last_seen": "2026-11-03T13:30:33.722606+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24843,7 +24843,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T21:54:04.491360+00:00",
-      "last_seen": "2026-11-03T00:24:33.048345+00:00",
+      "last_seen": "2026-11-03T13:30:33.722735+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24870,7 +24870,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T21:54:04.491453+00:00",
-      "last_seen": "2026-11-03T00:24:33.048409+00:00",
+      "last_seen": "2026-11-03T13:30:33.722837+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24897,7 +24897,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-30T21:54:04.491571+00:00",
-      "last_seen": "2026-11-03T00:24:33.048492+00:00",
+      "last_seen": "2026-11-03T13:30:33.722963+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24924,7 +24924,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-10-31T03:49:50.052636+00:00",
-      "last_seen": "2026-11-03T00:24:33.048127+00:00",
+      "last_seen": "2026-11-03T13:30:33.722363+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -24978,7 +24978,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-02T04:02:30.901501+00:00",
-      "last_seen": "2026-11-03T00:24:33.047939+00:00",
+      "last_seen": "2026-11-03T13:30:33.722070+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25005,7 +25005,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-02T14:37:31.086544+00:00",
-      "last_seen": "2026-11-03T00:24:33.047679+00:00",
+      "last_seen": "2026-11-03T13:30:33.721688+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25032,7 +25032,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-02T14:37:31.087541+00:00",
-      "last_seen": "2026-11-03T00:24:33.047758+00:00",
+      "last_seen": "2026-11-03T13:30:33.721810+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25059,7 +25059,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-02T14:37:31.087719+00:00",
-      "last_seen": "2026-11-03T00:24:33.047843+00:00",
+      "last_seen": "2026-11-03T13:30:33.721940+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25086,7 +25086,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-02T14:37:31.088068+00:00",
-      "last_seen": "2026-11-03T00:24:33.048040+00:00",
+      "last_seen": "2026-11-03T13:30:33.722232+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25113,7 +25113,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T00:24:33.046989+00:00",
-      "last_seen": "2026-11-03T00:24:33.046989+00:00",
+      "last_seen": "2026-11-03T13:30:33.721274+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25140,7 +25140,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T00:24:33.047474+00:00",
-      "last_seen": "2026-11-03T00:24:33.047474+00:00",
+      "last_seen": "2026-11-03T13:30:33.721435+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25167,7 +25167,88 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T00:24:33.047585+00:00",
-      "last_seen": "2026-11-03T00:24:33.047585+00:00",
+      "last_seen": "2026-11-03T13:30:33.721555+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "b9486e2759f0e5b7",
+      "title": "Maritime Big Play showcases the strength of UKDI investment in AUKUS innovation",
+      "url": "https://www.gov.uk/government/news/maritime-big-play-showcases-the-strength-of-ukdi-investment-in-aukus-innovation",
+      "start_date": "2026-11-03T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Two UKDI funded companies demonstrated their innovations at Maritime Big Play in San Diego last month",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-03T13:30:33.720264+00:00",
+      "last_seen": "2026-11-03T13:30:33.720264+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "cba8b5b87997a00e",
+      "title": "New Co-Chair for Nuclear Decommissioning Authority NGO Forum",
+      "url": "https://www.gov.uk/government/news/new-co-chair-for-nuclear-decommissioning-authority-ngo-forum",
+      "start_date": "2026-11-03T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Richard Outram has been agreed by members as the new co-chair of the NDA NGO Forum.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-03T13:30:33.721011+00:00",
+      "last_seen": "2026-11-03T13:30:33.721011+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c94e0460dfbb89e2",
+      "title": "PM meeting with Prime Minister Mottley of Barbados: 2 November 2026",
+      "url": "https://www.gov.uk/government/news/pm-meeting-with-prime-minister-mottley-of-barbados-2-november-2026",
+      "start_date": "2026-11-03T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Prime Minister met the Prime Minister of Barbados Mia Mottley ahead of the Commonwealth Heads of Government Meeting in Antigua.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-03T13:30:33.721139+00:00",
+      "last_seen": "2026-11-03T13:30:33.721139+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
