@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T04:51:58.447003+00:00",
-  "total_sources": 941,
+  "updated_at": "2026-11-05T13:54:31.231602+00:00",
+  "total_sources": 947,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -25005,7 +25005,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-02T14:37:31.086544+00:00",
-      "last_seen": "2026-11-05T04:51:58.249975+00:00",
+      "last_seen": "2026-11-05T13:54:31.092116+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25032,7 +25032,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-02T14:37:31.087541+00:00",
-      "last_seen": "2026-11-05T04:51:58.250146+00:00",
+      "last_seen": "2026-11-05T13:54:31.092190+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25113,7 +25113,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T00:24:33.046989+00:00",
-      "last_seen": "2026-11-05T04:51:58.249478+00:00",
+      "last_seen": "2026-11-05T13:54:31.091874+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25140,7 +25140,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T00:24:33.047474+00:00",
-      "last_seen": "2026-11-05T04:51:58.249672+00:00",
+      "last_seen": "2026-11-05T13:54:31.091963+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25167,7 +25167,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T00:24:33.047585+00:00",
-      "last_seen": "2026-11-05T04:51:58.249794+00:00",
+      "last_seen": "2026-11-05T13:54:31.092033+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25194,7 +25194,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T13:30:33.720264+00:00",
-      "last_seen": "2026-11-05T04:51:58.249083+00:00",
+      "last_seen": "2026-11-05T13:54:31.091650+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25221,7 +25221,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T13:30:33.721011+00:00",
-      "last_seen": "2026-11-05T04:51:58.249213+00:00",
+      "last_seen": "2026-11-05T13:54:31.091722+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25248,7 +25248,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T13:30:33.721139+00:00",
-      "last_seen": "2026-11-05T04:51:58.249342+00:00",
+      "last_seen": "2026-11-05T13:54:31.091795+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25275,7 +25275,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-03T22:49:28.759729+00:00",
-      "last_seen": "2026-11-05T04:51:58.248896+00:00",
+      "last_seen": "2026-11-05T13:54:31.091570+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25302,7 +25302,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-04T13:42:02.821437+00:00",
-      "last_seen": "2026-11-05T04:51:58.248378+00:00",
+      "last_seen": "2026-11-05T13:54:31.091331+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25329,7 +25329,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-04T13:42:02.822470+00:00",
-      "last_seen": "2026-11-05T04:51:58.248555+00:00",
+      "last_seen": "2026-11-05T13:54:31.091414+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25356,7 +25356,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-04T13:42:02.822643+00:00",
-      "last_seen": "2026-11-05T04:51:58.248733+00:00",
+      "last_seen": "2026-11-05T13:54:31.091492+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25383,7 +25383,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-04T23:08:02.279206+00:00",
-      "last_seen": "2026-11-05T04:51:58.248110+00:00",
+      "last_seen": "2026-11-05T13:54:31.091192+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25410,7 +25410,169 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-05T04:51:58.247015+00:00",
-      "last_seen": "2026-11-05T04:51:58.247015+00:00",
+      "last_seen": "2026-11-05T13:54:31.091101+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "aacd915d36880836",
+      "title": "Law Officers mark 25 years of Pro Bono Week",
+      "url": "https://www.gov.uk/government/news/law-officers-mark-25-years-of-pro-bono-week",
+      "start_date": "2026-11-05T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Attorney General and Solicitor General celebrate the history of pro bono and encourage the next generation of lawyers to volunteer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-05T13:54:31.090111+00:00",
+      "last_seen": "2026-11-05T13:54:31.090111+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6f8dd312bba23039",
+      "title": "Unlocking capital for nature: Office for Investment convenes investors, government and local leaders to drive delivery",
+      "url": "https://www.gov.uk/government/news/unlocking-capital-for-nature-office-for-investment-convenes-investors-government-and-local-leaders-to-drive-delivery",
+      "start_date": "2026-11-05T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Today, the Office for Investment (OfI) convened investors, nature projects and local and national government in Bristol.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-05T13:54:31.090600+00:00",
+      "last_seen": "2026-11-05T13:54:31.090600+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "3340e26cf707b1b6",
+      "title": "UK and Jamaica sign landmark partnership to fast track Hurricane Melissa reconstruction",
+      "url": "https://www.gov.uk/government/news/uk-and-jamaica-sign-landmark-partnership-to-fast-track-hurricane-melissa-reconstruction",
+      "start_date": "2026-11-05T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The United Kingdom and Jamaica have entered into a major 4-year partnership to accelerate national reconstruction.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-05T13:54:31.090703+00:00",
+      "last_seen": "2026-11-05T13:54:31.090703+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ebc504296d0124db",
+      "title": "Government to end 'wild west' e-bike parking with new powers for local leaders",
+      "url": "https://www.gov.uk/government/news/government-to-end-wild-west-e-bike-parking-with-new-powers-for-local-leaders",
+      "start_date": "2026-11-05T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "We are taking action to give local leaders in England the power to stop nuisance e-bike parking, tackle antisocial behaviour and make journeys safer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-05T13:54:31.090797+00:00",
+      "last_seen": "2026-11-05T13:54:31.090797+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ff7838382362607a",
+      "title": "UK engineering firm appointed to deliver major decommissioning project at Dungeness A",
+      "url": "https://www.gov.uk/government/news/uk-engineering-firm-appointed-to-deliver-major-decommissioning-project-at-dungeness-a",
+      "start_date": "2026-11-05T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "NRS has appointed UK supply-chain company Aureos to deliver the next major phase of decommissioning at Dungeness A in Kent, paving the way for the removal of some of the site\u2019s largest remaining structures.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-05T13:54:31.090887+00:00",
+      "last_seen": "2026-11-05T13:54:31.090887+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "21c0d91389111378",
+      "title": "Government announces up to \u00a315 million to bring the joy of reading to 300,000 more young children",
+      "url": "https://www.gov.uk/government/news/government-announces-up-to-15-million-to-bring-the-joy-of-reading-to-300000-more-young-children",
+      "start_date": "2026-11-05T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Up to \u00a315 million announced at Budget for book gifting, to inspire a lifelong love of reading from an early age",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-05T13:54:31.091012+00:00",
+      "last_seen": "2026-11-05T13:54:31.091012+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
