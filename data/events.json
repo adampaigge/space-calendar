@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T04:24:52.720954+00:00",
-  "total_sources": 962,
+  "updated_at": "2026-11-11T13:27:34.667327+00:00",
+  "total_sources": 966,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -25437,7 +25437,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-05T13:54:31.090111+00:00",
-      "last_seen": "2026-11-11T04:24:52.631893+00:00",
+      "last_seen": "2026-11-11T13:27:34.519203+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25464,7 +25464,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-05T13:54:31.090600+00:00",
-      "last_seen": "2026-11-11T04:24:52.631960+00:00",
+      "last_seen": "2026-11-11T13:27:34.519303+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25599,7 +25599,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-07T04:21:23.867914+00:00",
-      "last_seen": "2026-11-11T04:24:52.631798+00:00",
+      "last_seen": "2026-11-11T13:27:34.519059+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25626,7 +25626,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-08T04:03:47.404302+00:00",
-      "last_seen": "2026-11-11T04:24:52.631731+00:00",
+      "last_seen": "2026-11-11T13:27:34.518955+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25653,7 +25653,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-08T12:40:06.917022+00:00",
-      "last_seen": "2026-11-11T04:24:52.631614+00:00",
+      "last_seen": "2026-11-11T13:27:34.518763+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25680,7 +25680,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T04:20:23.492664+00:00",
-      "last_seen": "2026-11-11T04:24:52.631521+00:00",
+      "last_seen": "2026-11-11T13:27:34.518644+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25707,7 +25707,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.902048+00:00",
-      "last_seen": "2026-11-11T04:24:52.631099+00:00",
+      "last_seen": "2026-11-11T13:27:34.518027+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25735,7 +25735,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.902723+00:00",
-      "last_seen": "2026-11-11T04:24:52.631163+00:00",
+      "last_seen": "2026-11-11T13:27:34.518125+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25762,7 +25762,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.902844+00:00",
-      "last_seen": "2026-11-11T04:24:52.631225+00:00",
+      "last_seen": "2026-11-11T13:27:34.518218+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25789,7 +25789,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.902978+00:00",
-      "last_seen": "2026-11-11T04:24:52.631317+00:00",
+      "last_seen": "2026-11-11T13:27:34.518343+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25816,7 +25816,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.903109+00:00",
-      "last_seen": "2026-11-11T04:24:52.631403+00:00",
+      "last_seen": "2026-11-11T13:27:34.518464+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25843,7 +25843,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.903196+00:00",
-      "last_seen": "2026-11-11T04:24:52.631456+00:00",
+      "last_seen": "2026-11-11T13:27:34.518545+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25897,7 +25897,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T14:12:34.068423+00:00",
-      "last_seen": "2026-11-11T04:24:52.630925+00:00",
+      "last_seen": "2026-11-11T13:27:34.517765+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25924,7 +25924,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T14:12:34.068601+00:00",
-      "last_seen": "2026-11-11T04:24:52.631005+00:00",
+      "last_seen": "2026-11-11T13:27:34.517879+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25951,7 +25951,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T22:45:43.624573+00:00",
-      "last_seen": "2026-11-11T04:24:52.630286+00:00",
+      "last_seen": "2026-11-11T13:27:34.517435+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25978,7 +25978,115 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T22:45:43.625597+00:00",
-      "last_seen": "2026-11-11T04:24:52.630785+00:00",
+      "last_seen": "2026-11-11T13:27:34.517571+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ddafa86af21e3259",
+      "title": "Official warning issued to mosque for \u201cinflammatory\u201d comments",
+      "url": "https://www.gov.uk/government/news/official-warning-issued-to-mosque-for-inflammatory-comments",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Charity Commission has issued an official warning to Lewisham Islamic\nCentre to improve its handling of speakers andeventshosted at\nthe charity\u2019s premises",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T13:27:34.516429+00:00",
+      "last_seen": "2026-11-11T13:27:34.516429+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9cdc7bce0cee5524",
+      "title": "New woodland centre takes shape at East Dartmoor and Heaths National Nature Reserve",
+      "url": "https://www.gov.uk/government/news/new-woodland-centre-takes-shape-at-east-dartmoor-and-heaths-national-nature-reserve",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "New off-grid woodland centre is taking root in ancient rainforest. Protecting and enhancing rare woodland for future generations.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T13:27:34.517135+00:00",
+      "last_seen": "2026-11-11T13:27:34.517135+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "da5f08ad120b3add",
+      "title": "Prime Minister hails major investment in UK renewables",
+      "url": "https://www.gov.uk/government/news/prime-minister-hails-major-investment-in-uk-renewables",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Thousands of jobs will be supported as two major offshore wind projects mark progress towards delivering clean homegrown energy for millions of homes, ahead of the Prime Minister\u2019s travel to the COP31 Leaders\u2019 Summit in T\u00fcrk\u2026",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T13:27:34.517266+00:00",
+      "last_seen": "2026-11-11T13:27:34.517266+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "de489c386086b529",
+      "title": "Minister McGovern speech at the Youth Access conference",
+      "url": "https://www.gov.uk/government/speeches/minister-alison-mcgovern-speech-at-the-youth-access-conference",
+      "start_date": "2026-11-10T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Minister for Social Care and Mental Health, Alison McGovern, delivered the keynote speech at the Youth Access conference in Camden.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T13:27:34.517667+00:00",
+      "last_seen": "2026-11-11T13:27:34.517667+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
