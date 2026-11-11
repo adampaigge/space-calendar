@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T13:27:34.667327+00:00",
-  "total_sources": 966,
+  "updated_at": "2026-11-11T23:58:31.476858+00:00",
+  "total_sources": 972,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -25680,7 +25680,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T04:20:23.492664+00:00",
-      "last_seen": "2026-11-11T13:27:34.518644+00:00",
+      "last_seen": "2026-11-11T23:58:31.238822+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25707,7 +25707,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.902048+00:00",
-      "last_seen": "2026-11-11T13:27:34.518027+00:00",
+      "last_seen": "2026-11-11T23:58:31.237967+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25735,7 +25735,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.902723+00:00",
-      "last_seen": "2026-11-11T13:27:34.518125+00:00",
+      "last_seen": "2026-11-11T23:58:31.238097+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25762,7 +25762,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.902844+00:00",
-      "last_seen": "2026-11-11T13:27:34.518218+00:00",
+      "last_seen": "2026-11-11T23:58:31.238225+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25789,7 +25789,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.902978+00:00",
-      "last_seen": "2026-11-11T13:27:34.518343+00:00",
+      "last_seen": "2026-11-11T23:58:31.238395+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25816,7 +25816,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.903109+00:00",
-      "last_seen": "2026-11-11T13:27:34.518464+00:00",
+      "last_seen": "2026-11-11T23:58:31.238579+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25843,7 +25843,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-09T14:59:39.903196+00:00",
-      "last_seen": "2026-11-11T13:27:34.518545+00:00",
+      "last_seen": "2026-11-11T23:58:31.238693+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25897,7 +25897,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T14:12:34.068423+00:00",
-      "last_seen": "2026-11-11T13:27:34.517765+00:00",
+      "last_seen": "2026-11-11T23:58:31.237616+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25924,7 +25924,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T14:12:34.068601+00:00",
-      "last_seen": "2026-11-11T13:27:34.517879+00:00",
+      "last_seen": "2026-11-11T23:58:31.237785+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25951,7 +25951,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T22:45:43.624573+00:00",
-      "last_seen": "2026-11-11T13:27:34.517435+00:00",
+      "last_seen": "2026-11-11T23:58:31.237147+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -25978,7 +25978,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T22:45:43.625597+00:00",
-      "last_seen": "2026-11-11T13:27:34.517571+00:00",
+      "last_seen": "2026-11-11T23:58:31.237324+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26032,7 +26032,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T13:27:34.517135+00:00",
-      "last_seen": "2026-11-11T13:27:34.517135+00:00",
+      "last_seen": "2026-11-11T23:58:31.236780+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26059,7 +26059,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T13:27:34.517266+00:00",
-      "last_seen": "2026-11-11T13:27:34.517266+00:00",
+      "last_seen": "2026-11-11T23:58:31.236934+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26086,7 +26086,169 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T13:27:34.517667+00:00",
-      "last_seen": "2026-11-11T13:27:34.517667+00:00",
+      "last_seen": "2026-11-11T23:58:31.237472+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "da3227b0b6c10785",
+      "title": "Government to stamp illegal deforestation out of UK supply chains",
+      "url": "https://www.gov.uk/government/news/government-to-stamp-illegal-deforestation-out-of-uk-supply-chains",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The government is stepping in to ensure everyday products sold in Great Britain do not drive illegal deforestation around the world.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T23:58:31.234768+00:00",
+      "last_seen": "2026-11-11T23:58:31.234768+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8dd1a53e01998dd8",
+      "title": "Foreign Secretary Ed Miliband's speech at the Clean Energy Transition & Electrification Summit at COP31",
+      "url": "https://www.gov.uk/government/speeches/foreign-secretary-ed-milibands-speech-at-the-clean-energy-transition-electrification-summit-at-cop31",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u2026The Foreign Secretary delivered a speech at the 'Clean Energy Transition & Electrification Summit'eventat COP31 in Antalya on 11 November 2026.\u2026",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T23:58:31.235761+00:00",
+      "last_seen": "2026-11-11T23:58:31.235761+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e35a52f959038fa9",
+      "title": "Foreign Secretary Ed Miliband's speech at the Seizing the Green Industrial Opportunity event at COP31",
+      "url": "https://www.gov.uk/government/speeches/foreign-secretary-ed-milibands-speech-at-the-seizing-the-green-industrial-opportunity-event-at-cop31",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u2026The Foreign Secretary delivered a speech at the 'Seizing the Green Industrial Opportunity: Investment, Jobs, and Growth for Every Economy'eventat COP31 in Antalya on 11 November 2026.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T23:58:31.235978+00:00",
+      "last_seen": "2026-11-11T23:58:31.235978+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "e678acc84c080fd9",
+      "title": "Foreign Secretary Ed Miliband's speech at the World Leaders' Summit on Forests at COP31",
+      "url": "https://www.gov.uk/government/speeches/foreign-secretary-ed-milibands-speech-at-the-world-leaders-summit-on-forests-at-cop31",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "\u2026The Foreign Secretary delivered a speech at the 'World Leaders' Summit on Forests: The Contribution of Forests to Addressing Climate Change'eventat COP31 in Antalya on 11 November 2026.\u2026",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T23:58:31.236199+00:00",
+      "last_seen": "2026-11-11T23:58:31.236199+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "98f07472663e71ab",
+      "title": "DfE Update 11 November 2026",
+      "url": "https://www.gov.uk/government/publications/dfe-update-11-november-2026",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T23:58:31.236404+00:00",
+      "last_seen": "2026-11-11T23:58:31.236404+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "26422b3586fb9ef9",
+      "title": "Official warning issued to charity for \u201cinflammatory\u201d comments",
+      "url": "https://www.gov.uk/government/news/official-warning-issued-to-charity-for-inflammatory-comments",
+      "start_date": "2026-11-11T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Charity Commission has issued an official warning to Lewisham Islamic\nCentre to improve its handling of speakers andeventshosted at\nthe charity\u2019s premises",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-11T23:58:31.236590+00:00",
+      "last_seen": "2026-11-11T23:58:31.236590+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
