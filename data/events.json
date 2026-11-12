@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T06:28:51.863533+00:00",
-  "total_sources": 972,
+  "updated_at": "2026-11-12T19:28:18.810900+00:00",
+  "total_sources": 983,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -25951,7 +25951,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-10T22:45:43.624573+00:00",
-      "last_seen": "2026-11-12T06:28:51.622858+00:00",
+      "last_seen": "2026-11-12T19:28:18.621954+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26032,7 +26032,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T13:27:34.517135+00:00",
-      "last_seen": "2026-11-12T06:28:51.622493+00:00",
+      "last_seen": "2026-11-12T19:28:18.621659+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26059,7 +26059,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T13:27:34.517266+00:00",
-      "last_seen": "2026-11-12T06:28:51.622644+00:00",
+      "last_seen": "2026-11-12T19:28:18.621769+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26113,7 +26113,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T23:58:31.234768+00:00",
-      "last_seen": "2026-11-12T06:28:51.620420+00:00",
+      "last_seen": "2026-11-12T19:28:18.620807+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26140,7 +26140,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T23:58:31.235761+00:00",
-      "last_seen": "2026-11-12T06:28:51.621428+00:00",
+      "last_seen": "2026-11-12T19:28:18.620955+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26167,7 +26167,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T23:58:31.235978+00:00",
-      "last_seen": "2026-11-12T06:28:51.621678+00:00",
+      "last_seen": "2026-11-12T19:28:18.621100+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26194,7 +26194,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T23:58:31.236199+00:00",
-      "last_seen": "2026-11-12T06:28:51.621936+00:00",
+      "last_seen": "2026-11-12T19:28:18.621259+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26221,7 +26221,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T23:58:31.236404+00:00",
-      "last_seen": "2026-11-12T06:28:51.622154+00:00",
+      "last_seen": "2026-11-12T19:28:18.621405+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26248,7 +26248,304 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-11T23:58:31.236590+00:00",
-      "last_seen": "2026-11-12T06:28:51.622307+00:00",
+      "last_seen": "2026-11-12T19:28:18.621519+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "7cb0df4683239922",
+      "title": "Martyn Oliver's speech at the National Children and Adult Services conference",
+      "url": "https://www.gov.uk/government/speeches/martyn-olivers-speech-at-the-national-children-and-adult-services-conference",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Ofsted\u2019s Chief Inspector, Sir Martyn Oliver, spoke at the annual NCAS conference in Liverpool.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.619037+00:00",
+      "last_seen": "2026-11-12T19:28:18.619037+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "064b65bc243802a1",
+      "title": "Defence Secretary Wes Streeting speech at Atlantic Future Forum",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-speech-at-atlantic-future-forum",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Defence Secretary Wes Streeting delivers his Keynote Speech at Atlantic Future Forum in Oslo, Norway.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.619659+00:00",
+      "last_seen": "2026-11-12T19:28:18.619659+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "6ef48f1cfc78f87d",
+      "title": "Clean Energy Jobs Fair held in Birmingham",
+      "url": "https://www.gov.uk/government/news/clean-energy-jobs-fair-held-in-birmingham",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Energy Secretary joins 400 young people at Birmingham Clean Energy Jobs Fair",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.619818+00:00",
+      "last_seen": "2026-11-12T19:28:18.619818+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c3b1d0a1fe5d6169",
+      "title": "Foreign Secretary speech on climate security at COP31",
+      "url": "https://www.gov.uk/government/news/foreign-secretary-speech-on-climate-security-at-cop31",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Foreign Secretary Ed Miliband delivered a speech at the 'Delivering Climate Security in Fragile Contexts' ministerial roundtable at COP31 in Antalya on 12 November 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.619921+00:00",
+      "last_seen": "2026-11-12T19:28:18.619921+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "156ba37b9ac1e862",
+      "title": "Joint statement on civil society and democracy at the OSCE",
+      "url": "https://www.gov.uk/government/speeches/joint-statement-on-civil-society-and-democracy-at-the-osce",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Joint statement by Canada, Denmark, Montenegro, the Netherlands, Sweden and the United Kingdom on the role of civil society in defending democracy and regional security.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.620040+00:00",
+      "last_seen": "2026-11-12T19:28:18.620040+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "107e6a19ed7f5b08",
+      "title": "Minister Doughty Statement to the House of Commons: 12 November 2026",
+      "url": "https://www.gov.uk/government/speeches/minister-doughty-statement-to-the-house-of-commons-12-november-2026",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Minister Doughty statement on the situation in Gaza.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.620157+00:00",
+      "last_seen": "2026-11-12T19:28:18.620157+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "319f5688af8a99e6",
+      "title": "Ukraine set to be focus of EPC summit as UK sanctions Russia's top ten oil producers",
+      "url": "https://www.gov.uk/government/news/ukraine-set-to-be-focus-of-epc-summit-as-uk-sanctions-russias-top-ten-oil-producers",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Prime Minister Andy Burnham arrives at the European Political Community in Dublin this afternoon following the COP 31 summit in T\u00fcrkiye.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.620240+00:00",
+      "last_seen": "2026-11-12T19:28:18.620240+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "c4d284a24efd7f25",
+      "title": "IBCA Community Update, 12 November 2026",
+      "url": "https://www.gov.uk/government/publications/ibca-community-update-12-november-2026",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Infected Blood Compensation Authority's update that was circulated on 12 November 2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.620357+00:00",
+      "last_seen": "2026-11-12T19:28:18.620357+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "5eb1f79ff254156c",
+      "title": "Written ministerial statement on laying the departmental minute for the new contingent liability arrangements for space activities in orbit",
+      "url": "https://www.gov.uk/government/news/written-ministerial-statement-on-laying-the-departmental-minute-for-the-new-contingent-liability-arrangements-for-space-activities-in-orbit",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "A Departmental Minute is being laid before Parliament today setting out updated contingent liability arrangements arising from new liability and insurance measures announced alongside theSpaceStrategy on 8 September.\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.620440+00:00",
+      "last_seen": "2026-11-12T19:28:18.620440+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "f6d17f8990f6e277",
+      "title": "Safe to Breathe: New competition for rapid toxic gas detection innovation",
+      "url": "https://www.gov.uk/government/news/safe-to-breathe-new-competition-for-rapid-toxic-gas-detection-innovation",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "UKDI seeks technologies that can rapidly detect toxic gases and provide early warning in busy publicspaces",
+      "organiser": null,
+      "tags": [
+        "hackathon"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.620615+00:00",
+      "last_seen": "2026-11-12T19:28:18.620615+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ca1ab785c9ed4f60",
+      "title": "Derailment of a freight train at Barking",
+      "url": "https://www.gov.uk/government/news/derailment-of-a-freight-train-at-barking",
+      "start_date": "2026-11-12T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Investigation into the derailment of a freight train at Barking, Greater London, 23 October 2026.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-12T19:28:18.620717+00:00",
+      "last_seen": "2026-11-12T19:28:18.620717+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
