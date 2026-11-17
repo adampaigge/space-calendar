@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T14:35:27.926863+00:00",
-  "total_sources": 992,
+  "updated_at": "2026-11-17T01:28:54.185306+00:00",
+  "total_sources": 994,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -26275,7 +26275,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.619037+00:00",
-      "last_seen": "2026-11-16T14:35:27.827477+00:00",
+      "last_seen": "2026-11-17T01:28:54.067363+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26302,7 +26302,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.619659+00:00",
-      "last_seen": "2026-11-16T14:35:27.827555+00:00",
+      "last_seen": "2026-11-17T01:28:54.067454+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26329,7 +26329,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.619818+00:00",
-      "last_seen": "2026-11-16T14:35:27.827619+00:00",
+      "last_seen": "2026-11-17T01:28:54.067534+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26356,7 +26356,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.619921+00:00",
-      "last_seen": "2026-11-16T14:35:27.827674+00:00",
+      "last_seen": "2026-11-17T01:28:54.067619+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26383,7 +26383,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.620040+00:00",
-      "last_seen": "2026-11-16T14:35:27.827755+00:00",
+      "last_seen": "2026-11-17T01:28:54.067724+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26410,7 +26410,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.620157+00:00",
-      "last_seen": "2026-11-16T14:35:27.827838+00:00",
+      "last_seen": "2026-11-17T01:28:54.067825+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26437,7 +26437,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.620240+00:00",
-      "last_seen": "2026-11-16T14:35:27.827901+00:00",
+      "last_seen": "2026-11-17T01:28:54.067893+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26464,7 +26464,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.620357+00:00",
-      "last_seen": "2026-11-16T14:35:27.827980+00:00",
+      "last_seen": "2026-11-17T01:28:54.067991+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26491,7 +26491,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-12T19:28:18.620440+00:00",
-      "last_seen": "2026-11-16T14:35:27.828036+00:00",
+      "last_seen": "2026-11-17T01:28:54.068059+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26572,7 +26572,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-13T04:47:55.018239+00:00",
-      "last_seen": "2026-11-16T14:35:27.827318+00:00",
+      "last_seen": "2026-11-17T01:28:54.067168+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26599,7 +26599,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-13T04:47:55.019200+00:00",
-      "last_seen": "2026-11-16T14:35:27.827375+00:00",
+      "last_seen": "2026-11-17T01:28:54.067236+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26626,7 +26626,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-13T13:49:52.515179+00:00",
-      "last_seen": "2026-11-16T14:35:27.827075+00:00",
+      "last_seen": "2026-11-17T01:28:54.066870+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26653,7 +26653,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-13T13:49:52.516017+00:00",
-      "last_seen": "2026-11-16T14:35:27.827151+00:00",
+      "last_seen": "2026-11-17T01:28:54.066963+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26680,7 +26680,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-13T13:49:52.516176+00:00",
-      "last_seen": "2026-11-16T14:35:27.827232+00:00",
+      "last_seen": "2026-11-17T01:28:54.067060+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26707,7 +26707,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-14T04:41:44.238379+00:00",
-      "last_seen": "2026-11-16T14:35:27.826988+00:00",
+      "last_seen": "2026-11-17T01:28:54.066762+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26734,7 +26734,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-14T12:53:35.675470+00:00",
-      "last_seen": "2026-11-16T14:35:27.826911+00:00",
+      "last_seen": "2026-11-17T01:28:54.066664+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26761,7 +26761,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-16T14:35:27.826321+00:00",
-      "last_seen": "2026-11-16T14:35:27.826321+00:00",
+      "last_seen": "2026-11-17T01:28:54.066407+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -26788,7 +26788,61 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-16T14:35:27.826790+00:00",
-      "last_seen": "2026-11-16T14:35:27.826790+00:00",
+      "last_seen": "2026-11-17T01:28:54.066494+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "110f1ea127071785",
+      "title": "PM speech at the Lord Mayor's Banquet: 16 November 2026",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-at-the-lord-mayors-banquet-16-november-2026",
+      "start_date": "2026-11-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Prime Minister Andy Burnham delivers a speech to the Lord Mayor's Banquet.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-17T01:28:54.065696+00:00",
+      "last_seen": "2026-11-17T01:28:54.065696+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9765fb4e890feab8",
+      "title": "King opens new National Cyber Force HQ boosting North West growth",
+      "url": "https://www.gov.uk/government/news/king-opens-new-national-cyber-force-hq-boosting-north-west-growth",
+      "start_date": "2026-11-16T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "His Majesty King Charles III has officially opened Ribble House, the National Cyber Force\u2019s (NCF) new headquarters in Samlesbury, Lancashire.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-17T01:28:54.066273+00:00",
+      "last_seen": "2026-11-17T01:28:54.066273+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
