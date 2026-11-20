@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T00:13:04.473039+00:00",
-  "total_sources": 1024,
+  "updated_at": "2026-11-20T14:48:01.404385+00:00",
+  "total_sources": 1029,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -27248,7 +27248,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T05:40:42.455577+00:00",
-      "last_seen": "2026-11-20T00:13:04.300206+00:00",
+      "last_seen": "2026-11-20T14:48:01.138965+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27275,7 +27275,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T05:40:42.456171+00:00",
-      "last_seen": "2026-11-20T00:13:04.300344+00:00",
+      "last_seen": "2026-11-20T14:48:01.139165+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27302,7 +27302,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T15:07:46.616726+00:00",
-      "last_seen": "2026-11-20T00:13:04.299193+00:00",
+      "last_seen": "2026-11-20T14:48:01.137737+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27329,7 +27329,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T15:07:46.617326+00:00",
-      "last_seen": "2026-11-20T00:13:04.299339+00:00",
+      "last_seen": "2026-11-20T14:48:01.137940+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27356,7 +27356,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T15:07:46.617459+00:00",
-      "last_seen": "2026-11-20T00:13:04.299479+00:00",
+      "last_seen": "2026-11-20T14:48:01.138159+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27383,7 +27383,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T15:07:46.617537+00:00",
-      "last_seen": "2026-11-20T00:13:04.299575+00:00",
+      "last_seen": "2026-11-20T14:48:01.138294+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27410,7 +27410,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T15:07:46.617686+00:00",
-      "last_seen": "2026-11-20T00:13:04.299741+00:00",
+      "last_seen": "2026-11-20T14:48:01.138532+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27464,7 +27464,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T15:07:46.617868+00:00",
-      "last_seen": "2026-11-20T00:13:04.299978+00:00",
+      "last_seen": "2026-11-20T14:48:01.138663+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27491,7 +27491,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-19T15:07:46.617935+00:00",
-      "last_seen": "2026-11-20T00:13:04.300070+00:00",
+      "last_seen": "2026-11-20T14:48:01.138785+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27518,7 +27518,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-20T00:13:04.297876+00:00",
-      "last_seen": "2026-11-20T00:13:04.297876+00:00",
+      "last_seen": "2026-11-20T14:48:01.136762+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27545,7 +27545,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-20T00:13:04.298504+00:00",
-      "last_seen": "2026-11-20T00:13:04.298504+00:00",
+      "last_seen": "2026-11-20T14:48:01.136909+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27572,7 +27572,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-20T00:13:04.298679+00:00",
-      "last_seen": "2026-11-20T00:13:04.298679+00:00",
+      "last_seen": "2026-11-20T14:48:01.137055+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27599,7 +27599,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-20T00:13:04.298810+00:00",
-      "last_seen": "2026-11-20T00:13:04.298810+00:00",
+      "last_seen": "2026-11-20T14:48:01.137247+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27626,7 +27626,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-20T00:13:04.298927+00:00",
-      "last_seen": "2026-11-20T00:13:04.298927+00:00",
+      "last_seen": "2026-11-20T14:48:01.137402+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -27653,7 +27653,142 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-20T00:13:04.299101+00:00",
-      "last_seen": "2026-11-20T00:13:04.299101+00:00",
+      "last_seen": "2026-11-20T14:48:01.137617+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "19d6f4035fd656f6",
+      "title": "Major boost to local housing and regeneration ambitions as regional leaders strengthen co-delivery ties with Homes England and National Housing Bank",
+      "url": "https://www.gov.uk/government/news/major-boost-to-local-housing-and-regeneration-ambitions-as-regional-leaders-strengthen-co-delivery-ties-with-homes-england-and-national-housing-bank",
+      "start_date": "2026-11-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Mayors and leaders central to new wave of Place Delivery Agreements that back local priorities through joint commitments, resources and expertise.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-20T14:48:01.135040+00:00",
+      "last_seen": "2026-11-20T14:48:01.135040+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a7b16028873d821e",
+      "title": "UK and Kenya celebrate a landmark year for sport at King's Birthday Party in Nairobi",
+      "url": "https://www.gov.uk/government/news/uk-and-kenya-celebrate-a-landmark-year-for-sport-at-kings-birthday-party-in-nairobi",
+      "start_date": "2026-11-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The British High Commission in Nairobi celebrated His Majesty The King\u2019s Birthday by highlighting the strong sporting partnership between Kenya and the UK.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-20T14:48:01.136075+00:00",
+      "last_seen": "2026-11-20T14:48:01.136075+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "dd6f2df9968114e1",
+      "title": "Regeneration of Birmingham's creative quarter continues at pace as Homes England launches search for new development partner",
+      "url": "https://www.gov.uk/government/news/regeneration-of-birminghams-creative-quarter-continues-at-pace-as-homes-england-launches-search-for-new-development-partner",
+      "start_date": "2026-11-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "New partner will deliver transformational housing-led regeneration with up to 2,200 new homes at Warwick Bar, Digbeth.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-20T14:48:01.136297+00:00",
+      "last_seen": "2026-11-20T14:48:01.136297+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "2b54bd911cd8bd0c",
+      "title": "Flood warning service expanded in Tewkesbury area",
+      "url": "https://www.gov.uk/government/news/flood-warning-service-expanded-in-tewkesbury-area",
+      "start_date": "2026-11-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Environment Agency has launched 3 new flood warning areas for Tewkesbury in Gloucestershire. This free service will benefit 261 properties.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-20T14:48:01.136470+00:00",
+      "last_seen": "2026-11-20T14:48:01.136470+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "ea55b78bd6d73d10",
+      "title": "UK celebrates King's birthday in Islamabad with a night of British and Pakistani design",
+      "url": "https://www.gov.uk/government/news/uk-celebrates-kings-birthday-in-islamabad-with-a-night-of-british-and-pakistani-design",
+      "start_date": "2026-11-20T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "British and Pakistani design share the stage, showing how creativity can help businesses grow and create jobs in both countries.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-20T14:48:01.136612+00:00",
+      "last_seen": "2026-11-20T14:48:01.136612+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
