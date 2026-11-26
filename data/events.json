@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T01:28:48.159311+00:00",
-  "total_sources": 1055,
+  "updated_at": "2026-11-26T16:15:54.400405+00:00",
+  "total_sources": 1064,
   "events": [
     {
       "id": "9ef3c839c0a5b948",
@@ -28139,7 +28139,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-24T16:53:39.653993+00:00",
-      "last_seen": "2026-11-26T01:28:48.004358+00:00",
+      "last_seen": "2026-11-26T16:15:54.256695+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28166,7 +28166,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-24T16:53:39.654980+00:00",
-      "last_seen": "2026-11-26T01:28:48.004452+00:00",
+      "last_seen": "2026-11-26T16:15:54.256785+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28274,7 +28274,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-25T01:51:40.323296+00:00",
-      "last_seen": "2026-11-26T01:28:48.004012+00:00",
+      "last_seen": "2026-11-26T16:15:54.256346+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28301,7 +28301,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-25T01:51:40.324293+00:00",
-      "last_seen": "2026-11-26T01:28:48.004110+00:00",
+      "last_seen": "2026-11-26T16:15:54.256458+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28328,7 +28328,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-25T01:51:40.324470+00:00",
-      "last_seen": "2026-11-26T01:28:48.004205+00:00",
+      "last_seen": "2026-11-26T16:15:54.256557+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28355,7 +28355,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-25T16:42:25.864487+00:00",
-      "last_seen": "2026-11-26T01:28:48.003622+00:00",
+      "last_seen": "2026-11-26T16:15:54.255981+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28382,7 +28382,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-25T16:42:25.865034+00:00",
-      "last_seen": "2026-11-26T01:28:48.003695+00:00",
+      "last_seen": "2026-11-26T16:15:54.256046+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28409,7 +28409,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-25T16:42:25.865151+00:00",
-      "last_seen": "2026-11-26T01:28:48.003793+00:00",
+      "last_seen": "2026-11-26T16:15:54.256138+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28436,7 +28436,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-25T16:42:25.865270+00:00",
-      "last_seen": "2026-11-26T01:28:48.003909+00:00",
+      "last_seen": "2026-11-26T16:15:54.256246+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28463,7 +28463,7 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-26T01:28:48.002884+00:00",
-      "last_seen": "2026-11-26T01:28:48.002884+00:00",
+      "last_seen": "2026-11-26T16:15:54.255771+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
@@ -28490,7 +28490,250 @@
       "online": false,
       "confidence": 0.8999999999999999,
       "first_seen": "2026-11-26T01:28:48.003508+00:00",
-      "last_seen": "2026-11-26T01:28:48.003508+00:00",
+      "last_seen": "2026-11-26T16:15:54.255886+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "46d7f1a42cec342a",
+      "title": "International Day for the Elimination of Violence Against Women and Girls 2026: Joint statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/international-day-for-the-elimination-of-violence-against-women-and-girls-2026-joint-statement-to-the-osce",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Speaking on behalf of 42 participating States, Ambassador Holland marks the 2026 International Day for the Elimination of Violence against Women and Girls and the beginning of the 16 Days of Activism against Gender-Based Vio\u2026",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.254297+00:00",
+      "last_seen": "2026-11-26T16:15:54.254297+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "8a6562a5918b0e39",
+      "title": "Councils given greater certainty to plan vital local services",
+      "url": "https://www.gov.uk/government/news/councils-given-greater-certainty-to-plan-vital-local-services",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Government confirms that \u00a380 billion is available for councils in the second year of the existing three-year settlement, supporting crucial local services",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.254970+00:00",
+      "last_seen": "2026-11-26T16:15:54.254970+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "a18514f397aa2b91",
+      "title": "Minister Smyth speech at the NHS Alliance Autumn Conference",
+      "url": "https://www.gov.uk/government/speeches/minister-smyth-speech-at-the-nhs-alliance-autumn-conference",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The Minister of State for Health made a speech at the NHS Alliance Autumn conference, the theme of which was Turning Ambition Into Action.",
+      "organiser": null,
+      "tags": [
+        "conference"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.255090+00:00",
+      "last_seen": "2026-11-26T16:15:54.255090+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "0e234dce94f4193e",
+      "title": "Certification Officer: Announcements",
+      "url": "https://www.gov.uk/government/news/certification-officer-announcements--2",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "General announcements and latest decisions of the Certification Officer.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.255185+00:00",
+      "last_seen": "2026-11-26T16:15:54.255185+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "44b9a6f5284ebdba",
+      "title": "Tariffs cut to give breathing space to families with the food shop",
+      "url": "https://www.gov.uk/government/news/tariffs-cut-to-give-breathing-space-to-families-with-the-food-shop",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Families will benefit from lower costs on everyday essentials as the government suspends tariffs on more than 100 products.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.255251+00:00",
+      "last_seen": "2026-11-26T16:15:54.255251+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "856cbc411f822c2d",
+      "title": "Independent review of culture at the Information Commission launched",
+      "url": "https://www.gov.uk/government/news/independent-review-of-culture-at-the-information-commission-launched",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "Karon Monaghan KC will lead an independent review of the Information Commission\u2019s culture, accountability and governance.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.255344+00:00",
+      "last_seen": "2026-11-26T16:15:54.255344+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "9df78ff228841b13",
+      "title": "Working with social science experts to shape electricity grid transformation",
+      "url": "https://www.gov.uk/government/case-studies/working-with-social-science-experts-to-shape-electricity-grid-transformation",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "How the Government Office for Science brought together academics, practitioners and policymakers to help put people at the centre of energy system change.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.255464+00:00",
+      "last_seen": "2026-11-26T16:15:54.255464+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "07c4359cddd288c7",
+      "title": "Research and innovation devolution",
+      "url": "https://www.gov.uk/government/publications/research-and-innovation-devolution",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "This letter provides advice to the Prime Minister and Cabinet on approaches to the devolution of UK research and innovation.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.255571+00:00",
+      "last_seen": "2026-11-26T16:15:54.255571+00:00",
+      "all_source_ids": [
+        "ukspaceagency"
+      ],
+      "all_source_names": [
+        "UK Space Agency"
+      ]
+    },
+    {
+      "id": "d1ade515593de5ae",
+      "title": "UK and Somalia celebrate friendship and Somali-led climate action at King\u2019s Birthday Party",
+      "url": "https://www.gov.uk/government/news/uk-and-somalia-celebrate-friendship-and-somali-led-climate-action-at-kings-birthday-party",
+      "start_date": "2026-11-26T00:00:00+00:00",
+      "end_date": null,
+      "location": null,
+      "description": "The King's Birthday Party in Mogadishu celebrated UK-Somalia friendship and showcased partnerships helping Somali communities build climate resilience.",
+      "organiser": null,
+      "tags": [
+        "other"
+      ],
+      "country": "GB",
+      "source_id": "ukspaceagency",
+      "source_name": "UK Space Agency",
+      "source_url": "https://www.gov.uk/search/news-and-communications?keywords=space+event&content_store_document_type=press_release,news_story",
+      "online": false,
+      "confidence": 0.8999999999999999,
+      "first_seen": "2026-11-26T16:15:54.255649+00:00",
+      "last_seen": "2026-11-26T16:15:54.255649+00:00",
       "all_source_ids": [
         "ukspaceagency"
       ],
